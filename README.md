@@ -1,3 +1,3 @@
-Speech And Language Processing Lab @ Korea University
+# Speech And Language Processing Lab @ Korea University
 
 # slp-laboratory.github.io
