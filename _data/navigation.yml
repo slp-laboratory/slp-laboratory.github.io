@@ -12,6 +12,8 @@ main:
     url: /patents/
   - title: "Projects"
     url: /projects/
+  - title: "Courses"
+    url: /courses/
   - title: "News"
     url: /news/
 
