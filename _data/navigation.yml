@@ -2,7 +2,7 @@
 main:
   - title: "Members"
     url: /members/
-  - title: "Research area"
+  - title: "Research Area"
     url: /research_area/
   - title: "Papers"
     url: /papers/
