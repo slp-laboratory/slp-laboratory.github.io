@@ -107,7 +107,7 @@ author:
   #name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
     #bio              : "I am an **amazing** person."
-  location         : "Seoul, Republic of Korea"
+  location         : # "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
