@@ -1,6 +1,6 @@
 ---
 permalink: /about_the_lab/
-title: "About Myself"
+title: "About the Lab."
 toc: true
 sidebar:
   nav: "docs"
@@ -75,7 +75,7 @@ For papers refer to the following Google Scholar link:
 
  - Google, Senior Software Engineer, Google Speech, Mountain View, CA, USA\
    (Feb. 19th, 2013 ~ Feb. 18th, 2018)
- 
+
  - Microsoft, Speech Scientist, Redmond, WA, USA\
    (Jan. 4th, 2011 ~ Jan. 30th, 2013)
 
@@ -108,7 +108,7 @@ For papers refer to the following Google Scholar link:
   - Samsung cloud neural Text-To-Speech (TTS) for Bixby
   - Speech pre-processing and wakeup for Galaxy Home Mini.
   - Speech pre-processing for Room Air Conditioners
-  - Sound Event Detection engine for Samsung Robot Vacuum Cleaners. 
+  - Sound Event Detection engine for Samsung Robot Vacuum Cleaners.
   - Data-augmentation for speech recognition used in Google Home and Google Voice Search
   - Acoustic Modeling (AM) of Google speech recognition systems for Google
     Assistants and Google Voice
@@ -128,4 +128,4 @@ Communication, and so on.
 ### Short Biography
 
 
-Chanwoo Kim has been a corporate executive vice president at Samsung research leading the language and voice team. He joined Samsung research as a corporate vice president heading the speech processing Lab in Feb. 2018. He has been leading research on end-to-end speech recognition, end-to-end text-to-speech (TTS), machine translation, Natural Language Understanding (NLU), Language Modeling (LM) and Question Answering (QA), speech enhancement, key-word spotting, and so on at Samsung Research. Most of these research outcomes have been commercialized for Samsung products. He was a software engineer at the Google speech team between Feb. 2013 and Feb. 2018. He worked for acoustic modeling for speech recognition systems and enhancing noise robustness using deep learning techniques. While working for Google, he contributed to data-augmentation and acoustic modeling of Google speech recognition systems. He contributed to the commercialization of various Google AI speakers and google speech recognition systems. He was a speech scientist at Microsoft from Jan. 2011 to Jan. 2013. Dr. Kim received his Ph. D. from the Language Technologies Institute of School of Computer Science Carnegie Mellon University in Dec. 2010. He received his B.S and M.S. degrees in Electrical Engineering from Seoul National University in 1998 and 2001, respectively. Dr. Kim’s doctoral research was focused on enhancing the robustness of automatic speech recognition systems in noisy environments. Between 2003 and 2005 Dr. Kim was a Senior Research Engineer at LG Electronics, where he worked primarily on embedded signal processing and protocol stacks for multimedia systems. Prior to his employment at LG, he worked for EdumediaTek and SK Teletech as an R&D engineer. 
+Chanwoo Kim has been a corporate executive vice president at Samsung research leading the language and voice team. He joined Samsung research as a corporate vice president heading the speech processing Lab in Feb. 2018. He has been leading research on end-to-end speech recognition, end-to-end text-to-speech (TTS), machine translation, Natural Language Understanding (NLU), Language Modeling (LM) and Question Answering (QA), speech enhancement, key-word spotting, and so on at Samsung Research. Most of these research outcomes have been commercialized for Samsung products. He was a software engineer at the Google speech team between Feb. 2013 and Feb. 2018. He worked for acoustic modeling for speech recognition systems and enhancing noise robustness using deep learning techniques. While working for Google, he contributed to data-augmentation and acoustic modeling of Google speech recognition systems. He contributed to the commercialization of various Google AI speakers and google speech recognition systems. He was a speech scientist at Microsoft from Jan. 2011 to Jan. 2013. Dr. Kim received his Ph. D. from the Language Technologies Institute of School of Computer Science Carnegie Mellon University in Dec. 2010. He received his B.S and M.S. degrees in Electrical Engineering from Seoul National University in 1998 and 2001, respectively. Dr. Kim’s doctoral research was focused on enhancing the robustness of automatic speech recognition systems in noisy environments. Between 2003 and 2005 Dr. Kim was a Senior Research Engineer at LG Electronics, where he worked primarily on embedded signal processing and protocol stacks for multimedia systems. Prior to his employment at LG, he worked for EdumediaTek and SK Teletech as an R&D engineer.

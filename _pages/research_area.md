@@ -1,6 +1,6 @@
 ---
-permalink: /members/
-title: "Members""
+permalink: /research_area/
+title: "Research areas"
 toc: true
 #sidebar:
 #  nav: "docs"
