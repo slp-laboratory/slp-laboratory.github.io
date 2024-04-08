@@ -1,6 +1,6 @@
 ---
-permalink: /members/
-title: "Members""
+permalink: /projects/
+title: "Projects""
 toc: true
 #sidebar:
 #  nav: "docs"

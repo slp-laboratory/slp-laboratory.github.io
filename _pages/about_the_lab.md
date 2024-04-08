@@ -1,5 +1,5 @@
 ---
-permalink: /about_myself/
+permalink: /about_the_lab/
 title: "About Myself"
 toc: true
 sidebar:
