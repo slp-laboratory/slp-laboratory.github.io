@@ -1,5 +1,5 @@
 ---
-permalink: /members/
+permalink: /papers/
 title: "Members""
 toc: true
 #sidebar:
