@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects""
+title: "Projects"
 toc: true
 #sidebar:
 #  nav: "docs"

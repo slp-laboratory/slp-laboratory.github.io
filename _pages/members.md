@@ -1,6 +1,6 @@
 ---
 permalink: /members/
-title: "Members""
+title: "Members"
 toc: true
 #sidebar:
 #  nav: "docs"
