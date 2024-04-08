@@ -5,4 +5,11 @@ toc: true
 #sidebar:
 #  nav: "docs"
 ---
-Members will be added here.
+
+---
+Spring 2024
+
+ - XAI509
+ - XAI604
+
+---
