@@ -7,6 +7,6 @@ sidebar:
 ---
 
 ## History
- - Two masters student joined the Lab.
- - Speech and Langauge Processing Lab. was created in March 2024 at Korea University.
+ - Two masters students joined the Lab (2024/3).
+ - Speech and Langauge Processing Lab. was created in March 2024 at Korea University (2024/3).
 
