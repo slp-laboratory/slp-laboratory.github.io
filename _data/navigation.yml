@@ -1,18 +1,18 @@
 # main links
 main:
+  - title: "Home"
+    url: /home/
+  - title: "Professsor"
+    url: /professor/
   - title: "Members"
     url: /members/
-  - title: "Research Area"
-    url: /research_area/
-  - title: "Papers"
-    url: /papers/
-  - title: "Patents"
-    url: /patents/
+  - title: "Publications"
+    url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Courses"
-    url: /courses/
+  - title: "Research Area"
+    url: /research_area/
   - title: "News"
     url: /news/
-  - title: "About the Lab."
-    url: /about_the_lab/
+  - title: "Contact"
+    url: /contact/
