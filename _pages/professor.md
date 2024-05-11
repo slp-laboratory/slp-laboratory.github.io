@@ -24,7 +24,7 @@ toc: true
 <div class="professor-card">
   <img src="../assets/images/professor.PNG" alt="Prof. Chan-Woo Kim">
   <div class="info">
-    <h1>Prof. Chan-Woo Kim</h1>
+    <h1>Prof. Chanwoo Kim</h1>
     <!-- <p><strong>Professor</strong><br> -->
     <strong>Dept. of Artificial Intelligence, Korea University</strong><br><br>
     <p><strong>Address:</strong> Anam-dong, Seungbuk-gu, Seoul, Korea (02841)<br>
@@ -35,22 +35,21 @@ toc: true
   <div style="clear: both;"></div>
   <h2>Education</h2>
   <ul>
-    <li>Ph.D - Language Technologies Institute, School of Computer Science Carnegie Mellon University (PA), US, 2010</li>
+    <li>Ph.D - Language Technologies Institute, School of Computer Science, Carnegie Mellon University (PA), US, 2010</li>
     <li>M.S - School of Electrical Engineering and Computer Science, Seoul National University, KR, 2001</li>
     <li>B.S - School of Electrical Engineering, Seoul National University, KR, 1998</li>
     <li>Seoul Science High School, KR, 1994</li>
   </ul>
   <h2>Experiences</h2>
   <ul>
-    <li><strong>2024-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, KR</li>
-    <li><strong>2021-2024</strong> : Executive Vice President(EVP), Samsung Research, KR</li>
-    <li><strong>2018-2024</strong> : Head of Voice & Language Team, Samsung Research, KR</li>
-    <li><strong>2013-2018</strong> : Senior Software Engineer, Google Speech (CA), US</li>
-    <li><strong>2011-2013</strong> : Speech Scientist, Microsoft Speech (WA), US</li>
-    <li><strong>2003-2005</strong> : Senior Research Engineer, VoIP Phone Conference Call Development Team Leader, LG Electronics, KR</li>
-    <li><strong>2003-2005</strong> : Research Engineer, SK Teletech, KR</li>
-    <li><strong>2020-2002</strong> : Research Engineer, A research venture company established by Prof. Wonyong Sung at Seoul National University,
-Edumediatek, KR</li>
+    <li><strong>2024/01-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, KR</li>
+    <li><strong>2018/02-2023/12</strong> : Executive Vice President (EVP), Samsung Research, KR</li>
+    <li><strong>2018/02-2023/12</strong> : Head of Voice &amp; Language Team, Samsung Research, KR</li>
+    <li><strong>2013/02-2018/02</strong> : Senior Software Engineer, Google Speech, Moutain View, CA, USA</li>
+    <li><strong>2011/01-2013/01</strong> : Speech Scientist, Microsoft Speech, Redmond, WA, USA , US</li>
+    <li><strong>2003/06-2005/08</strong> : Senior Research Engineer, LG Electronics, KR</li>
+    <li><strong>2003/03-2003/05</strong> : Research Engineer, SK Teletech, KR</li>
+    <li><strong>2000-2002</strong> : Research Engineer, EdumediaTek, KR </li>
   </ul>
   <h2>Courses</h2>
   <div class="semester">2024 Spring</div>
@@ -64,10 +63,10 @@ Edumediatek, KR</li>
   </ul>
   <h2>Awards</h2>
   <ul>
-    <li><strong>2016.12 : Google spot bonus</strong>, Acoustic modeling for Google Home.</li>
-    <li><strong>2014.01 : Google peer bonus</strong>, Member of the summit squad for the Google Pittsburgh Ph. D. summit
-2014.</li>
-    <li><strong>2013.12 : Google peer bonus</strong>, Design and implementation of the room simulator and robustness training
+      <li><strong> IEEE Spectrum article about Dr. Chanwoo Kim's engineering career (https://spectrum.ieee.org/chanwoo-kim-profile) </strong> </li>
+      <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new
+          68 EVPs for contribution to on-device end-to-end speech recognition </li>
+    <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</li>
 and evaluation using it.</li>
     <li><strong>2011.02 : 17-th Samsung Humantech Thesis Bronze prize</strong>, ”Power-Normalized
 cepstral coefficients for robust speech recognition”.</li>
