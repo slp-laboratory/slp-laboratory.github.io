@@ -60,13 +60,13 @@ toc: true
 
   <h2>Awards</h2>
   <ul>
-      <li><strong>  <a href="https://spectrum.ieee.org/chanwoo-kim-profile">IEEE Spectrum article about Dr. Chanwoo Kim's engineering career </a>) </strong> </li>
+      <li><strong>  IEEE Spectrum profile article about Dr. Chanwoo Kim's engineering career <a href="https://spectrum.ieee.org/chanwoo-kim-profile">Article </a> </strong> </li>
       <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new 68 EVPs for contribution to on-device end-to-end speech recognition </strong></li>
-    <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</li>
+    <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</strong></li>
 and evaluation using it.</li>
-    <li><strong>2011.02 : 17-th Samsung Humantech Thesis Bronze prize</strong>, ”Power-Normalized
+    <li><strong>2011.02 : 17-th Samsung Humantech Thesis Bronze prize (1st author)</strong>, ”Power-Normalized
 cepstral coefficients for robust speech recognition”.</li>
-    <li><strong>2010.02 : 16-th Samsung Hamantech Thesis Honour prize</strong>, ”Small power boosting
+    <li><strong>2010.02 : 16-th Samsung Hamantech Thesis Honour prize (1st author)</strong>, ”Small power boosting
 and spectral subtraction for robust speech recognition”.</li>
     <li><strong>2005.07 : Scholarship for studying abroad 2005 - 2006</strong>, Korea Institute of Energy Evaluation and Planning.</li>
     <li><strong>2005.01 : Research fellowship for Ph. D. study</strong>, 2005 - 2010, Carnegie Mellon University.</li>
@@ -75,4 +75,3 @@ and spectral subtraction for robust speech recognition”.</li>
 </div>
 </body>
 </html>
-
