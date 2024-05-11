@@ -77,7 +77,7 @@ toc: true
       <li>Develop models to predict the probability of sequences of words, enhancing the fluency and accuracy of generated text and speech.</li>
       <li>Create synthetic speech that sounds natural by manipulating tone, intonation, and rhythm.</li>
     </ul>
-  </div>  
+  </div>
   <div class="image">
     <img src="../assets/images/research_area/speech.PNG" alt="Speech">
   </div>

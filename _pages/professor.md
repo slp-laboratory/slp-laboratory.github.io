@@ -57,15 +57,11 @@ toc: true
     <li>XAI509 Automatic Speech Recognition</li>
     <li>XAI604 Automatic Speech Recognition Application And Practice</li>
   </ul>
-  <h2>Grant Funding</h2>
-  <ul>
-    <li><strong>2024.03~2025.03</strong> Collaborator, "Project Name", supported by <strong>TestWorks</strong></li>
-  </ul>
+
   <h2>Awards</h2>
   <ul>
-      <li><strong> IEEE Spectrum article about Dr. Chanwoo Kim's engineering career (https://spectrum.ieee.org/chanwoo-kim-profile) </strong> </li>
-      <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new
-          68 EVPs for contribution to on-device end-to-end speech recognition </li>
+      <li><strong>  <a href="https://spectrum.ieee.org/chanwoo-kim-profile">IEEE Spectrum article about Dr. Chanwoo Kim's engineering career </a>) </strong> </li>
+      <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new 68 EVPs for contribution to on-device end-to-end speech recognition </strong></li>
     <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</li>
 and evaluation using it.</li>
     <li><strong>2011.02 : 17-th Samsung Humantech Thesis Bronze prize</strong>, ”Power-Normalized
