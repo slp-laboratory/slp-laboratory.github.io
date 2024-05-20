@@ -106,7 +106,7 @@ toc: true
 </div><br><br>
 <div>
   <h1>Full List of Publications</h1><hr>
-  <p>Papers will added here.</p>
+  <p>The website is under construction. Please visit the Google Scholar page for the entire paper list for the time being. <a href=https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao"> Link to the Google Scholar Page</a>" </p>
 </div><br>
 <div>
   <h1>Patents</h1><hr>
