@@ -99,7 +99,15 @@ toc: true
     <p>Jinhwan Park, Sichen Jin, Junmo Park, Sungsoo Kim, Dhairya Sandhyana, Changheon Lee, Myoungji Han, Jungin Lee, Seokyeong Jung, Changwoo Han, Chanwoo Kim
     </p>
     <ul>
-      <li><span class="red-text">(SLT, 2022)</span> IEEE Spoken Language Technology Workshop</li>
+      <li><span class="red-text">(SLT, 2022)</span> 2022 IEEE Spoken Language Technology Workshop</li>
+    </ul>
+  </div>
+  <div class="card">
+    <img src="../assets/images/paper/macro.PNG" alt="Hierarchical">
+    <h2>Macro-Block Dropout for Improved Regularization in Training End-to-End Speech Recognition Models</h2>
+    <p>Chanwoo Kim, Sathish Indurti, Jinhwan Park, Wonyong Sung</p>
+    <ul>
+      <li><span class="red-text">(SLT, 2022)</span> 2022 IEEE Spoken Language Technology Workshop</li>
     </ul>
   </div>
   <!-- Add more cards as necessary -->
