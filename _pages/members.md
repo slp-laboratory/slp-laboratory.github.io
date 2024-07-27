@@ -82,9 +82,9 @@ toc: true
       <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
       <div class="info">
         <div class="name">En-seo Choi (최은서)</div>
-        <div class="email"><strong>Email</strong>: echoi@gmail.com</div>
+        <div class="email"><strong>Email</strong>: ces4669@korea.ac.kr</div>
         <ul>
-          <li>Deep Learning</li>
+          <li>NLP</li>
           <li>Speech Recognition</li>
           <li>LLM</li>
         </ul>
