@@ -14,5 +14,7 @@ main:
     url: /research_area/
   - title: "News"
     url: /news/
+  - title: "Seminar"
+    url: /seminar/
   - title: "Contact"
     url: /contact/

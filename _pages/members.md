@@ -96,7 +96,7 @@ toc: true
         <div class="name">Hyun-ku Kang (강현구)</div>
         <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
         <ul>
-          <li>Signal Processing</li>
+          <li>Speech Generation</li>
           <li>LLM & RAG</li>
           <li>Multimodal modeling</li>
         </ul>
@@ -111,12 +111,12 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
       <div class="info">
-        <div class="name">Contact US</div>
-        <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
+        <div class="name">Min-kyu Cho (조민규)</div>
+        <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
         <ul>
-          <!-- <li>Neurocritical care</li>
-          <li>Precision medicine using machine learning</li>
-          <li>Neuromonitoring</li> -->
+          <li>LLM</li>
+          <li>RLHF & RLAIF</li>
+          <li>Speech Recognition</li>
         </ul>
       </div>
     </div>
