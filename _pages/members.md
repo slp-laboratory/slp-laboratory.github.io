@@ -40,8 +40,8 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
       <div class="info">
-        <div class="name">Contact US</div>
-        <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
+        <div class="name">Chanwoo Park</div>
+        <div class="email"><strong>Email</strong>: cksdn2529@naver.com</div>
         <ul>
           <!-- <li>Multimodal</li>
           <li>Brain-Computer Interface</li>
