@@ -43,9 +43,9 @@ toc: true
         <div class="name">Chanwoo Park (박찬우)</div>
         <div class="email"><strong>Email</strong>: cksdn2529@naver.com</div>
         <ul>
-          <!-- <li>Multimodal</li>
+          <li>Electroencephalography</li>
           <li>Brain-Computer Interface</li>
-          <li>Natural Language Processing</li> -->
+          <li>Neuro-phsyiological signal processing</li>
         </ul>
       </div>
     </div>
