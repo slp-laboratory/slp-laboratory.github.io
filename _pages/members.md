@@ -40,7 +40,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
       <div class="info">
-        <div class="name">Chanwoo Park</div>
+        <div class="name">Chanwoo Park (박찬우)</div>
         <div class="email"><strong>Email</strong>: cksdn2529@naver.com</div>
         <ul>
           <!-- <li>Multimodal</li>
@@ -81,7 +81,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
       <div class="info">
-        <div class="name">En-seo Choi (최은서)</div>
+        <div class="name">Enseo Choi (최은서)</div>
         <div class="email"><strong>Email</strong>: ces4669@korea.ac.kr</div>
         <ul>
           <li>NLP</li>
@@ -93,7 +93,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/hyunku.jpg" alt="hyunku Kang">
       <div class="info">
-        <div class="name">Hyun-ku Kang (강현구)</div>
+        <div class="name">Hyunku Kang (강현구)</div>
         <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
         <ul>
           <li>Speech Generation</li>
