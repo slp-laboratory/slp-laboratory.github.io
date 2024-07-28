@@ -67,10 +67,10 @@ toc: true
   <h1>Master Students</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
+      <img src="../assets/images/member/ireh.PNG" alt="Ireh Ki">
       <div class="info">
         <div class="name">Ireh Kim (김이레)</div>
-        <div class="email"><strong>Email</strong>: 0kimireh@gmail.com</div>
+        <div class="email"><strong>Email</strong>: 0KimIreh@gmail.com</div>
         <ul>
           <li>Deep Learning</li>
           <li>Speech Processing</li>
@@ -79,7 +79,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
+      <img src="../assets/images/member/someone.PNG" alt="Enseo Choi">
       <div class="info">
         <div class="name">Enseo Choi (최은서)</div>
         <div class="email"><strong>Email</strong>: ces4669@korea.ac.kr</div>
@@ -91,7 +91,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/hyunku.jpg" alt="hyunku Kang">
+      <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
       <div class="info">
         <div class="name">Hyunku Kang (강현구)</div>
         <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
@@ -109,7 +109,7 @@ toc: true
   <h1>Research Interns</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
+      <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
       <div class="info">
         <div class="name">Min-kyu Cho (조민규)</div>
         <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
