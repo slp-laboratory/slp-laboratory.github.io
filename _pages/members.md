@@ -67,7 +67,7 @@ toc: true
   <h1>Master Students</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/ireh.PNG" alt="Ireh Ki">
+      <img src="../assets/images/member/ireh.jpg" alt="Ireh Kim">
       <div class="info">
         <div class="name">Ireh Kim (김이레)</div>
         <div class="email"><strong>Email</strong>: 0KimIreh@gmail.com</div>
