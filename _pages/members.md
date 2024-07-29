@@ -45,7 +45,7 @@ toc: true
         <ul>
           <li>Electroencephalography</li>
           <li>Brain-Computer Interface</li>
-          <li>Neuro-phsyiological signal processing</li>
+          <li>Deep Learning</li>
         </ul>
       </div>
     </div>

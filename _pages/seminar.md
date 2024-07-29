@@ -78,7 +78,7 @@ toc: true
 <body>
 
 <div class="container">
-    <h2>세미나 게시판</h2>
+    <h2>세미나 게시판<a href="https://docs.google.com/spreadsheets/d/185NpCONNMIqbyIvxQU0irysh03vPG_l-aXJYuZb7Kuo/edit?usp=sharing" style="float: right; font-size: 16px;">Schedule</a></h2>
     <table>
         <thead>
             <tr>
@@ -90,21 +90,20 @@ toc: true
             </tr>
         </thead>
         <tbody id="table-body">
-            <!-- 동적 데이터 로드 -->
         </tbody>
     </table>
     <div class="pagination" id="pagination">
-        <!-- 동적 페이지네이션 로드 -->
     </div>
 </div>
 
 <script>
         // 샘플 데이터
         const data = [
-            { 번호: 5, 제목: "Lecture Review - Spline", 발표자: "조민규 (Intern)", 일자: "2024-07-26", 자료: "https://publish.obsidian.md/oscar-cho/Study/Math/Spline/Spline"},
-            { 번호: 4, 제목: "Lecture Review - Compression", 발표자: "강현구 (M.S)", 일자: "2024-07-19", 자료: "https://drive.google.com/file/d/1Jq1Tb-eGdGubQpnTDc4cjAMAbcHmVU9C/view?usp=sharing"},
-            { 번호: 3, 제목: "Paper Review - Cross-Lingual Named Entity Recognition via Multi-View Contrastive Learning", 발표자: "최은서 (M.S)", 일자: "2024-06-28", 자료: "https://drive.google.com/file/d/1Hto-MsUGvFEEOHQPZjjq7Em36vIvfi6P/view?usp=sharing"},
-            { 번호: 2, 제목: "Paper Review - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation", 발표자: "강현구 (M.S)", 일자: "2024-06-07", 자료: "https://drive.google.com/file/d/1lBxIV62_P-UmoMtRs82Jl9naFWS8SzTq/view?usp=sharing"},
+            { 번호: 6, 제목: "Lecture Review - Spline", 발표자: "조민규 (Intern)", 일자: "2024-07-26", 자료: "https://publish.obsidian.md/oscar-cho/Study/Math/Spline/Spline"},
+            { 번호: 5, 제목: "Lecture Review - Compression", 발표자: "강현구 (M.S)", 일자: "2024-07-19", 자료: "https://drive.google.com/file/d/1Jq1Tb-eGdGubQpnTDc4cjAMAbcHmVU9C/view?usp=sharing"},
+            { 번호: 4, 제목: "Paper Review - Cross-Lingual Named Entity Recognition via Multi-View Contrastive Learning", 발표자: "최은서 (M.S)", 일자: "2024-06-28", 자료: "https://drive.google.com/file/d/1Hto-MsUGvFEEOHQPZjjq7Em36vIvfi6P/view?usp=sharing"},
+            { 번호: 3, 제목: "Paper Review - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation", 발표자: "강현구 (M.S)", 일자: "2024-06-07", 자료: "https://drive.google.com/file/d/1lBxIV62_P-UmoMtRs82Jl9naFWS8SzTq/view?usp=sharing"},
+            { 번호: 2, 제목: "Lecture Review - sLLM", 발표자: "최은서 (M.S)", 일자: "2024-05-10", 자료: "https://drive.google.com/file/d/1lVYnEu9rBUGntbzoF_UTsy2x1lHrBB07/view?usp=sharing"},
             { 번호: 1, 제목: "Paper Review - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities", 발표자: "강현구 (M.S)", 일자: "2024-05-03", 자료: "https://drive.google.com/file/d/1BTbA3amwh7UgH90gJGP0MTPm2_Ma6fQz/view?usp=sharing"},
         ];
 
