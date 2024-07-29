@@ -32,7 +32,7 @@ toc: true
         }
         h2 {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 5px;
         }
         table {
             width: 100%;
@@ -78,7 +78,8 @@ toc: true
 <body>
 
 <div class="container">
-    <h2>세미나 게시판<a href="https://docs.google.com/spreadsheets/d/185NpCONNMIqbyIvxQU0irysh03vPG_l-aXJYuZb7Kuo/edit?usp=sharing" style="float: right; font-size: 16px;">Schedule</a></h2>
+    <h2>세미나 게시판</h2>
+    <a href="https://docs.google.com/spreadsheets/d/185NpCONNMIqbyIvxQU0irysh03vPG_l-aXJYuZb7Kuo/edit?usp=sharing" style="float: right; font-size: 20px;">Detailed Schedule</a>
     <table>
         <thead>
             <tr>
