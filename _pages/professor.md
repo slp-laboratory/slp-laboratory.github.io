@@ -27,7 +27,7 @@ toc: true
     <h1>Prof. Chanwoo Kim</h1>
     <!-- <p><strong>Professor</strong><br> -->
     <strong>Dept. of Artificial Intelligence, Korea University</strong><br><br>
-    <p><strong>Address:</strong> Anam-dong, Seungbuk-gu, Seoul, Korea (02841)<br>
+    <p><strong>Address:</strong> 145 Anam-ro, College of Science Annex Room #217, Seongbuk-gu, Seoul, Korea, 02841<br>
     <strong>Office:</strong> Woojeong Information Center 2F<br>
     <strong>Email:</strong> chanwcom@korea.ac.kr<br>
     <strong>More Info: </strong><a href="https://chanwcom.github.io/">More Information about Professor</a></p>
