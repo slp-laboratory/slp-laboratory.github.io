@@ -28,7 +28,7 @@ toc: true
     <!-- <p><strong>Professor</strong><br> -->
     <strong>Dept. of Artificial Intelligence, Korea University</strong><br><br>
     <p><strong>Address:</strong> 145 Anam-ro, College of Science Annex Room #217, Seongbuk-gu, Seoul, Korea, 02841<br>
-    <strong>Office:</strong> Woojeong Information Center 2F<br>
+    <strong>Office:</strong> College of Science Annex Room #217 (이학별관 217호)  <br>
     <strong>Email:</strong> chanwcom@korea.ac.kr<br>
     <strong>More Info: </strong><a href="https://chanwcom.github.io/">More Information about Professor</a></p>
   </div>
