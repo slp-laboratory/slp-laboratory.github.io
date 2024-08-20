@@ -79,7 +79,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="Enseo Choi">
+      <img src="../assets/images/member/Eunseo.jpg" alt="Enseo Choi">
       <div class="info">
         <div class="name">Enseo Choi (최은서)</div>
         <div class="email"><strong>Email</strong>: ces4669@korea.ac.kr</div>
