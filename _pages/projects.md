@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "OKR"
 toc: true
 #sidebar:
 #  nav: "docs"
@@ -68,10 +68,49 @@ toc: true
   grid-row: 4;
   align-self: end;
   }
+  .okr-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  .okr-table th, .okr-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+  }
+  .okr-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  .okr-table a {
+    color: blue;
+    text-decoration: none;
+  }
+  .okr-table a:hover {
+    text-decoration: underline;
+  }
 </style>
 </head>
 <body>
 <div class="container">
+  <!-- OKR Table -->
+  <table class="okr-table">
+    <tr>
+      <th>OKR</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>4Q 2024</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1U2NOStfZAYv_JFSqhG1v_Di8rl1TE101bqefWPKfuiI/edit?gid=1476668900#gid=1476668900" target="_blank">4Q 2024</a></td>
+    </tr>
+    <tr>
+      <td>1Q 2025</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1U2NOStfZAYv_JFSqhG1v_Di8rl1TE101bqefWPKfuiI/edit?gid=1476668900#gid=1476668900" target="_blank">Not Updated</a></td>
+    </tr>
+    <!-- OKR 행 추가 -->
+  </table><br>
+  <h1>Projects</h1>
   <div class="projects-grid">
     <div class="project-card">
       <img src="../assets/images/mail.PNG" alt="Project 1">
@@ -83,7 +122,7 @@ toc: true
       <p>Project Description...</p><hr>
       <p>2022.03.02 - 2025.02.28</p>
     </div>
-    <!-- More cards can be added here -->
+    <!-- 프로젝트 카드 추가 -->
   </div>
 </div>
 </body>
