@@ -49,17 +49,6 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
-      <div class="info">
-        <div class="name">Contact US</div>
-        <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
-        <ul>
-          <!-- <li>Continuous vital signal analysis</li>
-          <li>Sedation level monitoring</li> -->
-        </ul>
-      </div>
-    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
@@ -129,17 +118,6 @@ toc: true
           <li>LLM</li>
           <li>RLHF & RLAIF</li>
           <li>Speech Recognition</li>
-        </ul>
-      </div>
-    </div>
-    <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="hyunku Kang">
-      <div class="info">
-        <div class="name">Contact US</div>
-        <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
-        <ul>
-          <!-- <li>Continuous vital signal analysis</li>
-          <li>Sedation level monitoring</li> -->
         </ul>
       </div>
     </div>
