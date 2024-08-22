@@ -81,6 +81,11 @@ layout: home
 <div class="container">
   <div class="projects-grid">
     <div class="project-card">
+      <img src="../assets/images/slp_lab_logo.png" alt="Project 3">
+      <p>One Ph.D and two masters students joined the Lab</p><hr>
+      <p>2024.09.01</p>
+    </div>   
+    <div class="project-card">
       <img src="../assets/images/mail.PNG" alt="Project 1">
       <p>Two masters students joined the Lab</p><hr>
       <p>2024.03.02</p>
