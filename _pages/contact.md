@@ -49,7 +49,7 @@ toc: true
             <li>E-mail: chanwcom@korea.ac.kr (Professor)</li>
             <li>E-mail: kahk000@naver.com (Student)</li>
             <li>Phone: +82 10-6721-7301 (Student)</li>
-            <li>Address: 고려대학교 안암캠퍼스 이학관별관 2F</li>
+            <li>Address: College of Science Annex(이학관별관) 2F, Korea Univ.</li>
         </ul>
     </div>
 </div>
