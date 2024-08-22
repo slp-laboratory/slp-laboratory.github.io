@@ -102,6 +102,18 @@ toc: true
         </ul>
       </div>
     </div>
+    <div class="student">
+      <img src="../assets/images/member/someone.PNG" alt="Sungmook Woo">
+      <div class="info">
+        <div class="name">Sungmook Woo (우성)</div>
+        <div class="email"><strong>Email</strong>: woomook0524@korea.ac.kr</div>
+        <ul>
+          <li>Your interest </li>
+          <li>Your interest </li>
+          <li>Your interest </li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
