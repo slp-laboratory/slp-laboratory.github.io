@@ -70,7 +70,7 @@ toc: true
       <img src="../assets/images/member/ireh.jpg" alt="Ireh Kim">
       <div class="info">
         <div class="name">Ireh Kim (김이레)</div>
-        <div class="email"><strong>Email</strong>: 0KimIreh@gmail.com</div>
+        <div class="email"><strong>Email</strong>: 0KimIreh0@gmail.com</div>
         <ul>
           <li>Deep Learning</li>
           <li>Speech Processing</li>
