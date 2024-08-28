@@ -100,6 +100,7 @@ toc: true
 <script>
         // 샘플 데이터
         const data = [
+            { 번호: 11, 제목: "Research Review - Speaker Diarization", 발표자: "강현구 (M.S)", 일자: "2024-08-23", 자료: "https://docs.google.com/presentation/d/17tCCent7FjEvAcbyaKKNKTgc-2D7ik6h/edit?usp=sharing&ouid=115138912278346332323&rtpof=true&sd=true"},
             { 번호: 10, 제목: "Paper Review - Reliability assessment of data augmented with LLM", 발표자: "김이레 (M.S)", 일자: "2024-08-16", 자료: "TBD"},
             { 번호: 9, 제목: "Paper Review - Grapheme to Phoneme Conversion", 발표자: "최은서 (M.S)", 일자: "2024-08-09", 자료: "https://drive.google.com/file/d/1Nuoe9scKOeQebbZxy1eEIJc97dLN4_it/view?usp=drive_link"},
             { 번호: 8, 제목: "Research History - M.S paper", 발표자: "박찬우 (Ph.D)", 일자: "2024-08-02", 자료: "https://docs.google.com/presentation/d/1uJHyXcqC3mX9Fd_euCcdDNIiCMpEuJKm/edit?usp=drive_link&ouid=101371425194593732001&rtpof=true&sd=true"},
