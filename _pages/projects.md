@@ -115,12 +115,12 @@ toc: true
     <div class="project-card">
       <img src="../assets/images/mail.PNG" alt="Project 1">
       <p><span class="blue-text">(TestWorks)</span> Multimodal Model</p><hr>
-      <p>2022.06.01 - 2027.05.31</p>
+      <p>2024.06.01 - 2027.05.31</p>
     </div>
     <div class="project-card">
       <img src="../assets/images/mail.PNG" alt="Project 2">
-      <p>Project Description...</p><hr>
-      <p>2022.03.02 - 2025.02.28</p>
+      <p><span class="blue-text">(LLSOLLU)</span>Speaker ID</p><hr>
+      <p>2024.09.02 - 2025.08.31</p>
     </div>
     <!-- 프로젝트 카드 추가 -->
   </div>
