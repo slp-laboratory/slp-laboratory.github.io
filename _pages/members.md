@@ -83,7 +83,7 @@ toc: true
       <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
       <div class="info">
         <div class="name">Hyunku Kang (강현구)</div>
-        <div class="email"><strong>Email</strong>: kahk000@naver.com</div>
+        <div class="email"><strong>Email</strong>: kahk000@korea.ac.kr </div>
         <ul>
           <li>Speech Generation</li>
           <li>LLM & RAG</li>
