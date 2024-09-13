@@ -31,10 +31,19 @@ author_profile: false
   }
   .header-text {
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 55px;
+    font-size: 51px;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+  .sub-header-text {
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
     font-weight: bold;
     white-space: nowrap;
   }
@@ -83,7 +92,7 @@ author_profile: false
 <div class="header-container">
 <img class="header-image" src="../assets/images/research_area/genspeech.PNG" alt="Header Image">
 <div class="header-text">Welcome!!</div>
-<div class="header-text">Speech and Language Processing Lab</div>
+<div class="sub-header-text">Speech and Language Processing Lab</div>
 </div>
 <div class="container">
   <h1>Research Areas</h1>
