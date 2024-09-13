@@ -82,7 +82,8 @@ author_profile: false
 <body>
 <div class="header-container">
 <img class="header-image" src="../assets/images/research_area/genspeech.PNG" alt="Header Image">
-<div class="header-text">Welcome to SLP Lab</div>
+<div class="header-text">Welcome!!</div>
+<div class="header-text">Speech and Language Processing Lab</div>
 </div>
 <div class="container">
   <h1>Research Areas</h1>

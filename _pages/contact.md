@@ -49,7 +49,7 @@ toc: true
             <li>E-mail: chanwcom@korea.ac.kr (Professor)</li>
             <li>E-mail: kahk000@korea.ac.kr (Student)</li>
             <li>Phone: +82 10-6721-7301 (Student)</li>
-            <li>Address: Lee Hak Building Annex 2F, Korea Univ.</li>
+            <li>Address: 145 Anam-ro, College of Science Annex Room #108, Seongbuk-gu, Seoul, Korea, 02841</li>
         </ul>
     </div>
 </div>

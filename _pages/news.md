@@ -92,7 +92,7 @@ layout: home
     </div>
     <div class="project-card">
       <img src="../assets/images/slp_lab_logo.png" alt="Project 2">
-      <p>Speech and Langauge Processing Lab. was created in March 2024 at Korea University</p><hr>
+      <p>Speech and Language Processing Lab. was created in March 2024 at Korea University</p><hr>
       <p>2024.03.02</p>
     </div>
     <!-- More cards can be added here -->
