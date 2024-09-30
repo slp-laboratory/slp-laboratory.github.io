@@ -113,13 +113,11 @@ toc: true
   <h1>Projects</h1>
   <div class="projects-grid">
     <div class="project-card">
-      <img src="../assets/images/mail.PNG" alt="Project 1">
-      <p><span class="blue-text">(TestWorks)</span> Multimodal Model</p><hr>
-      <p>2024.06.01 - 2027.05.31</p>
-    </div>
-    <div class="project-card">
-      <img src="../assets/images/mail.PNG" alt="Project 2">
-      <p><span class="blue-text">(LLSOLLU)</span>Speaker ID</p><hr>
+      <img src="../assets/images/projects/Diarization.PNG" alt="Project 2">
+      <p>
+        <span class="blue-text">(LLSOLLU)</span> Speaker Verification & Diarization<br><br>
+        <span class="blue-text">(PM)</span> Hyunku Kang
+      </p><hr>
       <p>2024.09.02 - 2025.08.31</p>
     </div>
     <!-- 프로젝트 카드 추가 -->

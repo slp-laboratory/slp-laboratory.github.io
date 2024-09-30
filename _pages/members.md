@@ -85,9 +85,9 @@ toc: true
         <div class="name">Hyunku Kang (강현구)</div>
         <div class="email"><strong>Email</strong>: kahk000@korea.ac.kr </div>
         <ul>
-          <li>Speech Generation</li>
+          <li>Speech</li>
           <li>LLM & RAG</li>
-          <li>Multimodal modeling</li>
+          <li>Generative AI</li>
         </ul>
       </div>
     </div>
