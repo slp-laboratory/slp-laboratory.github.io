@@ -100,6 +100,12 @@ toc: true
 <script>
         // 샘플 데이터
         const data = [
+            { 번호: 18, 제목: "ECAPA-TDNN", 발표자: "조민규 (Intern)", 일자: "2024-10-04", 자료: "https://drive.google.com/file/d/18XPZn_M02bHJwtrjyXBIZS3rdETFb7-M/view?usp=sharing"},
+            { 번호: 17, 제목: "ReDim-Net", 발표자: "우성묵 (M.S)", 일자: "2024-10-04", 자료: " "},
+            { 번호: 16, 제목: "WavLM", 발표자: "강현구 (M.S)", 일자: "2024-10-04", 자료: " "},
+            { 번호: 15, 제목: "Research Review : Hallucination detection for M.T ", 발표자: "김이레 (M.S)", 일자: "2024-10-04", 자료: " "},
+            { 번호: 14, 제목: "Research Review : Model for On-Device", 발표자: "최은서 (M.S)", 일자: "2024-10-04", 자료: "https://drive.google.com/file/d/11byvxJEr0JDX2BJNSMiIoEQ7RvlEbW7B/view?usp=sharing"},
+            { 번호: 13, 제목: "Research History", 발표자: "박찬우 (Ph.D)", 일자: "2024-09-20", 자료: " "},
             { 번호: 12, 제목: "GAN research : TILDA 기반 Data Augmentation model for MT", 발표자: "조민규 (Intern)", 일자: "2024-09-19", 자료: "https://drive.google.com/file/d/1l8hpvMmt2t-j8eVmj1yVyL7zjz9vVIYS/view?usp=sharing"},
             { 번호: 11, 제목: "Research Review - Speaker Diarization", 발표자: "강현구 (M.S)", 일자: "2024-08-23", 자료: "https://docs.google.com/presentation/d/17tCCent7FjEvAcbyaKKNKTgc-2D7ik6h/edit?usp=sharing&ouid=115138912278346332323&rtpof=true&sd=true"},
             { 번호: 10, 제목: "Paper Review - Reliability assessment of data augmented with LLM", 발표자: "김이레 (M.S)", 일자: "2024-08-16", 자료: "TBD"},
