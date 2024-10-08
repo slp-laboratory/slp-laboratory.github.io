@@ -122,7 +122,7 @@ toc: true
     </div>
     <div class="projects-grid">
     <div class="project-card">
-      <img src="assets/images/research_area/genspeech.PNG" alt="Project 2">
+      <img src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 2">
       <p>
         <span class="blue-text">(9-1-2)</span> Real-time Adversarial Speech Generation <br><br>
         <span class="blue-text">(PM)</span> TBD
