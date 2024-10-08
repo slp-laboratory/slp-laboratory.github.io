@@ -120,6 +120,15 @@ toc: true
       </p><hr>
       <p>2024.09.02 - 2025.08.31</p>
     </div>
+    <div class="projects-grid">
+    <div class="project-card">
+      <img src="assets/images/research_area/genspeech.PNG" alt="Project 2">
+      <p>
+        <span class="blue-text">(9-1-2)</span> Real-time Adversarial Speech Generation <br><br>
+        <span class="blue-text">(PM)</span> TBD
+      </p><hr>
+      <p>2024.10.01 - 2025.09.30</p>
+    </div>
     <!-- 프로젝트 카드 추가 -->
   </div>
 </div>
