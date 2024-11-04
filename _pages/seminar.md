@@ -100,6 +100,7 @@ toc: true
 <script>
         // 샘플 데이터
         const data = [
+            { 번호: 21, 제목: "RedimNET", 발표자: "조민규 (Intern)", 일자: "2024-10-31", 자료: "[https://drive.google.com/file/d/18XPZn_M02bHJwtrjyXBIZS3rdETFb7-M/view?usp=sharing](https://drive.google.com/file/d/1WuRdoP0-V_wyI0kNTlBYT10f7C_g3MN-/view?usp=sharing)"},
             { 번호: 18, 제목: "ECAPA-TDNN", 발표자: "조민규 (Intern)", 일자: "2024-10-04", 자료: "https://drive.google.com/file/d/18XPZn_M02bHJwtrjyXBIZS3rdETFb7-M/view?usp=sharing"},
             { 번호: 17, 제목: "ReDim-Net", 발표자: "우성묵 (M.S)", 일자: "2024-10-04", 자료: " "},
             { 번호: 16, 제목: "WavLM", 발표자: "강현구 (M.S)", 일자: "2024-10-04", 자료: " "},
