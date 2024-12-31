@@ -165,8 +165,6 @@ toc: true
                     }
                 }
             }
-            console.log(values)
-            console.log('------------------')
             return values;
         }
     
@@ -185,9 +183,7 @@ toc: true
             return jsonp(url);
         }
     
-        var data = query('select *', 'my_callback');
-        console.log(data)
-        console.log(typeof(data))
+        const data = query('select *', 'my_callback');
     
         const rowsPerPage = 4; // 페이지 당 표시할 행 수
         let currentPage = 1; // 현재 페이지
