@@ -156,7 +156,7 @@ toc: true
                             { 
                             '번호': rows.length - num, 
                              '제목': title, 
-                             '발표자': presentor +' (' + position + ')'", 
+                             '발표자': presentor +' (' + position + ')', 
                             '일자': date, 
                             '자료': link,
                             }
