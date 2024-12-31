@@ -165,7 +165,67 @@ toc: true
                     }
                 }
             }
-            return values;
+            
+            const rowsPerPage = 4; // 페이지 당 표시할 행 수
+            let currentPage = 1; // 현재 페이지
+    
+            function displayTable(page) {
+                const tableBody = document.getElementById('table-body');
+                tableBody.innerHTML = ''; // 테이블 내용 비우기
+    
+                const start = (page - 1) * rowsPerPage;
+                const end = start + rowsPerPage;
+                const paginatedData = values.slice(start, end);
+    
+                paginatedData.forEach(row => {
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>${row.번호}</td>
+                        <td>${row.제목}</td>
+                        <td>${row.발표자}</td>
+                        <td>${row.일자}</td>
+                        <td><a href="${row.자료}" target="_blank">Link</a></td>
+                    `;
+                    tableBody.appendChild(tr);
+                });
+            }
+    
+            function displayPagination() {
+                const pagination = document.getElementById('pagination');
+                pagination.innerHTML = ''; // 페이지네이션 내용 비우기
+    
+                const pageCount = Math.ceil(data.length / rowsPerPage);
+    
+                for (let i = 1; i <= pageCount; i++) {
+                    const a = document.createElement('a');
+                    a.href = '#';
+                    a.innerText = i;
+                    if (i === currentPage) {
+                        a.classList.add('active');
+                    }
+                    a.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        currentPage = i;
+                        displayTable(currentPage);
+                        updatePagination();
+                    });
+                    pagination.appendChild(a);
+                }
+            }
+    
+            function updatePagination() {
+                const links = document.querySelectorAll('.pagination a');
+                links.forEach(link => {
+                    link.classList.remove('active');
+                    if (parseInt(link.innerText) === currentPage) {
+                        link.classList.add('active');
+                    }
+                });
+            }
+    
+            // 초기 테이블과 페이지네이션 표시
+            displayTable(currentPage);
+            displayPagination();
         }
     
         var query = function (sql, callback) {
@@ -183,68 +243,9 @@ toc: true
             return jsonp(url);
         }
     
-        const data = query('select *', 'my_callback');
+        query('select *', 'my_callback');
     
-        const rowsPerPage = 4; // 페이지 당 표시할 행 수
-        let currentPage = 1; // 현재 페이지
-
-        function displayTable(page) {
-            const tableBody = document.getElementById('table-body');
-            tableBody.innerHTML = ''; // 테이블 내용 비우기
-
-            const start = (page - 1) * rowsPerPage;
-            const end = start + rowsPerPage;
-            const paginatedData = data.slice(start, end);
-
-            paginatedData.forEach(row => {
-                const tr = document.createElement('tr');
-                tr.innerHTML = `
-                    <td>${row.번호}</td>
-                    <td>${row.제목}</td>
-                    <td>${row.발표자}</td>
-                    <td>${row.일자}</td>
-                    <td><a href="${row.자료}" target="_blank">Link</a></td>
-                `;
-                tableBody.appendChild(tr);
-            });
-        }
-
-        function displayPagination() {
-            const pagination = document.getElementById('pagination');
-            pagination.innerHTML = ''; // 페이지네이션 내용 비우기
-
-            const pageCount = Math.ceil(data.length / rowsPerPage);
-
-            for (let i = 1; i <= pageCount; i++) {
-                const a = document.createElement('a');
-                a.href = '#';
-                a.innerText = i;
-                if (i === currentPage) {
-                    a.classList.add('active');
-                }
-                a.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    currentPage = i;
-                    displayTable(currentPage);
-                    updatePagination();
-                });
-                pagination.appendChild(a);
-            }
-        }
-
-        function updatePagination() {
-            const links = document.querySelectorAll('.pagination a');
-            links.forEach(link => {
-                link.classList.remove('active');
-                if (parseInt(link.innerText) === currentPage) {
-                    link.classList.add('active');
-                }
-            });
-        }
-
-        // 초기 테이블과 페이지네이션 표시
-        displayTable(currentPage);
-        displayPagination();
+        
     </script>
 </body>
 </html>
