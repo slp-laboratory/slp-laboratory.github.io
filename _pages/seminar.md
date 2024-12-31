@@ -131,7 +131,7 @@ toc: true
             var values = [];
             var num = 1;
             var rows = data.table.rows;
-            for(var key in rows)
+            for(var key in rows.reverse())
             {
                 if (rows[key].c[2].v == 'Completed')
                 {
@@ -154,18 +154,19 @@ toc: true
                         
                         values.push(
                             { 
-                            '번호': rows.length - num, 
+                            '번호': num, 
                              '제목': title, 
                              '발표자': presentor +' (' + position + ')', 
                             '일자': date, 
                             '자료': link,
                             }
                         );
+                        num++;
                     }
                 }
-                num++;
             }
-            
+
+            values.reverse()
             const rowsPerPage = 4; // 페이지 당 표시할 행 수
             let currentPage = 1; // 현재 페이지
     
