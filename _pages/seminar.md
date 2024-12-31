@@ -131,7 +131,6 @@ toc: true
             var values = [];
             var num = 1;
             var rows = data.table.rows;
-            console.log(rows);
             for(var key in rows)
             {
                 if (rows[key].c[2].v == 'Completed')
@@ -183,7 +182,8 @@ toc: true
             url += qs.join('&');
             return jsonp(url);
         }
-
+    
+        var data = query('select *', 'my_callback');
         const rowsPerPage = 4; // 페이지 당 표시할 행 수
         let currentPage = 1; // 현재 페이지
 
@@ -242,7 +242,6 @@ toc: true
         }
 
         // 초기 테이블과 페이지네이션 표시
-        var data = query('select *', 'my_callback');
         displayTable(currentPage);
         displayPagination();
     </script>
