@@ -156,14 +156,14 @@ toc: true
                             { 
                             '번호': rows.length - num, 
                              '제목': title, 
-                             '발표자': "${presentor} (${position})", 
+                             '발표자': presentor +' (' + position + ')'", 
                             '일자': date, 
                             '자료': link,
                             }
                         );
-                        num++;
                     }
                 }
+                num++;
             }
             
             const rowsPerPage = 4; // 페이지 당 표시할 행 수
@@ -190,42 +190,8 @@ toc: true
                 });
             }
     
-            function displayPagination() {
-                const pagination = document.getElementById('pagination');
-                pagination.innerHTML = ''; // 페이지네이션 내용 비우기
-    
-                const pageCount = Math.ceil(data.length / rowsPerPage);
-    
-                for (let i = 1; i <= pageCount; i++) {
-                    const a = document.createElement('a');
-                    a.href = '#';
-                    a.innerText = i;
-                    if (i === currentPage) {
-                        a.classList.add('active');
-                    }
-                    a.addEventListener('click', (e) => {
-                        e.preventDefault();
-                        currentPage = i;
-                        displayTable(currentPage);
-                        updatePagination();
-                    });
-                    pagination.appendChild(a);
-                }
-            }
-    
-            function updatePagination() {
-                const links = document.querySelectorAll('.pagination a');
-                links.forEach(link => {
-                    link.classList.remove('active');
-                    if (parseInt(link.innerText) === currentPage) {
-                        link.classList.add('active');
-                    }
-                });
-            }
-    
             // 초기 테이블과 페이지네이션 표시
             displayTable(currentPage);
-            displayPagination();
         }
     
         var query = function (sql, callback) {
@@ -244,8 +210,40 @@ toc: true
         }
     
         query('select *', 'my_callback');
+
+        function displayPagination() {
+            const pagination = document.getElementById('pagination');
+            pagination.innerHTML = ''; // 페이지네이션 내용 비우기
     
-        
+            const pageCount = Math.ceil(data.length / rowsPerPage);
+    
+            for (let i = 1; i <= pageCount; i++) {
+                const a = document.createElement('a');
+                a.href = '#';
+                a.innerText = i;
+                if (i === currentPage) {
+                    a.classList.add('active');
+                }
+                a.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    currentPage = i;
+                    displayTable(currentPage);
+                    updatePagination();
+                });
+                pagination.appendChild(a);
+                }
+            }
+    
+            function updatePagination() {
+                const links = document.querySelectorAll('.pagination a');
+                links.forEach(link => {
+                    link.classList.remove('active');
+                    if (parseInt(link.innerText) === currentPage) {
+                        link.classList.add('active');
+                    }
+                });
+            }
+            displayPagination(); 
     </script>
 </body>
 </html>
