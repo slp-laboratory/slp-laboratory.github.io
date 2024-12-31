@@ -184,6 +184,9 @@ toc: true
         }
     
         var data = query('select *', 'my_callback');
+        console.log(data)
+        console.log(typeof(data))
+    
         const rowsPerPage = 4; // 페이지 당 표시할 행 수
         let currentPage = 1; // 현재 페이지
 
