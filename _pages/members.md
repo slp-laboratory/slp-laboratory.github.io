@@ -103,12 +103,6 @@ toc: true
         </ul>
       </div>
     </div>
-    <!-- Repeat for other students -->
-  </div>
-</div>
-<div class="container">
-  <h1>Research Interns</h1>
-    <div class="profile">
     <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
       <div class="info">
@@ -118,6 +112,60 @@ toc: true
           <li>LLM</li>
           <li>RLHF & RLAIF</li>
           <li>Speech Recognition</li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="" alt="Kim ki yong">
+      <div class="info">
+        <div class="name"> Ki-yong Kim (김기용)</div>
+        <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
+        <ul>
+          <li> </li>
+          <li> </li>
+          <li> </li>
+        </ul>
+      </div>
+    </div>
+        <div class="student">
+      <img src="" alt="In-sub Shin">
+      <div class="info">
+        <div class="name"> In-sub Shin (신인섭)</div>
+        <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
+        <ul>
+          <li> </li>
+          <li> </li>
+          <li> </li>
+        </ul>
+      </div>
+    </div>
+    <!-- Repeat for other students -->
+  </div>
+</div>
+<div class="container">
+  <h1>Research Interns</h1>
+    <div class="profile">
+    <div class="student">
+      <img src="../assets/images/member/someone.PNG" alt="Ham Yang-hun">
+      <div class="info">
+        <div class="name"> Yang-hun Ham (함양훈)</div>
+        <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
+        <ul>
+          <li>  </li>
+          <li> </li>
+          <li> </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/someone.PNG" alt="Do-young Kwon">
+      <div class="info">
+        <div class="name"> Do-young Kwon (권도영)</div>
+        <div class="email"><strong>Email</strong>: douyoung89@naver.com </div>
+        <ul>
+          <li>  </li>
+          <li> </li>
+          <li> </li>
         </ul>
       </div>
     </div>
