@@ -80,6 +80,11 @@ layout: home
 <body>
 <div class="container">
   <div class="projects-grid">
+   <div class="project-card">
+      <img src="../assets/images/slp_lab_logo.png" alt="Project 4">
+      <p>One PhD-Integrated student and Three Master's students joined the Lab.</p><hr>
+      <p>2025.03.01</p>
+    </div> 
     <div class="project-card">
       <img src="../assets/images/slp_lab_logo.png" alt="Project 3">
       <p>One Ph.D and two masters joined the Lab</p><hr>
