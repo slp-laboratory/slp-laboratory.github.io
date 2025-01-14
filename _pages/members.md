@@ -61,9 +61,9 @@ toc: true
         <div class="name">Ireh Kim (김이레)</div>
         <div class="email"><strong>Email</strong>: 0KimIreh0@gmail.com</div>
         <ul>
-          <li>Deep Learning</li>
-          <li>Speech Processing</li>
           <li>Multimodal</li>
+          <li>LLM</li>
+          <li>Deep Learning</li>
         </ul>
       </div>
     </div>
@@ -116,26 +116,26 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="" alt="Kim ki yong">
+      <img src="../assets/images/member/someone.PNG" alt="Kim ki yong">
       <div class="info">
         <div class="name"> Ki-yong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
         <ul>
-          <li> </li>
-          <li> </li>
-          <li> </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
       </div>
     </div>
         <div class="student">
-      <img src="" alt="In-sub Shin">
+      <img src="../assets/images/member/someone.PNG" alt="In-sub Shin">
       <div class="info">
         <div class="name"> In-sub Shin (신인섭)</div>
         <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
         <ul>
-          <li> </li>
-          <li> </li>
-          <li> </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
       </div>
     </div>
@@ -151,9 +151,9 @@ toc: true
         <div class="name"> Yang-hun Ham (함양훈)</div>
         <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
         <ul>
-          <li>  </li>
-          <li> </li>
-          <li> </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
       </div>
     </div>
@@ -163,9 +163,9 @@ toc: true
         <div class="name"> Do-young Kwon (권도영)</div>
         <div class="email"><strong>Email</strong>: douyoung89@naver.com </div>
         <ul>
-          <li>  </li>
-          <li> </li>
-          <li> </li>
+          <li> - </li>
+          <li> - </li>
+          <li> - </li>
         </ul>
       </div>
     </div>
