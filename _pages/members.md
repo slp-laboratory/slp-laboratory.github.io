@@ -52,6 +52,7 @@ toc: true
       <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
       <div class="info">
+        <div class="Degree"> MS-Ph.D </div>
         <div class="name">Min-kyu Cho (조민규)</div>
         <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
         <ul>
