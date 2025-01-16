@@ -49,6 +49,18 @@ toc: true
         </ul>
       </div>
     </div>
+      <div class="student">
+      <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
+      <div class="info">
+        <div class="name">Min-kyu Cho (조민규)</div>
+        <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
+        <ul>
+          <li>LLM</li>
+          <li>RLHF & RLAIF</li>
+          <li>Speech Recognition</li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
@@ -100,18 +112,6 @@ toc: true
           <li>Speech Recognition </li>
           <li>LLM </li>
           <li>Deep Learning </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
-      <div class="info">
-        <div class="name">Min-kyu Cho (조민규)</div>
-        <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
-        <ul>
-          <li>LLM</li>
-          <li>RLHF & RLAIF</li>
-          <li>Speech Recognition</li>
         </ul>
       </div>
     </div>
