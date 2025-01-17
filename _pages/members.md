@@ -57,7 +57,7 @@ toc: true
         <ul>
           <li>LLM</li>
           <li>RLHF & RLAIF</li>
-          <li>Speech Recognition</li>
+          <li>Generative AI</li>
         </ul>
       </div>
     </div>
