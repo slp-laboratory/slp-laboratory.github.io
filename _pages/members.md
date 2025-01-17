@@ -128,7 +128,7 @@ toc: true
       </div>
     </div>
         <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="In-sub Shin">
+      <img src="../assets/images/member/In-sub.png" alt="In-sub Shin">
       <div class="info">
         <div class="name"> In-sub Shin (신인섭)</div>
         <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
