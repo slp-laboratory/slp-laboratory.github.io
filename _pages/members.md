@@ -133,9 +133,9 @@ toc: true
         <div class="name"> In-sub Shin (신인섭)</div>
         <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
         <ul>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li> Diffusion </li>
+          <li> Multimodal </li>
+          <li> LLM </li>
         </ul>
       </div>
     </div>
