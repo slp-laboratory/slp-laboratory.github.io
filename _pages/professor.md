@@ -51,6 +51,19 @@ toc: true
     <li><strong>2003/03-2003/05</strong> : Research Engineer, SK Teletech, Seoul, Korea</li>
     <li><strong>2000-2002</strong> : Research Engineer, EdumediaTek, Seoul, Korea </li>
   </ul>
+  <h2>Awards</h2>
+  <ul>
+    <li><strong>2023/03  IEEE Spectrum profile article about Dr. Chanwoo Kim's engineering career <a href="https://spectrum.ieee.org/chanwoo-kim-profile">Link to the Article</a> </strong> </li>
+    <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new 68 EVPs for contribution to on-device end-to-end speech recognition </strong></li>
+    <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</strong></li>
+    <li><strong>2011.02 : 17-th Samsung Humantech Thesis Bronze prize (1st author)</strong>, ”Power-Normalized
+cepstral coefficients for robust speech recognition”.</li>
+    <li><strong>2010.02 : 16-th Samsung Hamantech Thesis Honour prize (1st author)</strong>, ”Small power boosting
+and spectral subtraction for robust speech recognition”.</li>
+    <li><strong>2005.07 : Scholarship for studying abroad 2005 - 2006</strong>, Korea Institute of Energy Evaluation and Planning.</li>
+    <li><strong>2005.01 : Research fellowship for Ph. D. study</strong>, 2005 - 2010, Carnegie Mellon University.</li>
+    <li><strong>1998.02 : Graduate cum laude</strong>,  Seoul National University</li>
+  </ul>
   <h2>Professional Activities</h2>
   <ul>
     <li> General Chair, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec, 2025. </li>
@@ -72,19 +85,6 @@ toc: true
     <li>XAI604 Automatic Speech Recognition Application And Practice</li>
   </ul>
 
-  <h2>Awards</h2>
-  <ul>
-    <li><strong>2023/03  IEEE Spectrum profile article about Dr. Chanwoo Kim's engineering career <a href="https://spectrum.ieee.org/chanwoo-kim-profile">Link to the Article</a> </strong> </li>
-    <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new 68 EVPs for contribution to on-device end-to-end speech recognition </strong></li>
-    <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</strong></li>
-    <li><strong>2011.02 : 17-th Samsung Humantech Thesis Bronze prize (1st author)</strong>, ”Power-Normalized
-cepstral coefficients for robust speech recognition”.</li>
-    <li><strong>2010.02 : 16-th Samsung Hamantech Thesis Honour prize (1st author)</strong>, ”Small power boosting
-and spectral subtraction for robust speech recognition”.</li>
-    <li><strong>2005.07 : Scholarship for studying abroad 2005 - 2006</strong>, Korea Institute of Energy Evaluation and Planning.</li>
-    <li><strong>2005.01 : Research fellowship for Ph. D. study</strong>, 2005 - 2010, Carnegie Mellon University.</li>
-    <li><strong>1998.02 : Graduate cum laude</strong>,  Seoul National University</li>
-  </ul>
 </div>
 </body>
 </html>
