@@ -42,7 +42,7 @@ toc: true
   </ul>
   <h2>Experiences</h2>
   <ul>
-    <li><strong>2024/01-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, Seoul, Korea</li>
+    <li><strong>2024/03-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, Seoul, Korea</li>
     <li><strong>2018/02-2023/12</strong> : Executive Vice President (EVP), Samsung Research, Seoul, Korea</li>
     <li><strong>2018/02-2023/12</strong> : Head of Language &amp; Voice Team, Samsung Research, Seoul, Korea</li>
     <li><strong>2013/02-2018/02</strong> : Senior Software Engineer, Google Speech, Moutain View, CA, USA</li>
@@ -63,7 +63,7 @@ toc: true
   <ul>
     <li><strong>2025/1-  </strong>: Vice Chair, Acoustical Society Of Korea </li>
     <li><strong>2025/1-  </strong>: Vice Chair, IEEE Signal Processing Society Seoul Chapter </li>
-    <li>2022/1-2024<strong>: Seoul AI promotion committee </li>
+    <li>2022/1-2024</strong>: Seoul AI promotion committee </li>
   </ul>
   <h2>Courses</h2>
   <div class="semester">2024 Spring</div>
