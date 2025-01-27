@@ -61,8 +61,8 @@ toc: true
     <li> Session Chair, INTERSPEECH 2020, </li>
   </ul>
   <ul>
-    <li><strong>2025/1-  <strong>: Vice Chair, Acoustical Society Of Korea </li>
-    <li><strong>2025/1-  <strong>: Vice Chair, IEEE Signal Processing Society Seoul Chapter </li>
+    <li><strong>2025/1-  </strong>: Vice Chair, Acoustical Society Of Korea </li>
+    <li><strong>2025/1-  </strong>: Vice Chair, IEEE Signal Processing Society Seoul Chapter </li>
     <li>2022/1-2024<strong>: Seoul AI promotion committee </li>
   </ul>
   <h2>Courses</h2>
