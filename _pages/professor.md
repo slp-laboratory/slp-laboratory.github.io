@@ -68,9 +68,8 @@ and spectral subtraction for robust speech recognition”.</li>
   <ul>
     <li> General Chair, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec, 2025. </li>
     <li> TPC Vice Chair, IEEE Int. Conf. Acoust. Speech and Signal Processing (ICASSP), Apr., 2024. </li> 
-    <li> Plenary Talk Session Chair, IEEE Int. Conf. Acoust. Speech and Signal Processing (ICASSP), Apr., 2024. </li> 
     <li> Industry Liaison Chair, INTERSPEECH 2022, Sept. 2022 </li>
-    <li> Senior Program Committee, 2021 </li>
+    <li> Senior Program Committee, AAAI, 2021 </li>
     <li> Session Chair, INTERSPEECH 2020, </li>
   </ul>
   <ul>
