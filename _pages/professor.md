@@ -40,7 +40,7 @@ toc: true
     <li>B.S - School of Electrical Engineering, Seoul National University, KR, 1998</li>
     <li>Seoul Science High School, KR, 1994</li>
   </ul>
-  <h2>Experiences</h2>
+  <h2>Work Experiences</h2>
   <ul>
     <li><strong>2024/03-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, Seoul, Korea</li>
     <li><strong>2018/02-2023/12</strong> : Executive Vice President (EVP), Samsung Research, Seoul, Korea</li>
