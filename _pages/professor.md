@@ -44,12 +44,26 @@ toc: true
   <ul>
     <li><strong>2024/01-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, Seoul, Korea</li>
     <li><strong>2018/02-2023/12</strong> : Executive Vice President (EVP), Samsung Research, Seoul, Korea</li>
-    <li><strong>2018/02-2023/12</strong> : Head of Voice &amp; Language Team, Samsung Research, Seoul, Korea</li>
+    <li><strong>2018/02-2023/12</strong> : Head of Language &amp; Voice Team, Samsung Research, Seoul, Korea</li>
     <li><strong>2013/02-2018/02</strong> : Senior Software Engineer, Google Speech, Moutain View, CA, USA</li>
     <li><strong>2011/01-2013/01</strong> : Speech Scientist, Microsoft Speech, Redmond, WA, USA</li>
     <li><strong>2003/06-2005/08</strong> : Senior Research Engineer, LG Electronics, Seoul, Korea</li>
     <li><strong>2003/03-2003/05</strong> : Research Engineer, SK Teletech, Seoul, Korea</li>
     <li><strong>2000-2002</strong> : Research Engineer, EdumediaTek, Seoul, Korea </li>
+  </ul>
+  <h2>Professional Activities</h2>
+  <ul>
+    <li> General Chair, IEEE Automatic Speech Recognition and Understanding Workshop (ASRU), Dec, 2025. </li>
+    <li> TPC Vice Chair, IEEE Int. Conf. Acoust. Speech and Signal Processing (ICASSP), Apr., 2024. </li> 
+    <li> Plenary Talk Session Chair, IEEE Int. Conf. Acoust. Speech and Signal Processing (ICASSP), Apr., 2024. </li> 
+    <li> Industry Liaison Chair, INTERSPEECH 2022, Sept. 2022 </li>
+    <li> Senior Program Committee, 2021 </li>
+    <li> Session Chair, INTERSPEECH 2020, </li>
+  </ul>
+  <ul>
+    <li><strong>2025/1-  <strong>: Vice Chair, Acoustical Society Of Korea </li>
+    <li><strong>2025/1-  <strong>: Vice Chair, IEEE Signal Processing Society Seoul Chapter </li>
+    <li>2022/1-2024<strong>: Seoul AI promotion committee </li>
   </ul>
   <h2>Courses</h2>
   <div class="semester">2024 Spring</div>
