@@ -53,6 +53,7 @@ toc: true
   </ul>
   <h2>Awards</h2>
   <ul>
+    <li><strong>2025/02  IEEE Signal Processing News Letter Member Highlight <a href=" https://signalprocessingsociety.org/newsletter/2025/02/member-highlight-dr-chanwoo-kim ">Link to the Article</a> </strong> </li>
     <li><strong>2024/03  IEEE Spectrum profile article about Dr. Chanwoo Kim's engineering career <a href="https://spectrum.ieee.org/chanwoo-kim-profile">Link to the Article</a> </strong> </li>
     <li><strong>2021/12  Youngest Executive Vice President (EVP) promoted in 2021 at Samsung Electronics among new 68 EVPs for contribution to on-device end-to-end speech recognition </strong></li>
     <li><strong>2019 IEEE Signal Processing Society Best Paper Award (1st author)</strong></li>
