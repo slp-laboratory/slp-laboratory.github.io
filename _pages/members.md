@@ -52,6 +52,17 @@ toc: true
       <div class="student">
       <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
       <div class="info">
+        <div class="name">Tahir Sher</div>
+        <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
+        <ul>
+          <li>Generative AI</li>
+          <li>AI for healthcare</li>
+        </ul>
+      </div>
+    </div>
+      <div class="student">
+      <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
+      <div class="info">
         <div class="name">Min-kyu Cho (조민규)</div>
         <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
         <ul>
@@ -136,6 +147,17 @@ toc: true
           <li> Diffusion </li>
           <li> Multimodal </li>
           <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+      <div class="student">
+      <img src="../assets/images/member/someone.PNG" alt="Sker Taesia">
+      <div class="info">
+        <div class="name">Sker Tesia (태시아)</div>
+        <div class="email"><strong>Email</strong>: taesia.sker@gmail.com</div>
+        <ul>
+          <li>Generative Language Model</li>
+          <li>Natural Language Understanding</li>
         </ul>
       </div>
     </div>
