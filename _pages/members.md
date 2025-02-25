@@ -50,13 +50,14 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
+      <img src="../aassets/images/member/Tahir Sher.jpg" alt="Tahir Sher">
       <div class="info">
         <div class="name">Tahir Sher</div>
         <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
         <ul>
           <li>Generative AI</li>
           <li>AI for healthcare</li>
+          <li>Automatic Speech Recognition</li>
         </ul>
       </div>
     </div>
