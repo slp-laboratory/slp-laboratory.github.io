@@ -133,9 +133,9 @@ toc: true
         <div class="name"> Ki-yong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
         <ul>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li> Speech Recognition </li>
+          <li> Multimodal </li>
+          <li> LLM </li>
         </ul>
       </div>
     </div>
