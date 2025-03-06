@@ -64,7 +64,7 @@ toc: true
       <div class="student">
       <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
       <div class="info">
-        <div class="name">Min-kyu Cho (조민규)</div>
+        <div class="name">Minkyu Cho (조민규)</div>
         <div class="email"><strong>Email</strong>: minkyucho@korea.ac.kr</div>
         <ul>
           <li>Natural language Generation</li>
