@@ -62,14 +62,14 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="Min-kyu Cho">
+      <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
       <div class="info">
         <div class="name">Min-kyu Cho (조민규)</div>
-        <div class="email"><strong>Email</strong>: cng1910@gmail.com</div>
+        <div class="email"><strong>Email</strong>: minkyucho@korea.ac.kr</div>
         <ul>
+          <li>Natural language Generation</li>
+          <li>Reinforcement Learning</li>
           <li>LLM</li>
-          <li>RLHF & RLAIF</li>
-          <li>Generative AI</li>
         </ul>
       </div>
     </div>
@@ -97,9 +97,9 @@ toc: true
         <div class="name">Enseo Choi (최은서)</div>
         <div class="email"><strong>Email</strong>: ces4669@korea.ac.kr</div>
         <ul>
-          <li>NLP</li>
           <li>Speech Recognition</li>
-          <li>LLM</li>
+          <li>Natural Language Processing</li>
+          <li>Spoken Language Understanding</li>
         </ul>
       </div>
     </div>
@@ -142,7 +142,7 @@ toc: true
         <div class="student">
       <img src="../assets/images/member/In-sub.png" alt="In-sub Shin">
       <div class="info">
-        <div class="name"> In-sub Shin (신인섭)</div>
+        <div class="name"> Inseop Shin (신인섭)</div>
         <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
         <ul>
           <li> Diffusion </li>
