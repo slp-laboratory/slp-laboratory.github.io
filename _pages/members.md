@@ -152,7 +152,7 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/someone.PNG" alt="Sker Taesia">
+      <img src="../assets/images/member/Tesia.png" alt="Sker Taesia">
       <div class="info">
         <div class="name">Sker Tesia (태시아)</div>
         <div class="email"><strong>Email</strong>: taesia.sker@gmail.com</div>
