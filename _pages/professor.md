@@ -42,7 +42,9 @@ toc: true
   </ul>
   <h2>Work Experiences</h2>
   <ul>
-    <li><strong>2024/03-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, Seoul, Korea</li>
+    <li><strong>2025/03-now</strong> : Independent Director, I-Scream Media, Seongnam, Gyeonggi-do, Korea</li>
+    <li><strong>2025/03-now</strong> : Independent Director, Hyundai WIA, Changwon,, Gyeongsangnam-do, Korea</li>
+    <li><strong>2025/03-now</strong> : Professor, Dept. of Artificial Intelligence, Korea University, Seoul, Korea</li>
     <li><strong>2018/02-2023/12</strong> : Executive Vice President (EVP), Samsung Research, Seoul, Korea</li>
     <li><strong>2018/02-2023/12</strong> : Head of Language &amp; Voice Team, Samsung Research, Seoul, Korea</li>
     <li><strong>2013/02-2018/02</strong> : Senior Software Engineer, Google Speech, Moutain View, CA, USA</li>
