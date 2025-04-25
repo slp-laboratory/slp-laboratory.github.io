@@ -174,9 +174,9 @@ toc: true
         <div class="name"> Yang-hun Ham (함양훈)</div>
         <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
         <ul>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
+          <li> Multi-modal </li>
+          <li> Spoken Language Processing </li>
+          <li> LLM </li>
         </ul>
       </div>
     </div>
