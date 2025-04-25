@@ -38,7 +38,7 @@ toc: true
   <h1>Ph.D. & MS/Pd.D Students</h1>
   <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/buzzi.jpg" alt="hyunku Kang">
+      <img src="../assets/images/member/buzzi2.jpg" alt="hyunku Kang">
       <div class="info">
         <div class="name">Chanwoo Park (박찬우)</div>
         <div class="email"><strong>Email</strong>: cksdn2529@naver.com</div>
@@ -128,7 +128,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi.jpg" alt="Kim ki yong">
+      <img src="../assets/images/member/buzzi2.jpg" alt="Kim ki yong">
       <div class="info">
         <div class="name"> Ki-yong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
