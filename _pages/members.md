@@ -30,7 +30,7 @@ toc: true
   .email { margin-top: 5px; font-size: 16px; }
   ul { padding-left: 10px; text-align: left; }
   .container li { font-size: 16px !important;}
-  .student img { width: 120px; height: 150px; object-fit:cover; border-radius: 10px; display: block; margin: 0 auto; }
+  .student img { width: 289px; height: 385px; object-fit:cover; border-radius: 10px; display: block; margin: 0 auto; }
 </style>
 </head>
 <body>
