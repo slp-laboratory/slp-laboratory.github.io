@@ -169,7 +169,7 @@ toc: true
   <h1>Research Interns</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/buzzi.jpg" alt="Ham Yang-hun">
+      <img src="../assets/images/member/yang-hoon.jpg" alt="Ham Yang-hoon">
       <div class="info">
         <div class="name"> Yang-hun Ham (함양훈)</div>
         <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
