@@ -38,7 +38,7 @@ toc: true
   <h1>Ph.D. & MS/Pd.D Students</h1>
   <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/buzzi2.jpg" alt="hyunku Kang">
+      <img src="../assets/images/member/buzzi2.JPG" alt="hyunku Kang">
       <div class="info">
         <div class="name">Chanwoo Park (박찬우)</div>
         <div class="email"><strong>Email</strong>: cksdn2529@naver.com</div>
@@ -50,7 +50,7 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/tahir.jpg" alt="Tahir Sher">
+      <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
         <div class="name">Tahir Sher (타히르)</div>
         <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
@@ -128,7 +128,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.jpg" alt="Kim ki yong">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Kim ki yong">
       <div class="info">
         <div class="name"> Ki-yong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
@@ -169,7 +169,7 @@ toc: true
   <h1>Research Interns</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/yang-hoon.jpg" alt="Ham Yang-hoon">
+      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yang-hoon">
       <div class="info">
         <div class="name"> Yang-hun Ham (함양훈)</div>
         <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
@@ -181,7 +181,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi.jpg" alt="Do-young Kwon">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Do-young Kwon">
       <div class="info">
         <div class="name"> Do-young Kwon (권도영)</div>
         <div class="email"><strong>Email</strong>: douyoung89@naver.com </div>
