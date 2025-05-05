@@ -41,7 +41,7 @@ toc: true
       <img src="../assets/images/member/buzzi2.JPG" alt="hyunku Kang">
       <div class="info">
         <div class="name">Chanwoo Park (박찬우)</div>
-        <div class="email"><strong>Email</strong>: cksdn2529@naver.com</div>
+        <div class="email"><strong>Email</strong>: cksdn1290@korea.ac.kr</div>
         <ul>
           <li>Electroencephalography</li>
           <li>Brain-Computer Interface</li>
@@ -177,6 +177,18 @@ toc: true
           <li> Multi-modal </li>
           <li> Spoken Language Processing </li>
           <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/Yerin.JPG" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Yerin Ryu (류예린)</div>
+        <div class="email"><strong>Email</strong>: dnsquf728@gmail.com </div>
+        <ul>
+          <li> Speech Synthesis </li>
+          <li> Multimodal </li>
+          <li> Generative Model </li>
         </ul>
       </div>
     </div>
