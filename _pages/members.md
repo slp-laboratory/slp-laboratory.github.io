@@ -130,7 +130,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Kim ki yong">
       <div class="info">
-        <div class="name"> Ki-yong Kim (김기용)</div>
+        <div class="name"> Kiyong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
         <ul>
           <li> Speech Recognition </li>
@@ -171,7 +171,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yang-hoon">
       <div class="info">
-        <div class="name"> Yang-hun Ham (함양훈)</div>
+        <div class="name"> Yanghun Ham (함양훈)</div>
         <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
         <ul>
           <li> Multi-modal </li>
@@ -181,7 +181,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/Yerin.JPG" alt="Yerin Ryu">
+      <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Yerin Ryu (류예린)</div>
         <div class="email"><strong>Email</strong>: dnsquf728@gmail.com </div>
