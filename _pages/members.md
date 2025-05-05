@@ -184,7 +184,7 @@ toc: true
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Yerin Ryu (류예린)</div>
-        <div class="email"><strong>Email</strong>: dnsquf728@gmail.com </div>
+        <div class="email"><strong>Email</strong>: yerinryu000@gmail.com </div>
         <ul>
           <li> Speech Synthesis </li>
           <li> Multimodal </li>
