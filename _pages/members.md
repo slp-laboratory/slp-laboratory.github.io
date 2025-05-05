@@ -38,7 +38,7 @@ toc: true
   <h1>Ph.D. & MS/Pd.D Students</h1>
   <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="hyunku Kang">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Chanwoo Park">
       <div class="info">
         <div class="name">Chanwoo Park (박찬우)</div>
         <div class="email"><strong>Email</strong>: cksdn1290@korea.ac.kr</div>
@@ -128,9 +128,9 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Kim ki yong">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Giyong Kim">
       <div class="info">
-        <div class="name"> Kiyong Kim (김기용)</div>
+        <div class="name"> Giyong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
         <ul>
           <li> Speech Recognition </li>
@@ -140,7 +140,7 @@ toc: true
       </div>
     </div>
         <div class="student">
-      <img src="../assets/images/member/In-sub.png" alt="In-sub Shin">
+      <img src="../assets/images/member/In-sub.png" alt="Inseop Shin">
       <div class="info">
         <div class="name"> Inseop Shin (신인섭)</div>
         <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
@@ -169,7 +169,7 @@ toc: true
   <h1>Research Interns</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yang-hoon">
+      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Yanghun Ham (함양훈)</div>
         <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
@@ -193,9 +193,9 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Do-young Kwon">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Doyoung Kwon">
       <div class="info">
-        <div class="name"> Do-young Kwon (권도영)</div>
+        <div class="name"> Doyoung Kwon (권도영)</div>
         <div class="email"><strong>Email</strong>: douyoung89@naver.com </div>
         <ul>
           <li> - </li>
