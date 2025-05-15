@@ -22,7 +22,7 @@ toc: true
 </head>
 <body>
 <div class="professor-card">
-  <img src="../assets/images/professor.PNG" alt="Prof. Chan-Woo Kim">
+  <img src="../assets/images/professor.jpg" alt="Prof. Chan-Woo Kim">
   <div class="info">
     <h1>Prof. Chanwoo Kim</h1>
     <!-- <p><strong>Professor</strong><br> -->
