@@ -192,18 +192,6 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Doyoung Kwon">
-      <div class="info">
-        <div class="name"> Doyoung Kwon (권도영)</div>
-        <div class="email"><strong>Email</strong>: douyoung89@naver.com </div>
-        <ul>
-          <li> - </li>
-          <li> - </li>
-          <li> - </li>
-        </ul>
-      </div>
-    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
