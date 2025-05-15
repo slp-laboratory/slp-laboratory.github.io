@@ -120,7 +120,6 @@ toc: true
       </p><hr>
       <p>2024.09.02 - 2025.08.31</p>
     </div>
-    <div class="projects-grid">
     <div class="project-card">
       <img src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 2">
       <p>
