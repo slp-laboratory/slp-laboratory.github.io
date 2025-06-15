@@ -128,7 +128,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Giyong Kim">
+      <img src="../assets/images/member/kiyong.jpg" alt="Giyong Kim">
       <div class="info">
         <div class="name"> Giyong Kim (김기용)</div>
         <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
@@ -189,6 +189,18 @@ toc: true
           <li> Speech Synthesis </li>
           <li> Multimodal </li>
           <li> Generative Model </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Park Minhee (박민희)</div>
+        <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
+        <ul>
+          <li> Speech </li>
+          <li> Multimodal </li>
+          <li> Deep Learning </li>
         </ul>
       </div>
     </div>

@@ -217,6 +217,7 @@
             margin-bottom: 5px;
         }
         table {
+            display: table;
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 10px;
@@ -280,82 +281,154 @@
 </div>
 
 <script>
-        // 샘플 데이터
-        const data = [
-            { 번호: 12, 제목: "GAN research : TILDA 기반 Data Augmentation model for MT", 발표자: "조민규 (Intern)", 일자: "2024-09-19", 자료: "https://drive.google.com/file/d/1l8hpvMmt2t-j8eVmj1yVyL7zjz9vVIYS/view?usp=sharing"},
-            { 번호: 11, 제목: "Research Review - Speaker Diarization", 발표자: "강현구 (M.S)", 일자: "2024-08-23", 자료: "https://docs.google.com/presentation/d/17tCCent7FjEvAcbyaKKNKTgc-2D7ik6h/edit?usp=sharing&ouid=115138912278346332323&rtpof=true&sd=true"},
-            { 번호: 10, 제목: "Paper Review - Reliability assessment of data augmented with LLM", 발표자: "김이레 (M.S)", 일자: "2024-08-16", 자료: "TBD"},
-            { 번호: 9, 제목: "Paper Review - Grapheme to Phoneme Conversion", 발표자: "최은서 (M.S)", 일자: "2024-08-09", 자료: "https://drive.google.com/file/d/1Nuoe9scKOeQebbZxy1eEIJc97dLN4_it/view?usp=drive_link"},
-            { 번호: 8, 제목: "Research History - M.S paper", 발표자: "박찬우 (Ph.D)", 일자: "2024-08-02", 자료: "https://docs.google.com/presentation/d/1uJHyXcqC3mX9Fd_euCcdDNIiCMpEuJKm/edit?usp=drive_link&ouid=101371425194593732001&rtpof=true&sd=true"},
-            { 번호: 7, 제목: "Research Review - HuggingFace-Pipeline", 발표자: "김동준 (Intern)", 일자: "2024-07-26", 자료: "https://drive.google.com/file/d/1y_l6V1DSItqfEHm1uaE5m6pBZGy2TCNU/view?usp=drive_link"},
-            { 번호: 6, 제목: "Lecture Review - Spline", 발표자: "조민규 (Intern)", 일자: "2024-07-26", 자료: "https://publish.obsidian.md/oscar-cho/Study/Math/Spline/Spline"},
-            { 번호: 5, 제목: "Lecture Review - Compression", 발표자: "강현구 (M.S)", 일자: "2024-07-19", 자료: "https://drive.google.com/file/d/1Jq1Tb-eGdGubQpnTDc4cjAMAbcHmVU9C/view?usp=sharing"},
-            { 번호: 4, 제목: "Paper Review - Cross-Lingual Named Entity Recognition via Multi-View Contrastive Learning", 발표자: "최은서 (M.S)", 일자: "2024-06-28", 자료: "https://drive.google.com/file/d/1Hto-MsUGvFEEOHQPZjjq7Em36vIvfi6P/view?usp=sharing"},
-            { 번호: 3, 제목: "Paper Review - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation", 발표자: "강현구 (M.S)", 일자: "2024-06-07", 자료: "https://drive.google.com/file/d/1lBxIV62_P-UmoMtRs82Jl9naFWS8SzTq/view?usp=sharing"},
-            { 번호: 2, 제목: "Lecture Review - sLLM", 발표자: "최은서 (M.S)", 일자: "2024-05-10", 자료: "https://drive.google.com/file/d/1lVYnEu9rBUGntbzoF_UTsy2x1lHrBB07/view?usp=sharing"},
-            { 번호: 1, 제목: "Paper Review - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities", 발표자: "강현구 (M.S)", 일자: "2024-05-03", 자료: "https://drive.google.com/file/d/1BTbA3amwh7UgH90gJGP0MTPm2_Ma6fQz/view?usp=sharing"},
-        ];
-
-        const rowsPerPage = 4; // 페이지 당 표시할 행 수
-        let currentPage = 1; // 현재 페이지
-
-        function displayTable(page) {
-            const tableBody = document.getElementById('table-body');
-            tableBody.innerHTML = ''; // 테이블 내용 비우기
-
-            const start = (page - 1) * rowsPerPage;
-            const end = start + rowsPerPage;
-            const paginatedData = data.slice(start, end);
-
-            paginatedData.forEach(row => {
-                const tr = document.createElement('tr');
-                tr.innerHTML = `
-                    <td>${row.번호}</td>
-                    <td>${row.제목}</td>
-                    <td>${row.발표자}</td>
-                    <td>${row.일자}</td>
-                    <td><a href="${row.자료}" target="_blank">Link</a></td>
-                `;
-                tableBody.appendChild(tr);
-            });
-        }
-
-        function displayPagination() {
-            const pagination = document.getElementById('pagination');
-            pagination.innerHTML = ''; // 페이지네이션 내용 비우기
-
-            const pageCount = Math.ceil(data.length / rowsPerPage);
-
-            for (let i = 1; i <= pageCount; i++) {
-                const a = document.createElement('a');
-                a.href = '#';
-                a.innerText = i;
-                if (i === currentPage) {
-                    a.classList.add('active');
+        var jsonp = function(url)
+        {
+            var script = window.document.createElement('script');
+            script.async = true;
+            script.src = url;
+            script.onerror = function()
+            {
+                alert('Can not access JSONP file.')
+            };
+            var done = false;
+            script.onload = script.onreadystatechange = function()
+            {
+                if (!done && (!this.readyState || this.readyState === 'loaded' || this.readyState === 'complete'))
+                {
+                    done = true;
+                    script.onload = script.onreadystatechange = null;
+                    if (script.parentNode)
+                    {
+                        return script.parentNode.removeChild(script);
+                    }
                 }
-                a.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    currentPage = i;
-                    displayTable(currentPage);
-                    updatePagination();
-                });
-                pagination.appendChild(a);
+            };
+            window.document.getElementsByTagName('head')[0].appendChild(script);
+        };
+        
+        // Example
+        
+        var my_callback = function(data)
+        {
+            var values = [];
+            var num = 1;
+            var rows = data.table.rows;
+            for(var key in rows.reverse())
+            {
+                if (rows[key].c[2].v == 'Completed')
+                {
+                    if (rows[key].c[5].v != 'Private')
+                    {
+                        if (!rows[key].c[1]) {var title = 'None'}
+                        else {var title = rows[key].c[1].v}
+
+                        if (!rows[key].c[3]) {var presentor = 'None'}
+                        else {var presentor = rows[key].c[3].v}
+
+                        if (!rows[key].c[4]) {var position = 'None'}
+                        else {var position = rows[key].c[4].v}
+
+                        if (!rows[key].c[6]) {var date = 'None'}
+                        else {var date = rows[key].c[6].f}
+
+                        if (!rows[key].c[7]) {var link = 'None'}
+                        else {var link = rows[key].c[7].v}
+                        
+                        values.push(
+                            { 
+                            '번호': num, 
+                             '제목': title, 
+                             '발표자': presentor +' (' + position + ')', 
+                            '일자': date, 
+                            '자료': link,
+                            }
+                        );
+                        num++;
+                    }
+                }
             }
-        }
 
-        function updatePagination() {
-            const links = document.querySelectorAll('.pagination a');
-            links.forEach(link => {
-                link.classList.remove('active');
-                if (parseInt(link.innerText) === currentPage) {
-                    link.classList.add('active');
+            values.reverse()
+            const rowsPerPage = 4; // 페이지 당 표시할 행 수
+            let currentPage = 1; // 현재 페이지
+    
+            function displayTable(page) {
+                const tableBody = document.getElementById('table-body');
+                tableBody.innerHTML = ''; // 테이블 내용 비우기
+    
+                const start = (page - 1) * rowsPerPage;
+                const end = start + rowsPerPage;
+                const paginatedData = values.slice(start, end);
+    
+                paginatedData.forEach(row => {
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>${row.번호}</td>
+                        <td>${row.제목}</td>
+                        <td>${row.발표자}</td>
+                        <td>${row.일자}</td>
+                        <td><a href="${row.자료}" target="_blank">Link</a></td>
+                    `;
+                    tableBody.appendChild(tr);
+                });
+            }
+
+            function displayPagination() {
+                const pagination = document.getElementById('pagination');
+                pagination.innerHTML = ''; // 페이지네이션 내용 비우기
+        
+                const pageCount = Math.ceil(values.length / rowsPerPage);
+        
+                for (let i = 1; i <= pageCount; i++) {
+                    const a = document.createElement('a');
+                    a.href = '#';
+                    a.innerText = i;
+                    if (i === currentPage) {
+                        a.classList.add('active');
+                    }
+                    a.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        currentPage = i;
+                        displayTable(currentPage);
+                        updatePagination();
+                    });
+                    pagination.appendChild(a);
+                    }
                 }
-            });
+    
+            function updatePagination() {
+                const links = document.querySelectorAll('.pagination a');
+                links.forEach(link => {
+                    link.classList.remove('active');
+                    if (parseInt(link.innerText) === currentPage) {
+                        link.classList.add('active');
+                    }
+                });
+            }
+    
+            // 초기 테이블과 페이지네이션 표시
+            displayTable(currentPage);
+            displayPagination(); 
         }
+    
+        var query = function (sql, callback) {
+            var url = 'https://spreadsheets.google.com/a/google.com/tq?',
+                params = {
+                    key: '185NpCONNMIqbyIvxQU0irysh03vPG_l-aXJYuZb7Kuo',
+                    tq: encodeURIComponent(sql),
+                    tqx: 'responseHandler:' + callback
+                },
+                qs = [];
+            for (var key in params) {
+                qs.push(key + '=' + params[key]);
+            }
+            url += qs.join('&');
+            return jsonp(url);
+        }
+    
+        query('select *', 'my_callback');
 
-        // 초기 테이블과 페이지네이션 표시
-        displayTable(currentPage);
-        displayPagination();
+
     </script>
 </body>
 </html>
@@ -434,7 +507,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2024 . Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2025 . Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

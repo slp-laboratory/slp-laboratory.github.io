@@ -112,21 +112,45 @@ toc: true
   </table><br>
   <h1>Projects</h1>
   <div class="projects-grid">
+      <div class="project-card">
+      <img src="../assets/images/projects/Diarization.PNG" alt="Project 1">
+      <p>
+        <span class="blue-text">(TIPA, 9-1-2)</span> LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발<br><br>
+        <span class="blue-text">(PM)</span> Chanwoo Park, Ireh Kim
+      </p><hr>
+      <p>2025.05.01 - 2025.12.31</p>
+    </div>
     <div class="project-card">
       <img src="../assets/images/projects/Diarization.PNG" alt="Project 2">
       <p>
-        <span class="blue-text">(LLSOLLU)</span> Speaker Verification & Diarization<br><br>
+        <span class="blue-text">(LLSOLLU)</span> Speaker Verification & Diarization<br><br><br>
         <span class="blue-text">(PM)</span> Hyunku Kang
       </p><hr>
       <p>2024.09.02 - 2025.08.31</p>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 2">
+        <div class="project-card">
+      <img src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
       <p>
-        <span class="blue-text">(9-1-2)</span> Real-time Adversarial Speech Generation <br><br>
-        <span class="blue-text">(PM)</span> TBD
+        <span class="blue-text">(IITP)</span> AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트 <br><br>
+        <span class="blue-text">(PM)</span> Enseo Choi
       </p><hr>
-      <p>2024.10.01 - 2025.09.30</p>
+      <p>2024.03.01 - 2026.12.31</p>
+    </div>
+    <div class="project-card">
+      <img src="../assets/images/projects/agi.png" alt="Project 2">
+      <p>
+        <span class="blue-text">(IITP)</span> ITRC, 자가 인지 및 학습 기반 범용 인공지능 기술 개발 <br><br>
+        <span class="blue-text">(PM)</span> Enseo Choi
+      </p><hr>
+      <p>2024.07.01 - 2031.12.31</p>
+    </div>
+        <div class="project-card">
+      <img src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 3">
+      <p>
+        <span class="blue-text">(NRF, 9-1-2)</span> Real-time Adversarial Speech Generation <br><br>
+        <span class="blue-text">(PM)</span> Chanwoo Park, Ireh Kim
+      </p><hr>
+      <p>2024.10.01 - 2025.01.31</p>
     </div>
     <!-- 프로젝트 카드 추가 -->
   </div>
