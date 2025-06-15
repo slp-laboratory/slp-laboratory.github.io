@@ -43,7 +43,7 @@ toc: true
     <div class="contact-info">
         <h1>Contact Us</h1>
         <p class="contact-text">
-            <strong>We are recruiting for Ph.D Students, Master Students, and Intern Researchers.</strong>
+            <strong>We are recruiting for only Ph.D Students, Integrated M.S.-Ph.D. Students, and Research Interns.</strong>
         </p>
         <ul>
             <li>E-mail: chanwcom@korea.ac.kr (Professor)</li>

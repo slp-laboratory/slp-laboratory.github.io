@@ -195,7 +195,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/minhee.jpg" alt="Yerin Ryu">
       <div class="info">
-        <div class="name"> Park Minhee (박민희)</div>
+        <div class="name"> Minhee Park (박민희)</div>
         <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
         <ul>
           <li> Speech </li>
