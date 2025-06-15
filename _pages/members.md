@@ -193,7 +193,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
+      <img src="../assets/images/member/minhee.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Park Minhee (박민희)</div>
         <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
