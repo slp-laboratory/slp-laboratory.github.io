@@ -50,7 +50,7 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
+      <img src="../assets/images/member/ttahir.png" alt="Tahir Sher">
       <div class="info">
         <div class="name">Tahir Sher (타히르)</div>
         <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
