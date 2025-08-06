@@ -162,24 +162,6 @@ toc: true
         </ul>
       </div>
     </div>
-    <!-- Repeat for other students -->
-  </div>
-</div>
-<div class="container">
-  <h1>Research Interns</h1>
-    <div class="profile">
-    <div class="student">
-      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yanghun">
-      <div class="info">
-        <div class="name"> Yanghun Ham (함양훈)</div>
-        <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
-        <ul>
-          <li> Multi-modal </li>
-          <li> Spoken Language Processing </li>
-          <li> LLM </li>
-        </ul>
-      </div>
-    </div>
     <div class="student">
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
@@ -201,6 +183,24 @@ toc: true
           <li> Speech </li>
           <li> Multimodal </li>
           <li> Deep Learning </li>
+        </ul>
+      </div>
+    </div>
+    <!-- Repeat for other students -->
+  </div>
+</div>
+<div class="container">
+  <h1>Research Interns</h1>
+    <div class="profile">
+    <div class="student">
+      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Yanghun Ham (함양훈)</div>
+        <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
+        <ul>
+          <li> Multi-modal </li>
+          <li> Spoken Language Processing </li>
+          <li> LLM </li>
         </ul>
       </div>
     </div>
