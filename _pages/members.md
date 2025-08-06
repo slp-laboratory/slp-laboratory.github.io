@@ -52,7 +52,7 @@ toc: true
       <div class="student">
       <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
-        <div class="name" id="egg">Tahir Sher (타히르)</div>
+        <div class="name easter-trigger" data-sequence="ttttttttt" data-img="/assets/images/member/tungegg.png">Tahir Sher (타히르)</div>
         <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
         <ul>
           <li>Generative AI</li>
@@ -100,7 +100,7 @@ toc: true
         <div class="student">
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
-        <div class="name"> Yerin Ryu (류예린)</div>
+        <div class="name easter-trigger" data-sequence="rrrrrrrrrr" data-img="/assets/images/member/yerinegg.jpg"> Yerin Ryu (류예린)</div>
         <div class="email"><strong>Email</strong>: yerinryu000@gmail.com </div>
         <ul>
           <li> Speech Synthesis </li>
@@ -142,7 +142,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
       <div class="info">
-        <div class="name">Hyunku Kang (강현구)</div>
+        <div class="name easter-trigger" data-sequence="rkdfmd" data-img="/assets/images/member/rkdfmd.png"> Hyunku Kang (강현구)</div>
         <div class="email"><strong>Email</strong>: kahk000@korea.ac.kr </div>
         <ul>
           <li>Speech</li>

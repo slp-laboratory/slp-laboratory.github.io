@@ -1,4 +1,3 @@
-// 중복 실행 방지
 if (!window.easterEggLoaded) {
   window.easterEggLoaded = true;
 
@@ -7,44 +6,48 @@ if (!window.easterEggLoaded) {
   document.addEventListener("DOMContentLoaded", function () {
     console.log("DOMContentLoaded fired");
 
-    const tahirElement = document.getElementById('egg');
-    console.log("Tahir element:", tahirElement);
+    const triggers = document.querySelectorAll('.easter-trigger');
+    if (!triggers.length) return;
 
-    if (!tahirElement) return;
-
-    let tPressCount = 0;
-    const triggerCount = 9;
+    let expectedSequence = "";
+    let currentInput = "";
+    let imageSrc = null;
     let isActive = false;
 
-    // 클릭 시 이스터에그 활성화
-    tahirElement.addEventListener('click', () => {
-      console.log("Tahir clicked!");
-      isActive = true;
-      tPressCount = 0;
+    triggers.forEach(el => {
+      el.addEventListener('click', () => {
+        expectedSequence = el.dataset.sequence?.toLowerCase();
+        imageSrc = el.dataset.img;
+        currentInput = "";
+        isActive = true;
+        console.log(`${el.textContent.trim()} clicked → waiting for: ${expectedSequence}`);
+      });
     });
 
-    // 키보드 T 키 누를 때 감지
     window.addEventListener('keydown', (event) => {
-      console.log("Key detected:", event.key);
-      if (!isActive) return;
+      if (!isActive || !expectedSequence) return;
 
-      if (event.key.toLowerCase() === 't') {
-        tPressCount++;
-        console.log(`T pressed ${tPressCount} times`);
-        if (tPressCount === triggerCount) {
-          console.log("Trigger activated!");
-          showSurpriseImage();
-          isActive = false;
-        }
-      } else {
-        tPressCount = 0;
+      const key = event.key.toLowerCase();
+
+      currentInput += key;
+      console.log(`Typed so far: ${currentInput}`);
+
+      // 입력된 내용이 일치하지 않으면 초기화
+      if (!expectedSequence.startsWith(currentInput)) {
+        console.log("Incorrect sequence. Reset.");
+        currentInput = "";
+        return;
+      }
+
+      if (currentInput === expectedSequence) {
+        console.log("Sequence matched! Triggering easter egg!");
+        showSurpriseImage(imageSrc);
+        isActive = false;
       }
     });
   });
 
-  // 이미지 띄우는 함수
-  function showSurpriseImage() {
-    console.log("Easter egg triggered!");
+  function showSurpriseImage(imageUrl) {
     const overlay = document.createElement('div');
     overlay.style.position = 'fixed';
     overlay.style.top = 0;
@@ -58,14 +61,13 @@ if (!window.easterEggLoaded) {
     overlay.style.alignItems = 'center';
 
     const img = document.createElement('img');
-    img.src = '/assets/images/member/tungegg.png'; // ✅ 여기에 실제 이미지 경로 입력
+    img.src = imageUrl;
     img.style.maxWidth = '90%';
     img.style.maxHeight = '90%';
     overlay.appendChild(img);
 
     document.body.appendChild(overlay);
 
-    // ESC 키로 닫기
     window.addEventListener('keydown', function escListener(e) {
       if (e.key === 'Escape') {
         overlay.remove();
