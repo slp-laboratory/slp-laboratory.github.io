@@ -35,7 +35,7 @@ toc: true
 </head>
 <body>
 <div class="container">
-  <h1>Ph.D. & MS/Pd.D Students</h1>
+  <h1>Ph.D. & MS/Ph.D. Students</h1>
   <div class="profile">
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Chanwoo Park">
@@ -50,7 +50,7 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/ttahir.png" alt="Tahir Sher">
+      <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
         <div class="name">Tahir Sher (타히르)</div>
         <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
@@ -231,11 +231,11 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
-        <div class="name"> Kyungsuk Oh (오경석)</div>
+        <div class="name"> Kyungseok Oh (오경석)</div>
         <div class="email"><strong>Email</strong>: lshh0000@korea.ac.kr </div>
         <ul>
-          <li> Multi-modal </li>
-          <li> Speech Synthesis </li>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
           <li> LLM </li>
         </ul>
       </div>
