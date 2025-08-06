@@ -61,24 +61,6 @@ toc: true
         </ul>
       </div>
     </div>
-      <div class="student">
-      <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
-      <div class="info">
-        <div class="name">Minkyu Cho (조민규)</div>
-        <div class="email"><strong>Email</strong>: minkyucho@korea.ac.kr</div>
-        <ul>
-          <li>Natural language Generation</li>
-          <li>Reinforcement Learning</li>
-          <li>LLM</li>
-        </ul>
-      </div>
-    </div>
-    <!-- Repeat for other students -->
-  </div>
-</div>
-<div class="container">
-  <h1>Master Students</h1>
-    <div class="profile">
     <div class="student">
       <img src="../assets/images/member/ireh.jpg" alt="Ireh Kim">
       <div class="info">
@@ -103,6 +85,60 @@ toc: true
         </ul>
       </div>
     </div>
+      <div class="student">
+      <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
+      <div class="info">
+        <div class="name">Minkyu Cho (조민규)</div>
+        <div class="email"><strong>Email</strong>: minkyucho@korea.ac.kr</div>
+        <ul>
+          <li>Natural language Generation</li>
+          <li>Reinforcement Learning</li>
+          <li>LLM</li>
+        </ul>
+      </div>
+    </div>
+        <div class="student">
+      <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Yerin Ryu (류예린)</div>
+        <div class="email"><strong>Email</strong>: yerinryu000@gmail.com </div>
+        <ul>
+          <li> Speech Synthesis </li>
+          <li> Multimodal </li>
+          <li> Generative Model </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/minhee.jpg" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Minhee Park (박민희)</div>
+        <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
+        <ul>
+          <li> Speech </li>
+          <li> Multimodal </li>
+          <li> Deep Learning </li>
+        </ul>
+      </div>
+    </div>
+        <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Hyowon Ahn (안효원)</div>
+        <div class="email"><strong>Email</strong>: hw1204@korea.ac.kr </div>
+        <ul>
+          <li> Deep Learning </li>
+          <li> Speech </li>
+          <li> Language </li>
+        </ul>
+      </div>
+    </div>
+    <!-- Repeat for other students -->
+  </div>
+</div>
+<div class="container">
+  <h1>Master Students</h1>
+    <div class="profile">
     <div class="student">
       <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
       <div class="info">
@@ -162,30 +198,6 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
-      <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
-      <div class="info">
-        <div class="name"> Yerin Ryu (류예린)</div>
-        <div class="email"><strong>Email</strong>: yerinryu000@gmail.com </div>
-        <ul>
-          <li> Speech Synthesis </li>
-          <li> Multimodal </li>
-          <li> Generative Model </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student">
-      <img src="../assets/images/member/minhee.jpg" alt="Yerin Ryu">
-      <div class="info">
-        <div class="name"> Minhee Park (박민희)</div>
-        <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
-        <ul>
-          <li> Speech </li>
-          <li> Multimodal </li>
-          <li> Deep Learning </li>
-        </ul>
-      </div>
-    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
@@ -200,6 +212,30 @@ toc: true
         <ul>
           <li> Multi-modal </li>
           <li> Spoken Language Processing </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Youngjae Kim (김영재)</div>
+        <div class="email"><strong>Email</strong>: yj122198@postech.ac.kr </div>
+        <ul>
+          <li> Multi-modal </li>
+          <li> Speech </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Kyungsuk Oh (오경석)</div>
+        <div class="email"><strong>Email</strong>: lshh0000@korea.ac.kr </div>
+        <ul>
+          <li> Multi-modal </li>
+          <li> Speech Synthesis </li>
           <li> LLM </li>
         </ul>
       </div>
