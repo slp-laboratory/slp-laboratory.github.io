@@ -154,7 +154,7 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/WooSungmook.jpg" alt="Sungmook Woo">
       <div class="info">
-        <div class="name easter-trigger" data-sequence="rlwjf" data-img="/assets/images/member/sungmook.jpg">Sungmook Woo (우성묵)</div>
+        <div class="name easter-trigger" data-sequence="rlwjf" data-img="/assets/images/member/sungmook.jpg"> Sungmook Woo (우성묵)</div>
         <div class="email"><strong>Email</strong>: woomook0524@korea.ac.kr</div>
         <ul>
           <li>Speech Recognition </li>
