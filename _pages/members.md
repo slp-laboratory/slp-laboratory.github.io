@@ -52,7 +52,7 @@ toc: true
       <div class="student">
       <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
-        <div class="name">Tahir Sher (타히르)</div>
+        <div class="name" id="egg">Tahir Sher (타히르)</div>
         <div class="email"><strong>Email</strong>: tahir2011.iiui@gmail.com</div>
         <ul>
           <li>Generative AI</li>
@@ -243,5 +243,6 @@ toc: true
     <!-- Repeat for other students -->
   </div>
 </div>
+<script src="/assets/js/easteregg.js"></script>
 </body>
 </html>

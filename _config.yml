@@ -298,3 +298,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+footer_scripts:
+  - https://code.jquery.com/jquery-3.6.0.min.js
+  - /assets/js/easteregg.js
