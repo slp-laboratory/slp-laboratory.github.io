@@ -219,18 +219,6 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
-        <div class="name"> Youngjae Kim (김영재)</div>
-        <div class="email"><strong>Email</strong>: yj122198@postech.ac.kr </div>
-        <ul>
-          <li> Multi-modal </li>
-          <li> Speech </li>
-          <li> LLM </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
-      <div class="info">
         <div class="name"> Kyungseok Oh (오경석)</div>
         <div class="email"><strong>Email</strong>: lshh0000@korea.ac.kr </div>
         <ul>
