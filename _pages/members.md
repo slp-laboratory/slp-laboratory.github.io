@@ -188,10 +188,10 @@ toc: true
       </div>
     </div>
       <div class="student">
-      <img src="../assets/images/member/tesia.jpg" alt="Sker Taesia">
+      <img src="../assets/images/member/tesia.jpg" alt="Sker Tesia">
       <div class="info">
         <div class="name">Sker Tesia (태시아)</div>
-        <div class="email"><strong>Email</strong>: taesia.sker@gmail.com</div>
+        <div class="email"><strong>Email</strong>: tesia.sker@gmail.com</div>
         <ul>
           <li>Generative Language Model</li>
           <li>Natural Language Understanding</li>
