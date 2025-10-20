@@ -43,13 +43,10 @@ toc: true
     <div class="contact-info">
         <h1>Contact Us</h1>
         <p class="contact-text">
-            <strong>We are recruiting for only Ph.D Students, Integrated M.S.-Ph.D. Students, and Research Interns.</strong>
+            <strong>We are looking for highly motivated prospective graduate students and research interns to join our lab.</strong>
         </p>
         <ul>
-            <li>E-mail: chanwcom@korea.ac.kr (Professor)</li>
-            <li>E-mail: kahk000@korea.ac.kr (Student)</li>
-            <li>Phone: +82 10-6721-7301 (Student)</li>
-            <li>Address: 145 Anam-ro, College of Science Annex Room #108, Seongbuk-gu, Seoul, Korea, 02841</li>
+            <li>Address: 145 Anam-ro, Woojung Hall of Informatics 207B, Seongbuk-gu, Seoul, Korea, 02841</li>
         </ul>
     </div>
 </div>
