@@ -85,7 +85,31 @@ toc: true
         </ul>
       </div>
     </div>
-      <div class="student">
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Kyungseok Oh (오경석)</div>
+        <div class="email"><strong>Email</strong>: lshh0000@korea.ac.kr </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Taewoo Kim (김태우)</div>
+        <div class="email"><strong>Email</strong>: rlataewoo@gmail.com </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
       <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
       <div class="info">
         <div class="name">Minkyu Cho (조민규)</div>
@@ -97,7 +121,7 @@ toc: true
         </ul>
       </div>
     </div>
-        <div class="student">
+    <div class="student">
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rrrrrrrrrr" data-img="/assets/images/member/yerinegg.jpg"> Yerin Ryu (류예린)</div>
@@ -110,7 +134,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/minhee.jpg" alt="Yerin Ryu">
+      <img src="../assets/images/member/minhee2.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Minhee Park (박민희)</div>
         <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
@@ -121,7 +145,7 @@ toc: true
         </ul>
       </div>
     </div>
-        <div class="student">
+    <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Hyowon Ahn (안효원)</div>
@@ -130,6 +154,30 @@ toc: true
           <li> Deep Learning </li>
           <li> Speech </li>
           <li> Language </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/seoungwoon.jpg" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Seongwoon Cho (조성운)</div>
+        <div class="email"><strong>Email</strong>: swjo@korea.ac.kr </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Yanghun Ham (함양훈)</div>
+        <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
+        <ul>
+          <li> Multi-modal </li>
+          <li> Spoken Language Processing </li>
+          <li> LLM </li>
         </ul>
       </div>
     </div>
@@ -198,6 +246,18 @@ toc: true
         </ul>
       </div>
     </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Dongjun Kim (김동준)</div>
+        <div class="email"><strong>Email</strong>: djunkim@korea.ac.kr </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
@@ -205,10 +265,10 @@ toc: true
   <h1>Research Interns</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
-        <div class="name"> Yanghun Ham (함양훈)</div>
-        <div class="email"><strong>Email</strong>: eric9898@naver.com </div>
+        <div class="name"> Jihan Ahn (안지한)</div>
+        <div class="email"><strong>Email</strong>: ajhan5552@gmail.com </div>
         <ul>
           <li> Multi-modal </li>
           <li> Spoken Language Processing </li>
@@ -219,8 +279,32 @@ toc: true
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
-        <div class="name"> Kyungseok Oh (오경석)</div>
-        <div class="email"><strong>Email</strong>: lshh0000@korea.ac.kr </div>
+        <div class="name"> Hayoung Lim (임하영)</div>
+        <div class="email"><strong>Email</strong>: ? </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Semin Kim (김세민)</div>
+        <div class="email"><strong>Email</strong>: smin1363@naver.com </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student">
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Youngjoon Ahn (안영준)</div>
+        <div class="email"><strong>Email</strong>: ayj3490@korea.ac.kr </div>
         <ul>
           <li> Generative AI </li>
           <li> Emotional Speech Synthesis </li>
