@@ -280,7 +280,7 @@ toc: true
       <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Hayoung Lim (임하영)</div>
-        <div class="email"><strong>Email</strong>: ? </div>
+        <div class="email"><strong>Email</strong>: hayoung10.lim@gmail.com </div>
         <ul>
           <li> Generative AI </li>
           <li> Emotional Speech Synthesis </li>
