@@ -86,7 +86,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/kyoungseok.png" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Kyungseok Oh (오경석)</div>
         <div class="email"><strong>Email</strong>: lshh0000@korea.ac.kr </div>
@@ -247,7 +247,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/dongjun.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Dongjun Kim (김동준)</div>
         <div class="email"><strong>Email</strong>: djunkim@korea.ac.kr </div>
