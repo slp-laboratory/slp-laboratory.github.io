@@ -265,7 +265,7 @@ toc: true
   <h1>Research Interns</h1>
     <div class="profile">
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/jihan.jpeg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Jihan Ahn (안지한)</div>
         <div class="email"><strong>Email</strong>: ajhan5552@gmail.com </div>
