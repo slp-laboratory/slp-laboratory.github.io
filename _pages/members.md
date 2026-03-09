@@ -289,7 +289,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/semin.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Semin Kim (김세민)</div>
         <div class="email"><strong>Email</strong>: smin1363@naver.com </div>
