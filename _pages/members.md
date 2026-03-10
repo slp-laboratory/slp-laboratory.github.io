@@ -258,6 +258,18 @@ toc: true
         </ul>
       </div>
     </div>
+    <div class="student">
+      <img src="../assets/images/member/Nathanael_Senjaya.jpg" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Nathanael Senjaya</div>
+        <div class="email"><strong>Email</strong>: senjayanathanael@gmail.com </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
