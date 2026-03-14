@@ -98,7 +98,7 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/TaewooKim.png" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Taewoo Kim (김태우)</div>
         <div class="email"><strong>Email</strong>: rlataewoo@gmail.com </div>

@@ -2,9 +2,8 @@
 permalink: /projects/
 title: "OKR"
 toc: true
-#sidebar:
-#  nav: "docs"
 ---
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -12,165 +11,226 @@ toc: true
 <title>Projects Overview</title>
 <style>
   body {
-    font-family: Arial, sans-serif;
+    font-family: 'Georgia', serif;
     margin: 0;
     padding: 0;
+    background-color: #ffffff;
+    color: #222;
   }
-  .container {
-    max-width: 1200px;
-    margin: auto;
-    padding: 20px;
+
+  .page-wrapper {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
   }
-  .projects-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+
+  /* ── OKR Table ── */
+  .section-block {
+    margin-bottom: 48px;
   }
-  .project-card {
-    background-color: white;
-    border: 1px solid #ddd;
-    padding: 10px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    display: grid;
-    grid-template-rows: auto 1fr auto;
-    gap: 10px;
+  .section-block h1 {
+    font-size: 22px;
+    font-weight: 700;
+    border-bottom: 2px solid #cbd5e1;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
   }
-  .project-card img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 5px;
-    grid-row: 1;
-  }
-  .project-card h2 {
-    font-size: 18px;
-    color: #333;
-    margin-top: 10px;
-  }
-  .project-card p {
-    font-size: 20px;
-    color: #666;
-    line-height: 1.4;
-    margin-top: 20px;
-    font-weight: bold;
-    grid-row: 2;
-  }
-  .blue-text {
-    color: blue;
-  }
-  .project-card hr {
-  grid-row: 3;
-  width: 100%;
-  margin: 0;
-  }
-.project-card p:last-child {
-  grid-row: 4;
-  align-self: end;
-  }
+
   .okr-table {
     width: 100%;
     border-collapse: collapse;
-    margin-bottom: 20px;
-    font-size: 20px;
+    font-size: 14px;
+    margin-bottom: 8px;
   }
   .okr-table th, .okr-table td {
-    border: 1px solid #ddd;
-    padding: 12px;
+    border: 1px solid #d1d5db;
+    padding: 10px 14px;
     text-align: left;
   }
   .okr-table th {
-    background-color: #f4f4f4;
-    font-weight: bold;
+    background-color: #f3f4f6;
+    font-weight: 700;
+    color: #111;
   }
   .okr-table a {
-    color: blue;
+    color: #2563eb;
     text-decoration: none;
   }
   .okr-table a:hover {
     text-decoration: underline;
   }
+
+  /* ── Section title ── */
+  .section-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 32px;
+    color: #111;
+  }
+
+  /* ── Project list ── */
+  .proj-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .proj-item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 28px;
+    padding: 36px 0;
+    border-bottom: 1px solid #d1d5db;
+  }
+  .proj-item:first-child {
+    border-top: 1px solid #d1d5db;
+  }
+
+  /* ── Thumbnail ── */
+  .proj-thumb {
+    flex: 0 0 220px;
+    width: 220px;
+    height: 150px;
+    border-radius: 6px;
+    object-fit: cover;
+    border: 1px solid #d1d5db;
+    background: #e5e7eb;
+  }
+
+  /* ── Text block ── */
+  .proj-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .proj-tag {
+    font-size: 13px;
+    font-weight: 700;
+    color: #2563eb;
+  }
+
+  .proj-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #111;
+    line-height: 1.45;
+    margin: 0;
+  }
+
+  .proj-pm {
+    font-size: 14px;
+    color: #374151;
+    margin: 0;
+  }
+  .proj-pm b {
+    font-weight: 700;
+    color: #111;
+  }
+
+  .proj-period {
+    font-size: 14px;
+    font-style: italic;
+    color: #555;
+    margin: 4px 0 0;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 640px) {
+    .proj-item {
+      flex-direction: column;
+    }
+    .proj-thumb {
+      width: 100%;
+      flex: none;
+    }
+  }
 </style>
 </head>
 <body>
-<div class="container">
-  <!-- OKR Table -->
-  <table class="okr-table">
-    <tr>
-      <th>OKR</th>
-      <th>Link</th>
-    </tr>
-    <tr>
-      <td>4Q 2024</td>
-      <td><a href="https://docs.google.com/spreadsheets/d/1U2NOStfZAYv_JFSqhG1v_Di8rl1TE101bqefWPKfuiI/edit?gid=1476668900#gid=1476668900" target="_blank">4Q 2024</a></td>
-    </tr>
-    <tr>
-      <td>1Q 2025</td>
-      <td><a href="https://docs.google.com/spreadsheets/d/1U2NOStfZAYv_JFSqhG1v_Di8rl1TE101bqefWPKfuiI/edit?gid=1476668900#gid=1476668900" target="_blank">Not Updated</a></td>
-    </tr>
-    <!-- OKR 행 추가 -->
-  </table><br>
-  <h1>Projects</h1>
-  <div class="projects-grid">
-      <div class="project-card">
-      <img src="../assets/images/projects/Diarization.PNG" alt="Project 1">
-      <p>
-        <span class="blue-text">(TIPA, 9-1-2)</span> LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발<br><br>
-        <span class="blue-text">(PM)</span> Chanwoo Park, Ireh Kim
-      </p><hr>
-      <p>2025.05.01 - 2025.12.31</p>
+<div class="page-wrapper">
+
+  <!-- ── Projects ── -->
+  <h1 class="section-title">Projects</h1>
+
+  <div class="proj-list">
+  
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/iscream.PNG" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">ISM 영어 독서 플랫폼 AI 음성 및 감정 분석 개발</p>
+        <p class="proj-tag">아이스크림 미디어</p>
+        <p class="proj-period">2026.02.01 – 2026.7.31</p>
+      </div>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/Diarization.PNG" alt="Project 2">
-      <p>
-        <span class="blue-text">(LLSOLLU)</span> Speaker Verification & Diarization<br><br><br>
-        <span class="blue-text">(PM)</span> Hyunku Kang
-      </p><hr>
-      <p>2024.09.02 - 2025.08.31</p>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/912_tipa.PNG" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발</p>
+        <p class="proj-tag">TIPA, 9-1-2</p>
+        <p class="proj-period">2025.05.01 – 2025.12.31</p>
+      </div>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
-      <p>
-        <span class="blue-text">(IITP)</span> AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트 <br><br>
-        <span class="blue-text">(PM)</span> Enseo Choi
-      </p><hr>
-      <p>2024.03.01 - 2026.12.31</p>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/Diarization.PNG" alt="Project 2">
+      <div class="proj-info">
+        <p class="proj-title">Speaker Verification & Diarization</p>
+        <p class="proj-tag">LLSOLLU</p>
+        <p class="proj-period">2024.09.02 – 2025.08.31</p>
+      </div>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/agi.png" alt="Project 2">
-      <p>
-        <span class="blue-text">(IITP)</span> ITRC, 자가 인지 및 학습 기반 범용 인공지능 기술 개발 <br><br>
-        <span class="blue-text">(PM)</span> Enseo Choi
-      </p><hr>
-      <p>2024.07.01 - 2031.12.31</p>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
+      <div class="proj-info">
+        <p class="proj-title">AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
+        <p class="proj-tag">IITP</p>
+        <p class="proj-period">2024.03.01 – 2026.12.31</p>
+      </div>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/ey.png" alt="Project 2">
-      <p>
-        <span class="blue-text">(EY 한영회계법인)</span> LLM을 활용한 Multi Intent Detection <br><br>
-        <span class="blue-text">(PM)</span> Hyunku Kang, Yanghoon Ham
-      </p><hr>
-      <p>2024.01.01 - 2024.02.28</p>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/agi.png" alt="Project 4">
+      <div class="proj-info">
+        <p class="proj-title">ITRC, 자가 인지 및 학습 기반 범용 인공지능 기술 개발</p>
+        <p class="proj-tag">IITP</p>
+        <p class="proj-period">2024.07.01 – 2031.12.31</p>
+      </div>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/koreaai.png" alt="Project 2">
-      <p>
-        <span class="blue-text">(IITP)</span> 인공지능 대학원 지원 사업 <br><br>
-        <span class="blue-text">(PM)</span> Enseo Choi
-      </p><hr>
-      <p>2024.03.01 - 2026.12.31</p>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/ey.png" alt="Project 5">
+      <div class="proj-info">
+        <p class="proj-title">LLM을 활용한 Multi Intent Detection</p>
+        <p class="proj-tag">EY 한영회계법인</p>
+        <p class="proj-period">2024.01.01 – 2024.02.28</p>
+      </div>
     </div>
-    <div class="project-card">
-      <img src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 3">
-      <p>
-        <span class="blue-text">(NRF, 9-1-2)</span> Real-time Adversarial Speech Generation <br><br>
-        <span class="blue-text">(PM)</span> Chanwoo Park, Ireh Kim
-      </p><hr>
-      <p>2024.10.01 - 2025.01.31</p>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/koreaai.png" alt="Project 6">
+      <div class="proj-info">
+        <p class="proj-title">인공지능 대학원 지원 사업</p>
+        <p class="proj-tag">IITP</p>
+        <p class="proj-period">2024.03.01 – 2026.12.31</p>
+      </div>
     </div>
-    <!-- 프로젝트 카드 추가 -->
-  </div>
-</div>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 7">
+      <div class="proj-info">
+        <p class="proj-title">Real-time Adversarial Speech Generation</p>
+        <p class="proj-tag">NRF, 9-1-2</p>
+        <p class="proj-period">2024.10.01 – 2025.01.31</p>
+      </div>
+    </div>
+
+  </div><!-- /.proj-list -->
+
+</div><!-- /.page-wrapper -->
 </body>
 </html>
-
