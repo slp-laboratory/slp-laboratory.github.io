@@ -327,6 +327,17 @@ toc: true
     <!-- Repeat for other students -->
   </div>
 </div>
+
+<div class="container">
+  <h1>Part-time thesis MS Student</h1>
+  <ul>
+    <li>엄다안, daaan@korea.ac.kr</li>
+    <li>박해온, haeonpark@korea.ac.kr</li>
+    <li>이현주, hyunju_lee_2025@korea.ac.kr</li>
+    <li>전우근, dugeon1117@gmail.com</li>
+    <li>성연우, yw5079@korea.ac.kr</li>
+  </ul>
+  </div>
 <script src="/assets/js/easteregg.js"></script>
 </body>
 </html>

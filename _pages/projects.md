@@ -188,7 +188,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발</p>
-        <p class="proj-tag">TIPA, 9-1-2</p>
+        <p class="proj-tag">TIPA</p>
         <p class="proj-period">2025.05.01 – 2025.12.31</p>
       </div>
     </div>
