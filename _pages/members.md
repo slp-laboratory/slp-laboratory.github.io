@@ -194,7 +194,7 @@ toc: true
         <div class="email"><strong>Email</strong>: kahk000@korea.ac.kr </div>
         <ul>
           <li>Speech</li>
-          <li>LLM & RAG</li>
+          <li>Self Supervised Learning</li>
           <li>Generative AI</li>
         </ul>
       </div>
@@ -229,9 +229,9 @@ toc: true
         <div class="name"> Inseop Shin (신인섭)</div>
         <div class="email"><strong>Email</strong>: vdlstjqn@korea.ac.kr</div>
         <ul>
-          <li> Diffusion </li>
+          <li> Speaker Diarization </li>
+          <li> Voice Synthesis </li>
           <li> Multimodal </li>
-          <li> LLM </li>
         </ul>
       </div>
     </div>
