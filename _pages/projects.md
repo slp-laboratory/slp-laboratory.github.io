@@ -158,7 +158,7 @@ toc: true
   <div class="proj-list">
   
     <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/iscream.PNG" alt="Project 1">
+      <img class="proj-thumb" src="../assets/images/projects/iscream.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">ISM 영어 독서 플랫폼 AI 음성 및 감정 분석 개발</p>
         <p class="proj-tag">아이스크림 미디어</p>
@@ -167,7 +167,7 @@ toc: true
     </div>
 
     <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/912_tipa.PNG" alt="Project 1">
+      <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발</p>
         <p class="proj-tag">TIPA, 9-1-2</p>
