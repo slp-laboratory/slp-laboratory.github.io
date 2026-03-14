@@ -167,6 +167,24 @@ toc: true
     </div>
 
     <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/ssiat.png" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">극소량 파인튜닝을 통해 LLM으로부터 구현하는 범용 생성형 음성 모델</p>
+        <p class="proj-tag">NRF</p>
+        <p class="proj-period">2025.09.01 – 2026.08.31</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/etrisdx.png" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">SDx 지능형 서비스의 최적 실행을 위한 생성형AI 지원 시스템SW 프레임워크 기술개발</p>
+        <p class="proj-tag">IITP</p>
+        <p class="proj-period">2025.07.01 – 2028.12.31</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발</p>
@@ -189,7 +207,7 @@ toc: true
       <div class="proj-info">
         <p class="proj-title">AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
         <p class="proj-tag">IITP</p>
-        <p class="proj-period">2024.03.01 – 2026.12.31</p>
+        <p class="proj-period">2025.03.01 – 2026.12.31</p>
       </div>
     </div>
 
@@ -198,7 +216,7 @@ toc: true
       <div class="proj-info">
         <p class="proj-title">ITRC, 자가 인지 및 학습 기반 범용 인공지능 기술 개발</p>
         <p class="proj-tag">IITP</p>
-        <p class="proj-period">2024.07.01 – 2031.12.31</p>
+        <p class="proj-period">2024.07.01 – 2025.12.31</p>
       </div>
     </div>
 
