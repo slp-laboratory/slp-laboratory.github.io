@@ -194,20 +194,20 @@ toc: true
     </div>
 
     <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
+      <div class="proj-info">
+        <p class="proj-title">AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
+        <p class="proj-tag">IITP</p>
+        <p class="proj-period">2025.04.01 – 2030.12.31</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/Diarization.PNG" alt="Project 2">
       <div class="proj-info">
         <p class="proj-title">Speaker Verification & Diarization</p>
         <p class="proj-tag">LLSOLLU</p>
         <p class="proj-period">2024.09.02 – 2025.08.31</p>
-      </div>
-    </div>
-
-    <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
-      <div class="proj-info">
-        <p class="proj-title">AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
-        <p class="proj-tag">IITP</p>
-        <p class="proj-period">2025.03.01 – 2026.12.31</p>
       </div>
     </div>
 
