@@ -203,6 +203,15 @@ toc: true
     </div>
 
     <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/ey.png" alt="Project 5">
+      <div class="proj-info">
+        <p class="proj-title">삼성전자 DS부문 DRAM 연구개발 IT Master Plan</p>
+        <p class="proj-tag"> 주식회사 에코아이티</p>
+        <p class="proj-period">2025.01.20 – 2025.02.28</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/Diarization.PNG" alt="Project 2">
       <div class="proj-info">
         <p class="proj-title">Speaker Verification & Diarization</p>
@@ -220,14 +229,6 @@ toc: true
       </div>
     </div>
 
-    <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/ey.png" alt="Project 5">
-      <div class="proj-info">
-        <p class="proj-title">LLM을 활용한 Multi Intent Detection</p>
-        <p class="proj-tag">EY 한영회계법인</p>
-        <p class="proj-period">2024.01.01 – 2024.02.28</p>
-      </div>
-    </div>
 
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/koreaai.png" alt="Project 6">
@@ -241,8 +242,8 @@ toc: true
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 7">
       <div class="proj-info">
-        <p class="proj-title">Real-time Adversarial Speech Generation</p>
-        <p class="proj-tag">NRF, 9-1-2</p>
+        <p class="proj-title">GAN기반 적대적 음성 생성 메커니즘을 통한 고도화된 적대적 perturbation 생성 알고리즘 </p>
+        <p class="proj-tag">LINC 3.0 사업 지원과제</p>
         <p class="proj-period">2024.10.01 – 2025.01.31</p>
       </div>
     </div>
