@@ -153,7 +153,7 @@ toc: true
       Recent Publications
       <span class="sub-link">
         (<a href="https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao"
-        >Full List of Publications</a>)
+        >Refer to this Google Scholar Page for the Full List of Publications</a>)
       </span>
     </h1>
   <div class="pub-list">
