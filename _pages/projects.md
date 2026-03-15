@@ -161,7 +161,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/iscream.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">ISM 영어 독서 플랫폼 AI 음성 및 감정 분석 개발</p>
-        <p class="proj-tag">아이스크림 미디어</p>
+        <p class="proj-tag">(주) 아이스크림 미디어</p>
         <p class="proj-period">2026.02.01 – 2026.7.31</p>
       </div>
     </div>
@@ -206,8 +206,17 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/ey.png" alt="Project 5">
       <div class="proj-info">
         <p class="proj-title">삼성전자 DS부문 DRAM 연구개발 IT Master Plan</p>
-        <p class="proj-tag"> 주식회사 에코아이티</p>
+        <p class="proj-tag"> (주) 에코아이티</p>
         <p class="proj-period">2025.01.20 – 2025.02.28</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 7">
+      <div class="proj-info">
+        <p class="proj-title">GAN기반 적대적 음성 생성 메커니즘을 통한 고도화된 적대적 perturbation 생성 알고리즘 </p>
+        <p class="proj-tag">LINC 3.0 사업 지원과제</p>
+        <p class="proj-period">2024.10.01 – 2025.01.31</p>
       </div>
     </div>
 
@@ -215,7 +224,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/Diarization.PNG" alt="Project 2">
       <div class="proj-info">
         <p class="proj-title">Speaker Verification & Diarization</p>
-        <p class="proj-tag">LLSOLLU</p>
+        <p class="proj-tag">(주) 엘솔루 (LLsoLLu)</p>
         <p class="proj-period">2024.09.02 – 2025.08.31</p>
       </div>
     </div>
@@ -239,14 +248,6 @@ toc: true
       </div>
     </div>
 
-    <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 7">
-      <div class="proj-info">
-        <p class="proj-title">GAN기반 적대적 음성 생성 메커니즘을 통한 고도화된 적대적 perturbation 생성 알고리즘 </p>
-        <p class="proj-tag">LINC 3.0 사업 지원과제</p>
-        <p class="proj-period">2024.10.01 – 2025.01.31</p>
-      </div>
-    </div>
 
   </div><!-- /.proj-list -->
 
