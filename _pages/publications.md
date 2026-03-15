@@ -148,7 +148,7 @@ toc: true
 <body>
 <div class="page-wrapper">
 
-  <!-- ── Highlights / Selected Publications ── -->
+  <!-- ── Highlights / Recent Publications ── -->
   <h1 class="section-title">
     Selected Publications
     (<a href="https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao">Full List of Publications</a>)
@@ -179,7 +179,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">A Novel Chain-of-Thought Reasoning Approach for Alzheimer’s Disease Detection Using Large Language and Vision-Language Models</p>
         <p class="pub-authors"><b>Chanwoo Park</b> and <b>Chanwoo Kim</b></p>
-        <p class="pub-venue">IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2025.</p>
+        <p class="pub-venue">IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE) (Top 2% in the JCR category of "Rehabilitation") , 2025.</p>
       </div>
     </div>
 
