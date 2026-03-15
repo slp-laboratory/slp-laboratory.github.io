@@ -170,7 +170,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/ssiat.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">극소량 파인튜닝을 통해 LLM으로부터 구현하는 범용 생성형 음성 모델</p>
-        <p class="proj-tag">NRF</p>
+        <p class="proj-tag">한국 연구재단 우수 신진 씨앗 과제 </p>
         <p class="proj-period">2025.09.01 – 2026.08.31</p>
       </div>
     </div>
