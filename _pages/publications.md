@@ -182,7 +182,7 @@ toc: true
         <p class="pub-title">A Novel Chain-of-Thought Reasoning Approach for Alzheimer’s Disease Detection Using Large Language and Vision-Language Models</p>
         <p class="pub-authors"><b>Chanwoo Park</b> and <b>Chanwoo Kim</b></p>
         <p class="pub-venue">
-        IEEE Trans. Neural Systems and Rehabilitation Engineering (TNSRE)
+        IEEE Trans. Neural Systems and Rehabilitation Engineering Nov. 2025 (TNSRE)
         <span style="color: red;">(Top 2% in the JCR category of "Rehabilitation")</span>
         </p>
       </div>
