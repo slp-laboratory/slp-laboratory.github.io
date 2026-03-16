@@ -68,3 +68,23 @@ html {
     font-size: 18px; // change to whatever
   }
 }
+
+/*
+Override the ".section-title" to significantly increase font size.
+The ".sub-link" span ensures the "Full List" link breaks to a new line
+and maintains a balanced visual hierarchy relative to the massive header.
+*/
+.section-title {
+  font-size: 3.0rem !important; /* Extremely large for prominence */
+  line-height: 1.1;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+
+  .sub-link {
+    display: block;      /* Force a line break */
+    font-size: 0.35em;   /* Scaled down relative to the 4.5rem parent */
+    font-weight: 400;    /* Lighter weight for visual contrast */
+    margin-top: 0.2em;   /* Precise spacing between title and link */
+    letter-spacing: 0;   /* Reset any inherited tight tracking */
+  }
+}

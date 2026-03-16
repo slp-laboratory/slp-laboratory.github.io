@@ -133,6 +133,22 @@ toc: true
         </ul>
       </div>
     </div>
+<<<<<<< HEAD
+=======
+    <!-- <div class="student">
+      <img src="../assets/images/member/minhee2.jpg" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Minhee Park (박민희)</div>
+        <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
+        <ul>
+          <li> Speech </li>
+          <li> Multimodal </li>
+          <li> Deep Learning </li>
+        </ul>
+      </div>
+    </div>
+    -->
+>>>>>>> 80f31b49e91584f8de543d29ddcb4f82ff0e35a7
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
       <div class="info">
