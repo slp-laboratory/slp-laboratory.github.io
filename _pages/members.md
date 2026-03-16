@@ -133,7 +133,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <!-- <div class="student">
       <img src="../assets/images/member/minhee2.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Minhee Park (박민희)</div>
@@ -145,6 +145,7 @@ toc: true
         </ul>
       </div>
     </div>
+    -->
     <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
       <div class="info">
