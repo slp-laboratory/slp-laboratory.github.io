@@ -244,7 +244,7 @@ toc: true
       <div class="proj-info">
         <p class="proj-title">인공지능 대학원 지원 사업</p>
         <p class="proj-tag">IITP</p>
-        <p class="proj-period">2024.03.01 – 2026.12.31</p>
+        <p class="proj-period">2024.03.01 – 2028.12.31</p>
       </div>
     </div>
 
