@@ -134,18 +134,6 @@ toc: true
       </div>
     </div>
     <div class="student">
-      <img src="../assets/images/member/minhee2.jpg" alt="Yerin Ryu">
-      <div class="info">
-        <div class="name"> Minhee Park (박민희)</div>
-        <div class="email"><strong>Email</strong>: himinsunsine@gmail.com </div>
-        <ul>
-          <li> Speech </li>
-          <li> Multimodal </li>
-          <li> Deep Learning </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student">
       <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Hyowon Ahn (안효원)</div>
@@ -331,6 +319,7 @@ toc: true
 <div class="container">
   <h1>Part-time thesis MS Student</h1>
   <ul>
+    <li>김세진, sejink905@naver.com</li>
     <li>엄다안, daaan@korea.ac.kr</li>
     <li>박해온, haeonpark@korea.ac.kr</li>
     <li>이현주, hyunju_lee_2025@korea.ac.kr</li>
