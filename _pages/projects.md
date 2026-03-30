@@ -158,6 +158,15 @@ toc: true
   <div class="proj-list">
   
     <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">발화 단계 실시간 개입 기반 Audio-LLM 음성 민감 정보 보호 인프라 고도화 및 사업화 </p>
+        <p class="proj-tag">중소기업기술정보진흥원 (TIPA) - 산학연 Collabo R&D(R&D) </p>
+        <p class="proj-period">2026.04.01 – 2028.3.31</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/iscream.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">ISM 영어 독서 플랫폼 AI 음성 및 감정 분석 개발</p>
