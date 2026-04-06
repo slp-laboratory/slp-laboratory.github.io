@@ -37,7 +37,7 @@ toc: true
 <div class="container">
   <h1>Ph.D. & MS/Ph.D. Students</h1>
   <div class="profile">
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/buzzi2.JPG" alt="Chanwoo Park">
       <div class="info">
         <div class="name">Chanwoo Park (박찬우)</div>
@@ -49,7 +49,7 @@ toc: true
         </ul>
       </div>
     </div>
-      <div class="student">
+      <div class="student" data-nosnippet>
       <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
         <div class="name easter-trigger" data-sequence="ttttttttt" data-img="/assets/images/member/tungegg.png">Tahir Sher (타히르)</div>
@@ -61,7 +61,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/ireh.jpg" alt="Ireh Kim">
       <div class="info">
         <div class="name">Ireh Kim (김이레)</div>
@@ -73,7 +73,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/Eunseo.jpg" alt="Enseo Choi">
       <div class="info">
         <div class="name">Enseo Choi (최은서)</div>
@@ -85,7 +85,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/kyoungseok.png" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Kyungseok Oh (오경석)</div>
@@ -97,7 +97,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/TaewooKim.png" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Taewoo Kim (김태우)</div>
@@ -109,7 +109,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
       <div class="info">
         <div class="name">Minkyu Cho (조민규)</div>
@@ -121,7 +121,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rrrrrrrrrr" data-img="/assets/images/member/yerinegg.jpg"> Yerin Ryu (류예린)</div>
@@ -133,7 +133,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
       <div class="info">
         <div class="name"> Hyowon Ahn (안효원)</div>
@@ -145,7 +145,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/seoungwoon.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Seongwoon Cho (조성운)</div>
@@ -157,7 +157,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/yang-hoon.JPG" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Yanghun Ham (함양훈)</div>
@@ -175,7 +175,7 @@ toc: true
 <div class="container">
   <h1>Master Students</h1>
     <div class="profile">
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rkdfmd" data-img="/assets/images/member/rkdfmd.png"> Hyunku Kang (강현구)</div>
@@ -187,7 +187,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/WooSungmook.jpg" alt="Sungmook Woo">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rlwjf" data-img="/assets/images/member/sungmook.jpg"> Sungmook Woo (우성묵)</div>
@@ -199,7 +199,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/kiyong.jpg" alt="Giyong Kim">
       <div class="info">
         <div class="name"> Giyong Kim (김기용)</div>
@@ -211,7 +211,7 @@ toc: true
         </ul>
       </div>
     </div>
-        <div class="student">
+      <div class="student" data-nosnippet>
       <img src="../assets/images/member/In-sub.png" alt="Inseop Shin">
       <div class="info">
         <div class="name"> Inseop Shin (신인섭)</div>
@@ -223,7 +223,7 @@ toc: true
         </ul>
       </div>
     </div>
-      <div class="student">
+      <div class="student" data-nosnippet>
       <img src="../assets/images/member/tesia.jpg" alt="Sker Tesia">
       <div class="info">
         <div class="name">Sker Tesia (태시아)</div>
@@ -234,7 +234,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+      <div class="student" data-nosnippet>
       <img src="../assets/images/member/dongjun.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Dongjun Kim (김동준)</div>
@@ -246,7 +246,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/Nathanael_Senjaya.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Nathanael Senjaya</div>
@@ -264,7 +264,7 @@ toc: true
 <div class="container">
   <h1>Research Interns</h1>
     <div class="profile">
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/jihan.jpeg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Jihan Ahn (안지한)</div>
@@ -276,7 +276,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Hayoung Lim (임하영)</div>
@@ -288,7 +288,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/semin.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Semin Kim (김세민)</div>
@@ -300,7 +300,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student">
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Youngjoon Ahn (안영준)</div>
