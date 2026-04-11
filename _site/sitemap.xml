@@ -13,7 +13,7 @@
 <loc>http://localhost:4000/members/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/news/</loc>
+<loc>http://localhost:4000/private/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/professor/</loc>
