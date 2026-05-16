@@ -12,8 +12,8 @@ main:
     url: /projects/
   - title: "Research Area"
     url: /research_area/
-  - title: "News"
-    url: /news/
+  - title: "Private"
+    url: /private/
   - title: "Seminar"
     url: /seminar/
   - title: "Contact"

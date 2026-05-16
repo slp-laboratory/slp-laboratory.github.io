@@ -124,6 +124,15 @@ author_profile: false
     </div>
     <!-- More cards can be added similarly -->
   </div>
+  <section style="margin-top: 60px; text-align: center;">
+  <h1>Lab News</h1>
+    <ul style="text-align: left;">
+    <li>2025.03.01, One PhD-Integrated student and Three Master's students joined the Lab.</li>
+    <li>2024.09.01, One Ph.D and two masters joined the Lab</li>
+    <li>2024.03.02, Two masters joined the Lab</li>
+    <li>2024.03.02, Speech and Language Processing Lab. was created in March 2024 at Korea University</li>
+    </ul>
+  </section>
 </div>
 </body>
 </html>
