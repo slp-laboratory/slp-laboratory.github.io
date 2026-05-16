@@ -158,10 +158,10 @@ toc: true
   <div class="proj-list">
   
     <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
+      <img class="proj-thumb" src="../assets/images/projects/spo_project_deepfake_2026.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">새로운 음성합성 기술과 화자 인식에 강인한 페이크 보이스 탐지 기술 개발</p>
-        <p class="proj-tag">대검찰청 법과학분석과 - 용역과제 </p>
+        <p class="proj-tag">대검찰청 법과학분석과 - 연구용역과제 </p>
         <p class="proj-period"> 2026.  – 2026.12.04</p>
       </div>
     </div>
