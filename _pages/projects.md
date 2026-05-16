@@ -160,9 +160,8 @@ toc: true
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
-        <p class="proj-title">새로운 음성합성 기술과 화자 인식에 강인한 페이크
-보이스 탐지 기술 개발</p>
-        <p class="proj-tag">대검찰청 법과학분석과</p>
+        <p class="proj-title">새로운 음성합성 기술과 화자 인식에 강인한 페이크 보이스 탐지 기술 개발</p>
+        <p class="proj-tag">대검찰청 법과학분석과 - 용역과제 </p>
         <p class="proj-period">    – 2026.12.04</p>
       </div>
     </div>
@@ -180,7 +179,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/iscream.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">ISM 영어 독서 플랫폼 AI 음성 및 감정 분석 개발</p>
-        <p class="proj-tag">(주) 아이스크림 미디어</p>
+        <p class="proj-tag">(주) 아이스크림 미디어 - 산학과제 </p>
         <p class="proj-period">2026.02.01 – 2026.7.31</p>
       </div>
     </div>
@@ -189,7 +188,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/ssiat.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">극소량 파인튜닝을 통해 LLM으로부터 구현하는 범용 생성형 음성 모델</p>
-        <p class="proj-tag">한국 연구재단 우수 신진 씨앗 과제 </p>
+        <p class="proj-tag">한국 연구재단 -  우수 신진 씨앗 과제 </p>
         <p class="proj-period">2025.09.01 – 2026.08.31</p>
       </div>
     </div>
@@ -225,7 +224,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/ey.png" alt="Project 5">
       <div class="proj-info">
         <p class="proj-title">삼성전자 DS부문 DRAM 연구개발 IT Master Plan</p>
-        <p class="proj-tag"> (주) 에코아이티</p>
+        <p class="proj-tag"> (주) 에코아이티 - 산학과제 </p>
         <p class="proj-period">2025.01.20 – 2025.02.28</p>
       </div>
     </div>
@@ -243,7 +242,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/Diarization.PNG" alt="Project 2">
       <div class="proj-info">
         <p class="proj-title">Speaker Verification & Diarization</p>
-        <p class="proj-tag">(주) 엘솔루 (LLsoLLu)</p>
+        <p class="proj-tag">(주) 엘솔루 (LLsoLLu) - 산학과제 </p>
         <p class="proj-period">2024.09.02 – 2025.08.31</p>
       </div>
     </div>
