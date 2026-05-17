@@ -170,7 +170,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">발화 단계 실시간 개입 기반 Audio-LLM 음성 민감 정보 보호 인프라 고도화 및 사업화 </p>
-        <p class="proj-tag">중소기업기술정보진흥원 (TIPA) - 산학연 Collabo R&D(R&D) </p>
+        <p class="proj-tag">중소기업기술정보진흥원(Korea Technology and Information Promotion Agency for SMEs; TIPA) - 산학연 Collabo R&D(R&D) </p>
         <p class="proj-period">2026.04.01 – 2028.3.31</p>
       </div>
     </div>
@@ -197,7 +197,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/etrisdx.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">SDx 지능형 서비스의 최적 실행을 위한 생성형AI 지원 시스템SW 프레임워크 기술개발</p>
-        <p class="proj-tag">IITP</p>
+        <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2025.07.01 – 2028.12.31</p>
       </div>
     </div>
@@ -206,7 +206,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발</p>
-        <p class="proj-tag">TIPA</p>
+        <p class="proj-tag">중소기업기술정보진흥원(Korea Technology and Information Promotion Agency for SMEs; TIPA) </p>
         <p class="proj-period">2025.05.01 – 2025.12.31</p>
       </div>
     </div>
@@ -215,7 +215,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
       <div class="proj-info">
         <p class="proj-title">AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
-        <p class="proj-tag">IITP</p>
+        <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2025.04.01 – 2030.12.31</p>
       </div>
     </div>
@@ -251,7 +251,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/agi.png" alt="Project 4">
       <div class="proj-info">
         <p class="proj-title">ITRC, 자가 인지 및 학습 기반 범용 인공지능 기술 개발</p>
-        <p class="proj-tag">IITP</p>
+        <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2024.07.01 – 2025.12.31</p>
       </div>
     </div>
@@ -261,7 +261,7 @@ toc: true
       <img class="proj-thumb" src="../assets/images/projects/koreaai.png" alt="Project 6">
       <div class="proj-info">
         <p class="proj-title">인공지능 대학원 지원 사업</p>
-        <p class="proj-tag">IITP</p>
+        <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2024.03.01 – 2028.12.31</p>
       </div>
     </div>
