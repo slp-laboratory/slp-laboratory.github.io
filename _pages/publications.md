@@ -161,6 +161,51 @@ toc: true
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/doc-llm.PNG" alt="Mels-TTS">
       <div class="pub-info">
+        <p class="pub-title">Accepted</p>
+        <p class="pub-authors"><b>Chanwoo Park</b> and <b>Chanwoo Kim</b></p>
+        <p class="pub-venue">Proc. Interspeech, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/minhee.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">From Masking to Merging: Rethinking SpecAugment for Efficient Audio Spectrogram Transformer</p>
+        <p class="pub-authors">Minhee Park, <b>Hyowon Ahn</b>, and <b>Chanwoo Kim</b></p>
+        <p class="pub-venue">Proc. Interspeech, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/tvamsp.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">Beyond Short Segments : Expanding Speaker Embeddings with Vector Archives</p>
+        <p class="pub-authors"><b>Hyunku Kang</b>, <b>Minkyu Cho</b>, and <b>Chanwoo Kim</b></p>
+        <p class="pub-venue">Proc. Interspeech, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/siser.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
+        <p class="pub-authors"><b>Enseo Choi</b>, <b>Hyunku Kang</b>, and <b>Chanwoo Kim</b></p>
+        <p class="pub-venue">Proc. Interspeech, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/sungmook.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">Efficient Punctuation Restoration via Weighted Lookahead Scoring Method for Streaming ASR Systems</p>
+        <p class="pub-authors"><b>Sungmook Woo</b>, <b>Hyunku Kang</b>, and <b>Chanwoo Kim</b></p>
+        <p class="pub-venue">Proc. IJCNN, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/doc-llm.PNG" alt="Mels-TTS">
+      <div class="pub-info">
         <p class="pub-title">Enhancing Document-Level Machine Translation via filtered synthetic corpora and two-stage LLM adaptation</p>
         <p class="pub-authors"><b>Ireh Kim</b>, <b>Tesia Sker</b>, and <b>Chanwoo Kim</b></p>
         <p class="pub-venue">Proc. ICASSP, 2026.</p>

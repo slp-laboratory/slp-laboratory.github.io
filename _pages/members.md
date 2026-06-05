@@ -169,6 +169,18 @@ toc: true
         </ul>
       </div>
     </div>
+    <div class="student" data-nosnippet>
+      <img src="../assets/images/member/kimjihan.jpg" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Jihan Kim (김지한)</div>
+        <div class="email"><strong>Email</strong>: jihankim@korea.ac.kr </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Multimodal fusion </li>
+          <li> AI Safety </li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
