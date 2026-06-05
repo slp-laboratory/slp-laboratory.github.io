@@ -159,9 +159,9 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/doc-llm.PNG" alt="Mels-TTS">
+      <img class="pub-thumb" src="../assets/images/paper/sleep.PNG" alt="Mels-TTS">
       <div class="pub-info">
-        <p class="pub-title">Accepted</p>
+        <p class="pub-title">Sleep Sound Event Detection Powered by Learnable Multi-Resolution Adaptive Line Enhancer</p>
         <p class="pub-authors"><b>Chanwoo Park</b> and <b>Chanwoo Kim</b></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
