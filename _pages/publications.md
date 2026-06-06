@@ -114,8 +114,10 @@ toc: true
 
     /* Style for the first authors (Bold + Underline) */
     .first-author {
-      color: #198754;
+      color: #000000;
+      font-family: "Arial Black", "Impact", "Headline", sans-serif;
       font-weight: bold;
+      font-size: 1.1 rem;
       text-decoration: underline;
     }
 
