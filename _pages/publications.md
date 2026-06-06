@@ -303,7 +303,8 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/wavumamba.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution</p>
-        <p class="pub-authors"><span class="first-author">Yongjoon Lee</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-authors"><span class="first-author">Yongjoon Lee<sup>*</sup></span> and 
+            <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ICASSP, 2025.</p>
       </div>
     </div>
