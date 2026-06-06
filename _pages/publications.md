@@ -114,6 +114,7 @@ toc: true
 
     /* Style for the first authors (Bold + Underline) */
     .first-author {
+      color: #198754;
       font-weight: bold;
       text-decoration: underline;
     }
