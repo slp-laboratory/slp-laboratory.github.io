@@ -225,10 +225,10 @@ toc: true
     </div>
 
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/minhee.PNG" alt="Mels-TTS">
+      <img class="pub-thumb" src="../assets/images/paper/siser.PNG" alt="Mels-TTS">
       <div class="pub-info">
-        <p class="pub-title">From Masking to Merging: Rethinking SpecAugment for Efficient Audio Spectrogram Transformer</p>
-        <p class="pub-authors"><span class="first-author">Minhee Park</span>, Hyowon Ahn, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
+        <p class="pub-authors"><span class="first-author">Eunseo Choi</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -242,11 +242,12 @@ toc: true
       </div>
     </div>
 
+
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/siser.PNG" alt="Mels-TTS">
+      <img class="pub-thumb" src="../assets/images/paper/minhee.PNG" alt="Mels-TTS">
       <div class="pub-info">
-        <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
-        <p class="pub-authors"><span class="first-author">Enseo Choi</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-title">From Masking to Merging: Rethinking SpecAugment for Efficient Audio Spectrogram Transformer</p>
+        <p class="pub-authors"><span class="first-author">Minhee Park</span>, Hyowon Ahn, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
