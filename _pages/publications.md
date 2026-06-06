@@ -357,7 +357,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/macro.PNG" alt="Macro-Block Dropout">
       <div class="pub-info">
         <p class="pub-title">Macro-Block Dropout for Improved Regularization in Training End-to-End Speech Recognition Models</p>
-        <p class="pub-authors"><span class="first-author">Chanwoo Kim</span>, Sathish Indurti, Jinhwan Park, and Wonyong Sung</p>
+        <p class="pub-authors"><span class="first-author pi-author">Chanwoo Kim</span>, Sathish Indurti, Jinhwan Park, and Wonyong Sung</p>
         <p class="pub-venue">Proc. SLT, 2022.</p>
       </div>
     </div>
