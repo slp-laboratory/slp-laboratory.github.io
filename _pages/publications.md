@@ -108,22 +108,52 @@ toc: true
     margin: 2px 0 0;
   }
 
-    /* First Author */
+    /* ==========================================================================
+       Publication List Typography Styles
+       ========================================================================== */
+
+    /* Style for the first authors (Bold + Underline) */
     .first-author {
-        font-weight: bold;
-        text-decoration: underline;
+      font-weight: bold;
+      text-decoration: underline;
     }
 
-    /* PI author */
+    /* Style for the Principal Investigator / Professor (Navy Blue + Bold) */
     .pi-author {
-        color: #0056b3; 
-        font-weight: bold;
+      color: #0056b3; 
+      font-weight: bold;
     }
 
-    /* Corresponding author */
+    /* Adjust fine spacing for the corresponding author's superscript asterisk */
     .pub-authors sup {
-        margin-left: 2px;
-        font-weight: normal;
+      margin-left: 2px;
+      font-weight: normal;
+    }
+
+
+    /* ==========================================================================
+       Publication Legend Section Styles
+       ========================================================================== */
+
+    /* Container for the publication legend info */
+    .pub-legend-container {
+      margin: -10px 0 25px 5px;
+      padding-left: 10px;
+      border-left: 3px solid #0056b3; /* Accent line matching the PI color */
+    }
+
+    /* Typography for each legend line */
+    .legend-line {
+      margin: 4px 0;
+      font-size: 0.92rem;
+      color: #555;
+      line-height: 1.4;
+    }
+
+    /* Highlight style for the asterisk in the legend */
+    .legend-star {
+      font-weight: bold;
+      color: #0056b3;
     }
 
   /* ── Divider between entries ── */
@@ -176,7 +206,12 @@ toc: true
       >Refer to this Google Scholar Page for the Full List of Publications</a>)
     </span>
   </h1>
-  
+
+  <div class="pub-legend-container">
+    <p class="legend-line">Authors with <u><strong>underlined bold text</strong></u> represent the first authors of the publication.</p>
+    <p class="legend-line">The superscript asterisk (<span class="legend-star">*</span>) indicates the corresponding author.</p>
+  </div>
+
   <div class="pub-list">
 
     <div class="pub-item">
