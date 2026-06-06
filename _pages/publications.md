@@ -172,7 +172,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/minhee.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">From Masking to Merging: Rethinking SpecAugment for Efficient Audio Spectrogram Transformer</p>
-        <p class="pub-authors"><strong><u>Minhee Park</u></strong>, <strong>Hyowon Ahn</strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Minhee Park</u></strong>, Hyowon Ahn, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -181,7 +181,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/tvamsp.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Beyond Short Segments : Expanding Speaker Embeddings with Vector Archives</p>
-        <p class="pub-authors"><strong><u>Hyunku Kang</u></strong>, <strong>Minkyu Cho</strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Hyunku Kang</u></strong>, <strong><u>Hinkyu Cho</u></strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -190,7 +190,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/siser.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
-        <p class="pub-authors"><strong><u>Enseo Choi</u></strong>, <strong>Hyunku Kang</strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Enseo Choi</u></strong>, Hyunku Kang, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -199,7 +199,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/sungmook.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Efficient Punctuation Restoration via Weighted Lookahead Scoring Method for Streaming ASR Systems</p>
-        <p class="pub-authors"><strong><u>Sungmook Woo</u></strong>, <strong>Hyunku Kang</strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Sungmook Woo</u></strong>, Hyunku Kang, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. IJCNN, 2026.</p>
       </div>
     </div>
@@ -208,7 +208,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/doc-llm.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Enhancing Document-Level Machine Translation via filtered synthetic corpora and two-stage LLM adaptation</p>
-        <p class="pub-authors"><strong><u>Ireh Kim</u></strong>, <strong>Tesia Sker</strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Ireh Kim</u></strong>, Tesia Sker, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. ICASSP, 2026.</p>
       </div>
     </div>
@@ -217,7 +217,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/controllable-energy.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Controllable Singing Voice Synthesis using Phoneme-Level Energy Sequence</p>
-        <p class="pub-authors"><strong><u>Yerin Ryu</u></strong>, <strong>Inseop Shin</strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Yerin Ryu</u></strong>, Inseop Shin, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. ASRU, 2025.</p>
       </div>
     </div>
@@ -247,7 +247,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/wavumamba.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution</p>
-        <p class="pub-authors"><strong><u>Yongjoon Lee</u></strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><strong><u>Yongjoon Lee<sup>*</u></strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
         <p class="pub-venue">Proc. ICASSP, 2025.</p>
       </div>
     </div>
