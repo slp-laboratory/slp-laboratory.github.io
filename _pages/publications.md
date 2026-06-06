@@ -108,6 +108,24 @@ toc: true
     margin: 2px 0 0;
   }
 
+    /* First Author */
+    .first-author {
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    /* PI author */
+    .pi-author {
+        color: #0056b3; 
+        font-weight: bold;
+    }
+
+    /* Corresponding author */
+    .pub-authors sup {
+        margin-left: 2px;
+        font-weight: normal;
+    }
+
   /* ── Divider between entries ── */
   .pub-item + .pub-item {
     padding-top: 36px;
@@ -146,23 +164,26 @@ toc: true
 </style>
 </head>
 
-    <body>
+
+<body>
 <div class="page-wrapper">
 
+  <!-- ── Highlights / Recent Publications ── -->
   <h1 class="section-title">
-      Recent Publications
-      <span class="sub-link">
-        (<a href="https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao"
-        >Refer to this Google Scholar Page for the Full List of Publications</a>)
-      </span>
-    </h1>
+    Recent Publications
+    <span class="sub-link">
+      (<a href="https://scholar.google.com/citations?user=pJoZXxYAAAAJ&hl=en&oi=ao"
+      >Refer to this Google Scholar Page for the Full List of Publications</a>)
+    </span>
+  </h1>
+  
   <div class="pub-list">
 
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/sleep.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Sleep Sound Event Detection Powered by Learnable Multi-Resolution Adaptive Line Enhancer</p>
-        <p class="pub-authors"><strong><u>Chanwoo Park</u></strong> and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
         <span style="color: red;">(The Long Paper Track) - acceptance rate under 30 % </span>
       </div>
@@ -172,7 +193,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/minhee.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">From Masking to Merging: Rethinking SpecAugment for Efficient Audio Spectrogram Transformer</p>
-        <p class="pub-authors"><strong><u>Minhee Park</u></strong>, Hyowon Ahn, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Minhee Park</span>, Hyowon Ahn, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -181,7 +202,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/tvamsp.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Beyond Short Segments : Expanding Speaker Embeddings with Vector Archives</p>
-        <p class="pub-authors"><strong><u>Hyunku Kang</u></strong>, <strong><u>Hinkyu Cho</u></strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Hyunku Kang</span>, <span class="first-author">Minkyu Cho</span>, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -190,7 +211,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/siser.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
-        <p class="pub-authors"><strong><u>Enseo Choi</u></strong>, Hyunku Kang, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Enseo Choi</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
       </div>
     </div>
@@ -199,7 +220,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/sungmook.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Efficient Punctuation Restoration via Weighted Lookahead Scoring Method for Streaming ASR Systems</p>
-        <p class="pub-authors"><strong><u>Sungmook Woo</u></strong>, Hyunku Kang, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Sungmook Woo</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. IJCNN, 2026.</p>
       </div>
     </div>
@@ -208,7 +229,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/doc-llm.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Enhancing Document-Level Machine Translation via filtered synthetic corpora and two-stage LLM adaptation</p>
-        <p class="pub-authors"><strong><u>Ireh Kim</u></strong>, Tesia Sker, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Ireh Kim</span>, Tesia Sker, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ICASSP, 2026.</p>
       </div>
     </div>
@@ -217,7 +238,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/controllable-energy.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Controllable Singing Voice Synthesis using Phoneme-Level Energy Sequence</p>
-        <p class="pub-authors"><strong><u>Yerin Ryu</u></strong>, Inseop Shin, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Yerin Ryu</span>, Inseop Shin, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ASRU, 2025.</p>
       </div>
     </div>
@@ -226,7 +247,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/novelcot.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">A Novel Chain-of-Thought Reasoning Approach for Alzheimer’s Disease Detection Using Large Language and Vision-Language Models</p>
-        <p class="pub-authors"><strong><u>Chanwoo Park</u></strong> and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
         IEEE Trans. Neural Systems and Rehabilitation Engineering Nov. 2025 (TNSRE)
         <span style="color: red;">(Top 2% in the JCR category of "Rehabilitation")</span>
@@ -238,7 +259,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/resoningbasedcot.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Reasoning-Based Approach with Chain-of-Thought for Alzheimer’s Detection Using Speech and Large Language Models</p>
-        <p class="pub-authors"><strong><u>Chanwoo Park</u></strong>, Anna Seo Gyoung Choi, Sunghye Cho and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span>, Anna Seo Gyoung Choi, Sunghye Cho and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Interspeech, 2025.</p>
       </div>
     </div>
@@ -247,7 +268,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/wavumamba.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution</p>
-        <p class="pub-authors"><strong><u>Yongjoon Lee<sup>*</sup></u></strong>, and <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Yongjoon Lee</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ICASSP, 2025.</p>
       </div>
     </div>
@@ -256,7 +277,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/melt-tts.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Mels-Tts: Multi-Emotion Multi-Lingual Multi-Speaker Text-To-Speech System Via Disentangled Style Tokens</p>
-        <p class="pub-authors"><strong><u>Heejin Choi</u></strong>, Jae-Sung Bae, Joun Yeop Lee, Seongkyu Mun, Jihwan Lee, Hoon-Young Cho, <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Heejin Choi</span>, Jae-Sung Bae, Joun Yeop Lee, Seongkyu Mun, Jihwan Lee, Hoon-Young Cho, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ICASSP, 2024.</p>
       </div>
     </div>
@@ -265,7 +286,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/latent-filling.PNG" alt="Latent Filling">
       <div class="pub-info">
         <p class="pub-title">Latent Filling: Latent Space Data Augmentation for Zero-Shot Speech Synthesis</p>
-        <p class="pub-authors"><strong><u>Jae-Sung Bae</u></strong>, Joun Yeop Lee, Ji-Hyun Lee, Seongkyu Mun, Taehwa Kang, Hoon-Young Cho, <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Jae-Sung Bae</span>, Joun Yeop Lee, Ji-Hyun Lee, Seongkyu Mun, Taehwa Kang, Hoon-Young Cho, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ICASSP, 2024.</p>
       </div>
     </div>
@@ -274,7 +295,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/tica.PNG" alt="Hierarchical Timbre-Cadence">
       <div class="pub-info">
         <p class="pub-title">Hierarchical Timbre-Cadence Speaker Encoder for Zero-shot Speech Synthesis</p>
-        <p class="pub-authors"><strong><u>Joun Yeop Lee</u></strong>, Jae-Sung Bae, Seongkyu Mun, Jihwan Lee, Ji-Hyun Lee, Hoon-Young Cho, <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Joun Yeop Lee</span>, Jae-Sung Bae, Seongkyu Mun, Jihwan Lee, Ji-Hyun Lee, Hoon-Young Cho, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. INTERSPEECH, 2023.</p>
       </div>
     </div>
@@ -283,7 +304,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/ssl-accent.PNG" alt="Self-Supervised Accent Learning">
       <div class="pub-info">
         <p class="pub-title">Self-Supervised Accent Learning for Under-Resourced Accents Using Native Language Data</p>
-        <p class="pub-authors"><strong><u>Mehul Kumar</u></strong>, Jiyeon Kim, Dhananjaya Gowda, Abhinav Garg, <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Mehul Kumar</span>, Jiyeon Kim, Dhananjaya Gowda, Abhinav Garg, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. ICASSP, 2023.</p>
       </div>
     </div>
@@ -292,7 +313,7 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/conformer.PNG" alt="Conformer On-Device">
       <div class="pub-info">
         <p class="pub-title">Conformer-Based on-Device Streaming Speech Recognition with KD Compression and Two-Pass Architecture</p>
-        <p class="pub-authors"><strong><u>Jinhwan Park</u></strong>, Sichen Jin, Junmo Park, Sungsoo Kim, Dhairya Sandhyana, Changheon Lee, Myoungji Han, Jungin Lee, Seokyeong Jung, Changwoo Han, <strong>Chanwoo Kim<sup>*</sup></strong></p>
+        <p class="pub-authors"><span class="first-author">Jinhwan Park</span>, Sichen Jin, Junmo Park, Sungsoo Kim, Dhairya Sandhyana, Changheon Lee, Myoungji Han, Jungin Lee, Seokyeong Jung, Changwoo Han, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. SLT, 2022.</p>
       </div>
     </div>
@@ -301,14 +322,15 @@ toc: true
       <img class="pub-thumb" src="../assets/images/paper/macro.PNG" alt="Macro-Block Dropout">
       <div class="pub-info">
         <p class="pub-title">Macro-Block Dropout for Improved Regularization in Training End-to-End Speech Recognition Models</p>
-        <p class="pub-authors"><strong><u>Chanwoo Kim</u></strong>, Sathish Indurti, Jinhwan Park, Wonyong Sung</p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Kim</span>, Sathish Indurti, Jinhwan Park, and Wonyong Sung</p>
         <p class="pub-venue">Proc. SLT, 2022.</p>
       </div>
     </div>
 
-  </div></div>
-        </body>
+  </div><!-- /.pub-list -->
+</div><!-- /.page-wrapper -->
+</body>
 
-
+  
 
 </html>
