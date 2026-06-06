@@ -164,6 +164,7 @@ toc: true
         <p class="pub-title">Sleep Sound Event Detection Powered by Learnable Multi-Resolution Adaptive Line Enhancer</p>
         <p class="pub-authors"><b>Chanwoo Park</b> and <b>Chanwoo Kim</b></p>
         <p class="pub-venue">Proc. Interspeech, 2026.</p>
+        <span style="color: red;">(The Long Paper Track) - acceptance rate under 30 % </span>
       </div>
     </div>
 
