@@ -245,6 +245,7 @@ toc: true
           <li>Natural Language Understanding</li>
         </ul>
       </div>
+    </div>
     <div class="student" data-nosnippet>
       <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
       <div class="info">
