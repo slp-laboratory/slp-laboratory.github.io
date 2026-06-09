@@ -110,18 +110,6 @@ toc: true
       </div>
     </div>
     <div class="student" data-nosnippet>
-      <img src="../assets/images/member/MinkyuCho.jpg" alt="Minkyu Cho">
-      <div class="info">
-        <div class="name">Minkyu Cho (조민규)</div>
-        <div class="email"><strong>Email</strong>: minkyucho@korea.ac.kr</div>
-        <ul>
-          <li>Natural language Generation</li>
-          <li>Reinforcement Learning</li>
-          <li>LLM</li>
-        </ul>
-      </div>
-    </div>
-    <div class="student" data-nosnippet>
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rrrrrrrrrr" data-img="/assets/images/member/yerinegg.jpg"> Yerin Ryu (류예린)</div>
@@ -256,6 +244,7 @@ toc: true
           <li>Reinforcement Learning</li>
           <li>LLM</li>
         </ul>
+      </div>
       </div>
       <div class="student" data-nosnippet>
       <img src="../assets/images/member/dongjun.jpg" alt="Ham Yanghun">
