@@ -156,6 +156,14 @@ toc: true
   <h1 class="section-title">Projects</h1>
 
   <div class="proj-list">
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/vla_vlm.png" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">AI 기반 SoC 불량 조기 검출을 위한 모바일 게임 QA 테스트 에이전트 개발 </p>
+        <p class="proj-tag">(주) 에이아이웍스 (AIWORKX) - 산학과제 </p>
+        <p class="proj-period"> 2026.06.01 – 2027.05.31</p>
+      </div>
+    </div>
   
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/spo_project_deepfake_2026.png" alt="Project 1">
