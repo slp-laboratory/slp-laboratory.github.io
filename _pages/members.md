@@ -96,7 +96,32 @@ toc: true
           <li> LLM </li>
         </ul>
       </div>
+    </div>    
+    <div class="student" data-nosnippet>
+      <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
+      <div class="info">
+        <div class="name easter-trigger" data-sequence="rkdfmd" data-img="/assets/images/member/rkdfmd.png"> Hyunku Kang (강현구)</div>
+        <div class="email"><strong>Email</strong>: kahk000@korea.ac.kr </div>
+        <ul>
+          <li>Speech</li>
+          <li>Self Supervised Learning</li>
+          <li>Generative AI</li>
+        </ul>
+      </div>
     </div>
+    <div class="student" data-nosnippet>
+      <img src="../assets/images/member/kiyong.jpg" alt="Giyong Kim">
+      <div class="info">
+        <div class="name"> Giyong Kim (김기용)</div>
+        <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
+        <ul>
+          <li> Speech Recognition </li>
+          <li> Multimodal </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+ 
     <div class="student" data-nosnippet>
       <img src="../assets/images/member/TaewooKim.png" alt="Ham Yanghun">
       <div class="info">
@@ -175,19 +200,7 @@ toc: true
 <div class="container">
   <h1>Master Students</h1>
     <div class="profile">
-    <div class="student" data-nosnippet>
-      <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
-      <div class="info">
-        <div class="name easter-trigger" data-sequence="rkdfmd" data-img="/assets/images/member/rkdfmd.png"> Hyunku Kang (강현구)</div>
-        <div class="email"><strong>Email</strong>: kahk000@korea.ac.kr </div>
-        <ul>
-          <li>Speech</li>
-          <li>Self Supervised Learning</li>
-          <li>Generative AI</li>
-        </ul>
-      </div>
-    </div>
-    <div class="student" data-nosnippet>
+        <div class="student" data-nosnippet>
       <img src="../assets/images/member/WooSungmook.jpg" alt="Sungmook Woo">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rlwjf" data-img="/assets/images/member/sungmook.jpg"> Sungmook Woo (우성묵)</div>
@@ -199,19 +212,7 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student" data-nosnippet>
-      <img src="../assets/images/member/kiyong.jpg" alt="Giyong Kim">
-      <div class="info">
-        <div class="name"> Giyong Kim (김기용)</div>
-        <div class="email"><strong>Email</strong>: deu03216@korea.ac.kr</div>
-        <ul>
-          <li> Speech Recognition </li>
-          <li> Multimodal </li>
-          <li> LLM </li>
-        </ul>
-      </div>
-    </div>
-      <div class="student" data-nosnippet>
+     <div class="student" data-nosnippet>
       <img src="../assets/images/member/In-sub.png" alt="Inseop Shin">
       <div class="info">
         <div class="name"> Inseop Shin (신인섭)</div>
