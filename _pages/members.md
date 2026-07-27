@@ -96,6 +96,7 @@ toc: true
           <li> LLM </li>
         </ul>
       </div>
+    </div>
      <div class="student" data-nosnippet>
       <img src="../assets/images/member/TaewooKim.png" alt="Ham Yanghun">
       <div class="info">
@@ -107,7 +108,6 @@ toc: true
           <li> LLM </li>
         </ul>
       </div>
-    </div>
     </div>    
     <div class="student" data-nosnippet>
       <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
