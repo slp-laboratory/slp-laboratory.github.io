@@ -218,6 +218,19 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
+      <img class="pub-thumb" src="" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title"> A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">
+        Information Sciences 2026 (accepted)
+        <span style="color: red;"> [JCR JCI Top 10% in Computer Science, Information Systems]</span>
+        </p>
+      </div>
+    </div>
+
+
+    <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/sleep.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Sleep Sound Event Detection Powered by Learnable Multi-Resolution Adaptive Line Enhancer</p>
