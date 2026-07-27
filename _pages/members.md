@@ -96,6 +96,18 @@ toc: true
           <li> LLM </li>
         </ul>
       </div>
+     <div class="student" data-nosnippet>
+      <img src="../assets/images/member/TaewooKim.png" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Taewoo Kim (김태우)</div>
+        <div class="email"><strong>Email</strong>: rlataewoo@gmail.com </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
     </div>    
     <div class="student" data-nosnippet>
       <img src="../assets/images/member/hyunku.jpg" alt="Hyunku Kang">
@@ -122,19 +134,7 @@ toc: true
       </div>
     </div>
  
-    <div class="student" data-nosnippet>
-      <img src="../assets/images/member/TaewooKim.png" alt="Ham Yanghun">
-      <div class="info">
-        <div class="name"> Taewoo Kim (김태우)</div>
-        <div class="email"><strong>Email</strong>: rlataewoo@gmail.com </div>
-        <ul>
-          <li> Generative AI </li>
-          <li> Emotional Speech Synthesis </li>
-          <li> LLM </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student" data-nosnippet>
+   <div class="student" data-nosnippet>
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rrrrrrrrrr" data-img="/assets/images/member/yerinegg.jpg"> Yerin Ryu (류예린)</div>
