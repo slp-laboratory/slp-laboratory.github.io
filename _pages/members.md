@@ -147,18 +147,6 @@ toc: true
       </div>
     </div>
     <div class="student" data-nosnippet>
-      <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
-      <div class="info">
-        <div class="name"> Hyowon Ahn (안효원)</div>
-        <div class="email"><strong>Email</strong>: hw1204@korea.ac.kr </div>
-        <ul>
-          <li> Deep Learning </li>
-          <li> Speech </li>
-          <li> Language </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student" data-nosnippet>
       <img src="../assets/images/member/seoungwoon.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Seongwoon Cho (조성운)</div>
@@ -247,6 +235,18 @@ toc: true
         </ul>
       </div>
       </div>
+    <div class="student" data-nosnippet>
+      <img src="../assets/images/member/buzzi2.JPG" alt="Yerin Ryu">
+      <div class="info">
+        <div class="name"> Hyowon Ahn (안효원)</div>
+        <div class="email"><strong>Email</strong>: hw1204@korea.ac.kr </div>
+        <ul>
+          <li> Deep Learning </li>
+          <li> Speech </li>
+          <li> Language </li>
+        </ul>
+      </div>
+    </div>
       <div class="student" data-nosnippet>
       <img src="../assets/images/member/dongjun.jpg" alt="Ham Yanghun">
       <div class="info">
