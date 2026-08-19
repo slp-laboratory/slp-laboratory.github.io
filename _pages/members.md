@@ -36,20 +36,7 @@ toc: true
 <body>
 <div class="container">
   <h1>Ph.D. & MS/Ph.D. Students</h1>
-  <div class="profile">
     <div class="student" data-nosnippet>
-      <img src="../assets/images/member/buzzi2.JPG" alt="Chanwoo Park">
-      <div class="info">
-        <div class="name">Chanwoo Park (박찬우)</div>
-        <div class="email"><strong>Email</strong>: cksdn1290@korea.ac.kr</div>
-        <ul>
-          <li>Electroencephalography</li>
-          <li>Brain-Computer Interface</li>
-          <li>Deep Learning</li>
-        </ul>
-      </div>
-    </div>
-      <div class="student" data-nosnippet>
       <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
         <div class="name easter-trigger" data-sequence="ttttttttt" data-img="/assets/images/member/tungegg.png">Tahir Sher (타히르)</div>
@@ -188,18 +175,6 @@ toc: true
 <div class="container">
   <h1>Master Students</h1>
     <div class="profile">
-        <div class="student" data-nosnippet>
-      <img src="../assets/images/member/WooSungmook.jpg" alt="Sungmook Woo">
-      <div class="info">
-        <div class="name easter-trigger" data-sequence="rlwjf" data-img="/assets/images/member/sungmook.jpg"> Sungmook Woo (우성묵)</div>
-        <div class="email"><strong>Email</strong>: woomook0524@korea.ac.kr</div>
-        <ul>
-          <li>Speech Recognition </li>
-          <li>LLM </li>
-          <li>Deep Learning </li>
-        </ul>
-      </div>
-    </div>
      <div class="student" data-nosnippet>
       <img src="../assets/images/member/In-sub.png" alt="Inseop Shin">
       <div class="info">
@@ -313,20 +288,16 @@ toc: true
         </ul>
       </div>
     </div>
-    <div class="student" data-nosnippet>
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
-      <div class="info">
-        <div class="name"> Youngjoon Ahn (안영준)</div>
-        <div class="email"><strong>Email</strong>: ayj3490@korea.ac.kr </div>
-        <ul>
-          <li> Generative AI </li>
-          <li> Emotional Speech Synthesis </li>
-          <li> LLM </li>
-        </ul>
-      </div>
-    </div>
     <!-- Repeat for other students -->
   </div>
+</div>
+
+<div class="container">
+  <h1>Alumni</h1>
+  <ul>
+    <li>박찬우 (Ph.D), cksdn1290@korea.ac.kr</li>
+    <li>우성묵 (MS), woomook0524@korea.ac.kr</li>
+  </ul>
 </div>
 
 <div class="container">
@@ -339,7 +310,8 @@ toc: true
     <li>전우근, dugeon1117@gmail.com</li>
     <li>성연우, yw5079@korea.ac.kr</li>
   </ul>
-  </div>
+</div>
+  
 <script src="/assets/js/easteregg.js"></script>
 </body>
 </html>

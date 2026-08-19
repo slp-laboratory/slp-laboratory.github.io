@@ -218,6 +218,24 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/delta2gamma.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">Delta2Gamma: Band-Wise Adaptive Contrastive Learning of EEG Rhythms for Alzheimer's Disease Detection</p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">Proc. BioCAS, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/ale.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">Adaptive Line Enhancer-Derived ECG Separation and Weighted Reconstruction for Sleep Apena Detection</p>
+        <p class="pub-authors"><span class="first-author">Iksoo Choi</span>, Chanwoo Park, <span class="pi-author">Kyung-Joon Park</span><sup>*</sup> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">Proc. BioCAS, 2026.</p>
+      </div>
+    </div>
+
+    <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/lmmse_overview.png" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title"> A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
