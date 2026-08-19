@@ -36,6 +36,7 @@ toc: true
 <body>
 <div class="container">
   <h1>Ph.D. & MS/Ph.D. Students</h1>
+  <div class="profile">
     <div class="student" data-nosnippet>
       <img src="../assets/images/member/tahir.png" alt="Tahir Sher">
       <div class="info">
