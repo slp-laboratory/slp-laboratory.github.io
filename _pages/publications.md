@@ -222,7 +222,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Delta2Gamma: Band-Wise Adaptive Contrastive Learning of EEG Rhythms for Alzheimer's Disease Detection</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. BioCAS, 2026.</p>
+        <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), 2026.</p>
       </div>
     </div>
 
@@ -231,7 +231,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Adaptive Line Enhancer-Derived ECG Separation and Weighted Reconstruction for Sleep Apena Detection</p>
         <p class="pub-authors"><span class="first-author">Iksoo Choi</span>, Chanwoo Park, <span class="pi-author">Kyung-Joon Park</span><sup>*</sup> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. BioCAS, 2026.</p>
+        <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), 2026.</p>
       </div>
     </div>
 
@@ -308,7 +308,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Enhancing Document-Level Machine Translation via filtered synthetic corpora and two-stage LLM adaptation</p>
         <p class="pub-authors"><span class="first-author">Ireh Kim</span>, Tesia Sker, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. ICASSP, 2026.
+        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
@@ -352,7 +352,7 @@ toc: true
         <p class="pub-title">Wave-U-Mamba: An End-To-End Framework For High-Quality And Efficient Speech Super Resolution</p>
         <p class="pub-authors"><span class="first-author">Yongjoon Lee<sup>*</sup></span> and 
             <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. ICASSP, 2025.
+        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
     </p>
       </div>
@@ -363,7 +363,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Mels-Tts: Multi-Emotion Multi-Lingual Multi-Speaker Text-To-Speech System Via Disentangled Style Tokens</p>
         <p class="pub-authors"><span class="first-author">Heejin Choi</span>, Jae-Sung Bae, Joun Yeop Lee, Seongkyu Mun, Jihwan Lee, Hoon-Young Cho, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. ICASSP, 2024.
+        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
@@ -374,7 +374,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Latent Filling: Latent Space Data Augmentation for Zero-Shot Speech Synthesis</p>
         <p class="pub-authors"><span class="first-author">Jae-Sung Bae</span>, Joun Yeop Lee, Ji-Hyun Lee, Seongkyu Mun, Taehwa Kang, Hoon-Young Cho, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. ICASSP, 2024.
+        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2024.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
     </p>
       </div>
@@ -396,7 +396,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Self-Supervised Accent Learning for Under-Resourced Accents Using Native Language Data</p>
         <p class="pub-authors"><span class="first-author">Mehul Kumar</span>, Jiyeon Kim, Dhananjaya Gowda, Abhinav Garg, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. ICASSP, 2023.
+        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
