@@ -352,7 +352,7 @@ Processing (EMNLP) (Findings), Oct. 2026.
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
         IEEE Trans. Neural Systems and Rehabilitation Engineering Nov. 2025 (TNSRE)
-        <span style="color: red;">(JIF Top 2% in the JCR category of "Rehabilitation")</span>
+        <span style="color: red;">(JIF Top 1.4 % in the JCR category of "Rehabilitation")</span>
         </p>
       </div>
     </div>
