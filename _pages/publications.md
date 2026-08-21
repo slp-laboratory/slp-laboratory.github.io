@@ -244,7 +244,7 @@ Processing (EMNLP) (Findings), Oct. 2026.
       <div class="pub-info">
         <p class="pub-title">Delta2Gamma: Band-Wise Adaptive Contrastive Learning of EEG Rhythms for Alzheimer's Disease Detection</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), 2026.</p>
+        <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), Oct. 2026.</p>
       </div>
     </div>
 
@@ -253,7 +253,7 @@ Processing (EMNLP) (Findings), Oct. 2026.
       <div class="pub-info">
         <p class="pub-title">Adaptive Line Enhancer-Derived ECG Separation and Weighted Reconstruction for Sleep Apena Detection</p>
         <p class="pub-authors"><span class="first-author">Iksoo Choi</span>, Chanwoo Park, <span class="pi-author">Kyung-Joon Park</span><sup>*</sup> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), 2026.</p>
+        <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), Oct. 2026.</p>
       </div>
     </div>
 
