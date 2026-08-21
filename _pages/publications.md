@@ -218,6 +218,28 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/higraph.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">HiGraph: Explicit Discrepancy Reasoning with Hierarchical Graph Propagation for Joint Pronunciation Assessment</p>
+        <p class="pub-authors"><span class="first-author">Hyunku Kang</span>, Eunseo Choi, Ireh Kim and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">Proc. EMNLP findings, 2026.
+        <span style="color: red;">Acceptance rate under 30 % </span> 
+        <span style="color: blue;">(한국정보과학회 우수학술대회)</span></p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/tooldf.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">TOOLDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection</p>
+        <p class="pub-authors"><span class="first-author">Taewoo Kim</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">Proc. EMNLP findings, 2026.
+        <span style="color: red;">Acceptance rate under 30 % </span> 
+        <span style="color: blue;">(한국정보과학회 우수학술대회)</span></p>
+      </div>
+    </div>
+
+    <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/delta2gamma.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Delta2Gamma: Band-Wise Adaptive Contrastive Learning of EEG Rhythms for Alzheimer's Disease Detection</p>
@@ -242,7 +264,7 @@ toc: true
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
         Information Sciences 2026 (accepted)
-        <span style="color: red;"> [JCR JCI Top 10% in Computer Science, Information Systems]</span>
+          
         </p>
       </div>
     </div>
