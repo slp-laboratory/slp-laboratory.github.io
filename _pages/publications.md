@@ -285,7 +285,8 @@ Processing (EMNLP) (Findings), Oct. 2026.
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/siser.PNG" alt="Mels-TTS">
       <div class="pub-info">
-        <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
+        <p class="pub-title">SISER : Speaker Invariant Speech Emotion
+Recognition with Entropy-Based Adversarial Training</p>
         <p class="pub-authors"><span class="first-author">Eunseo Choi</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. INTERSPEECH, Sept. 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
