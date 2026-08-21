@@ -263,7 +263,7 @@ Processing (EMNLP) (Findings), Oct. 2026.
         <p class="pub-title"> A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
-        Information Sciences July 2026
+        Information Sciences, July 2026
         <span style="color: blue;">(JIF Top 18.2% in the JCR category of "Computer Science, Information Systems")</span>
         </p>
       </div>
@@ -341,7 +341,7 @@ Processing (EMNLP) (Findings), Oct. 2026.
       <div class="pub-info">
         <p class="pub-title">Controllable Singing Voice Synthesis using Phoneme-Level Energy Sequence</p>
         <p class="pub-authors"><span class="first-author">Yerin Ryu</span>, Inseop Shin, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. ASRU, 2025.</p>
+        <p class="pub-venue">Proc. ASRU, Dec. 2025.</p>
       </div>
     </div>
 
