@@ -222,7 +222,8 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">HiGraph: Explicit Discrepancy Reasoning with Hierarchical Graph Propagation for Joint Pronunciation Assessment</p>
         <p class="pub-authors"><span class="first-author">Hyunku Kang</span>, Eunseo Choi, Ireh Kim and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. EMNLP findings, 2026. 
+        <p class="pub-venue">Proc. Empirical Methods in Natural Language
+Processing (EMNLP) (Findings), 2026. 
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span></p>
       </div>
     </div>
@@ -232,7 +233,8 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">TOOLDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection</p>
         <p class="pub-authors"><span class="first-author">Taewoo Kim</span>, Younghan Lee, Namin Park and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. EMNLP findings, 2026.
+        <p class="pub-venue">Proc. Empirical Methods in Natural Language
+Processing (EMNLP) (Findings), 2026. 
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span></p>
       </div>
     </div>
@@ -261,8 +263,8 @@ toc: true
         <p class="pub-title"> A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
-        Information Sciences 2026 (accepted)
-          
+        Information Sciences July 2026
+        <span style="color: blue;">(JIF Top 18.2% in the JCR category of "Computer Science, Information Systems")</span>
         </p>
       </div>
     </div>
@@ -273,7 +275,8 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Sleep Sound Event Detection Powered by Learnable Multi-Resolution Adaptive Line Enhancer</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. INTERSPEECH, 2026. (The Long Paper Track)
+        <p class="pub-venue">Proc. INTERSPEECH, 
+        <span style="color: blue;"> (The Long Paper Track)</span>, Sept. 2026
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
@@ -284,7 +287,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">SISER : Speaker Invariant for Speech Emotion Recognition</p>
         <p class="pub-authors"><span class="first-author">Eunseo Choi</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. INTERSPEECH, 2026.
+        <p class="pub-venue">Proc. INTERSPEECH, Sept. 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
@@ -295,7 +298,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">Beyond Short Segments : Expanding Speaker Embeddings with Vector Archives</p>
         <p class="pub-authors"><span class="first-author">Hyunku Kang</span>, <span class="first-author">Minkyu Cho</span>, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. INTERSPEECH, 2026.
+        <p class="pub-venue">Proc. INTERSPEECH, Sept. 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
@@ -307,7 +310,7 @@ toc: true
       <div class="pub-info">
         <p class="pub-title">From Masking to Merging: Rethinking SpecAugment for Efficient Audio Spectrogram Transformer</p>
         <p class="pub-authors"><span class="first-author">Minhee Park</span>, Hyowon Ahn, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. INTERSPEECH, 2026.
+        <p class="pub-venue">Proc. INTERSPEECH, Sept. 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
@@ -349,7 +352,7 @@ toc: true
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
         IEEE Trans. Neural Systems and Rehabilitation Engineering Nov. 2025 (TNSRE)
-        <span style="color: red;">(Top 2% in the JCR category of "Rehabilitation")</span>
+        <span style="color: red;">(JIF Top 2% in the JCR category of "Rehabilitation")</span>
         </p>
       </div>
     </div>
