@@ -223,7 +223,7 @@ toc: true
         <p class="pub-title">HiGraph: Explicit Discrepancy Reasoning with Hierarchical Graph Propagation for Joint Pronunciation Assessment</p>
         <p class="pub-authors"><span class="first-author">Hyunku Kang</span>, Eunseo Choi, Ireh Kim and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Empirical Methods in Natural Language
-Processing (EMNLP) (Findings), 2026. 
+Processing (EMNLP) (Findings), Oct. 2026. 
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span></p>
       </div>
     </div>
@@ -234,7 +234,7 @@ Processing (EMNLP) (Findings), 2026.
         <p class="pub-title">TOOLDF: Tool-Integrated Reasoning for Mixed-Authenticity Audio Deepfake Detection</p>
         <p class="pub-authors"><span class="first-author">Taewoo Kim</span>, Younghan Lee, Namin Park and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. Empirical Methods in Natural Language
-Processing (EMNLP) (Findings), 2026. 
+Processing (EMNLP) (Findings), Oct. 2026. 
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span></p>
       </div>
     </div>
@@ -321,7 +321,7 @@ Processing (EMNLP) (Findings), 2026.
       <div class="pub-info">
         <p class="pub-title">Efficient Punctuation Restoration via Weighted Lookahead Scoring Method for Streaming ASR Systems</p>
         <p class="pub-authors"><span class="first-author">Sungmook Woo</span>, Hyunku Kang, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. IJCNN, 2026.</p>
+        <p class="pub-venue">Proc. International Joint Conference on Neural Networks (IJCNN), June, 2026.</p>
       </div>
     </div>
 
@@ -330,7 +330,7 @@ Processing (EMNLP) (Findings), 2026.
       <div class="pub-info">
         <p class="pub-title">Enhancing Document-Level Machine Translation via filtered synthetic corpora and two-stage LLM adaptation</p>
         <p class="pub-authors"><span class="first-author">Ireh Kim</span>, Tesia Sker, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
+        <p class="pub-venue">Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May, 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
         </p>
       </div>
