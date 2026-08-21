@@ -296,8 +296,8 @@ toc: true
 <div class="container">
   <h1>Alumni</h1>
   <ul>
-    <li>박찬우 (Ph.D), cksdn1290@korea.ac.kr</li>
-    <li>우성묵 (MS), woomook0524@korea.ac.kr</li>
+    <li>박찬우 (Ph.D, 2026.08), cksdn1290@korea.ac.kr</li>
+    <li>우성묵 (MS, 2026.08), woomook0524@korea.ac.kr</li>
   </ul>
 </div>
 
