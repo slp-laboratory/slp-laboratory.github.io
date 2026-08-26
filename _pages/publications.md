@@ -218,6 +218,18 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/ale_sleep.PNG" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">End-to-End Sleep Sound Event Detection from Ambient Audio via Adaptive Line Enhancer Confidence Fusion</p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">
+        IEEE Trans. On Audio, Speech and Language Processing. 2026 (TASLP)
+        <span style="color: red;">(JIF Top 8.5 % in the JCR category of "Acoustics")</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/higraph.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">HiGraph: Explicit Discrepancy Reasoning with Hierarchical Graph Propagation for Joint Pronunciation Assessment</p>
