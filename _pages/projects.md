@@ -157,7 +157,7 @@ toc: true
 
   <div class="proj-list">
     <div class="proj-item">
-      <img class="proj-thumb" src="../assets/images/projects/vla_vlm.png" alt="Project 1">
+      <img class="proj-thumb" src="../assets/images/projects/apollo.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">   노년층 인지 능력 저하 탐지를 위한 거대 언어 모델(LLM) 프롬프트 자동 최적화 기술 개발  </p>
         <p class="proj-tag">한국 연구재단 - 핵심 연구(기본연구A) </p>
