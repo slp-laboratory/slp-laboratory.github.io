@@ -218,7 +218,7 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/ale_sleep.PNG" alt="Mels-TTS">
+      <img class="pub-thumb" src="../assets/images/paper/taslp_ale.png" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">End-to-End Sleep Sound Event Detection from Ambient Audio via Adaptive Line Enhancer Confidence Fusion</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
