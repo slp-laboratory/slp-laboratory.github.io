@@ -223,7 +223,7 @@ toc: true
         <p class="pub-title">End-to-End Sleep Sound Event Detection from Ambient Audio via Adaptive Line Enhancer Confidence Fusion</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
-        IEEE Trans. On Audio, Speech and Language Processing. 2026 (TASLP)
+        IEEE Trans. On Audio, Speech and Language Processing (TASLP), Sept. 2026.
         <span style="color: red;">(JIF Top 8.5 % in the JCR category of "Acoustics")</span>
         </p>
       </div>
