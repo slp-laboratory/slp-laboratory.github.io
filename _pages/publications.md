@@ -272,7 +272,7 @@ Processing (EMNLP) (Findings), Oct. 2026.
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/lmmse_overview.png" alt="Mels-TTS">
       <div class="pub-info">
-        <p class="pub-title"> A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
+        <p class="pub-title"> LMMSE: A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
         Information Sciences, July 2026
