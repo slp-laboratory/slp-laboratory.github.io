@@ -96,5 +96,20 @@ toc: true
     <img src="../assets/images/research_area/nlu.PNG" alt="nlu">
   </div>
 </div>
+<div class="section">
+  <div class="content">
+    <h2>6. Biomedical AI & Biosignal Processing</h2>
+    <p>Developing AI-driven methods to analyze biomedical signals and healthcare data for improved health assessment, monitoring, and clinical decision support.</p>
+    <ul class="features-list">
+      <li>Analyze physiological signals such as ECG, PPG, EEG, and respiratory signals to identify meaningful health-related patterns.</li>
+      <li>Develop deep learning models for disease detection, health monitoring, and prediction using biomedical and clinical data.</li>
+      <li>Integrate heterogeneous biomedical information, including physiological signals, medical images, and clinical text, for comprehensive health assessment.</li>
+      <li>Design robust and interpretable AI systems that can support reliable decision-making in real-world healthcare environments.</li>
+    </ul>
+  </div>
+  <div class="image">
+    <img src="../assets/images/research_area/biomedical.png" alt="Biomedical AI">
+  </div>
+</div>
 </body>
 </html>
