@@ -290,7 +290,7 @@ toc: true
       </div>
     </div>
     <div class="student" data-nosnippet>
-      <img src="../assets/images/member/winwoo.jpg" alt="Ham Yanghun">
+      <img src="../assets/images/member/minwoo.jpg" alt="Ham Yanghun">
       <div class="info">
         <div class="name"> Minwoo Chun (천민우)</div>
         <div class="email"><strong>Email</strong>: minwoce@gmail.com </div>
