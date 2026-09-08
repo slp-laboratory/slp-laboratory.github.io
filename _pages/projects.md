@@ -155,6 +155,17 @@ toc: true
   <!-- ── Projects ── -->
   <h1 class="section-title">Projects</h1>
 
+    <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/spo_project_deepfake_2026.png" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">오디오 딥페이크 탐지 취약성 데이터 생성 파이프라인 SW</p>
+        <p class="proj-tag">한국전자기술연구원(KETI; Korea Electronics Institute
+Technology Institute)- 연구용역과제 </p>
+        <p class="proj-period"> 2026.09.01 – 2026.11.30</p>
+      </div>
+    </div>
+
+
   <div class="proj-list">
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/apollo.png" alt="Project 1">
