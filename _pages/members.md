@@ -110,6 +110,18 @@ toc: true
       </div>
     </div>
     <div class="student" data-nosnippet>
+      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Hayoung Lim (임하영)</div>
+        <div class="email"><strong>Email</strong>: hayoung10.lim@gmail.com </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
+    <div class="student" data-nosnippet>
       <img src="../assets/images/member/kiyong.jpg" alt="Giyong Kim">
       <div class="info">
         <div class="name"> Giyong Kim (김기용)</div>
@@ -247,6 +259,18 @@ toc: true
         </ul>
       </div>
     </div>
+    <div class="student" data-nosnippet>
+      <img src="../assets/images/member/semin.jpg" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Semin Kim (김세민)</div>
+        <div class="email"><strong>Email</strong>: smin1363@naver.com </div>
+        <ul>
+          <li> Generative AI </li>
+          <li> Emotional Speech Synthesis </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
@@ -266,25 +290,13 @@ toc: true
       </div>
     </div>
     <div class="student" data-nosnippet>
-      <img src="../assets/images/member/buzzi2.JPG" alt="Ham Yanghun">
+      <img src="../assets/images/member/minwoo.jpg" alt="Ham Yanghun">
       <div class="info">
-        <div class="name"> Hayoung Lim (임하영)</div>
-        <div class="email"><strong>Email</strong>: hayoung10.lim@gmail.com </div>
+        <div class="name"> Minwoo Chun (천민우)</div>
+        <div class="email"><strong>Email</strong>: minwoce@gmail.com </div>
         <ul>
           <li> Generative AI </li>
-          <li> Emotional Speech Synthesis </li>
-          <li> LLM </li>
-        </ul>
-      </div>
-    </div>
-    <div class="student" data-nosnippet>
-      <img src="../assets/images/member/semin.jpg" alt="Ham Yanghun">
-      <div class="info">
-        <div class="name"> Semin Kim (김세민)</div>
-        <div class="email"><strong>Email</strong>: smin1363@naver.com </div>
-        <ul>
-          <li> Generative AI </li>
-          <li> Emotional Speech Synthesis </li>
+          <li> Multimodal </li>
           <li> LLM </li>
         </ul>
       </div>

@@ -122,6 +122,11 @@ author_profile: false
       <h2>Natural Language Understanding</h2>
       <p>Our team focuses on enhancing Natural Language Understanding to better interpret human language. We aim to develop AI that comprehends context and nuanced meanings, enabling more accurate interactions.</p>
     </div>
+    <div class="research-card">
+      <img src="../assets/images/research_area/biomedical.png" alt="Brain-Computer Interface">
+      <h2>Biomedical AI & Biosignal Processing</h2>
+      <p>Our team develops AI-driven methods to analyze biosignals and multimodal healthcare data for accurate health monitoring and disease prediction. We aim to build robust, interpretable systems that support reliable clinical decision-making in real-world healthcare.</p>
+    </div>
     <!-- More cards can be added similarly -->
   </div>
   <section style="margin-top: 60px; text-align: center;">
