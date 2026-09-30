@@ -179,7 +179,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/vla_vlm.png" alt="Project 1">
       <div class="proj-info">
-        <p class="proj-title">AI 기반 SoC 불량 조기 검출을 위한 모바일 게임 QA 테스트 에이전트 개발 </p>
+        <p class="proj-title">AI 기반 SoC 불량 조기 검출을 위한 모바일 게임 QA 테스트 </p>
         <p class="proj-tag">(주) 에이아이웍스 (AIWORKX) - 산학과제 </p>
         <p class="proj-period"> 2026.06.01 – 2027.05.31</p>
       </div>
@@ -188,7 +188,8 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/spo_project_deepfake_2026.png" alt="Project 1">
       <div class="proj-info">
-        <p class="proj-title">새로운 음성합성 기술과 화자 인식에 강인한 페이크 보이스 탐지 기술 개발</p>
+        <p class="proj-title">새로운 음성합성 기술과 화자 인식에 강인한 페이크 보이스 탐지 
+            기술 개발 연구</p>
         <p class="proj-tag">대검찰청 법과학분석과 - 연구용역과제 </p>
         <p class="proj-period"> 2026.05.21 – 2026.12.04</p>
       </div>
@@ -197,7 +198,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
-        <p class="proj-title">발화 단계 실시간 개입 기반 Audio-LLM 음성 민감 정보 보호 인프라 고도화 및 사업화 </p>
+        <p class="proj-title">발화 단계 실시간 개입 기반 Audio-LLM 음성 민감정보 보호 인프라 고도화 및 사업화 </p>
         <p class="proj-tag">중소기업기술정보진흥원(Korea Technology and Information Promotion Agency for SMEs; TIPA) - 산학연 Collabo R&D(R&D) </p>
         <p class="proj-period">2026.04.01 – 2028.3.31</p>
       </div>
@@ -206,7 +207,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/iscream.png" alt="Project 1">
       <div class="proj-info">
-        <p class="proj-title">ISM 영어 독서 플랫폼 AI 음성 및 감정 분석 개발</p>
+        <p class="proj-title">영어독서플랫폼 AI 음성 및 감정 분석 API 개발</p>
         <p class="proj-tag">(주) 아이스크림 미디어 - 산학과제 </p>
         <p class="proj-period">2026.02.01 – 2026.7.31</p>
       </div>
@@ -233,7 +234,8 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/912_tipa.png" alt="Project 1">
       <div class="proj-info">
-        <p class="proj-title">LLM 기반의 민감 정보 탐지를 통해 정보 유출 방지를 위한 알고리즘 개발</p>
+        <p class="proj-title">AI 기반 실시간 음성 보호 및 LLM기반 민감 정보
+탐지를 통해 정보 유출 방지를 위한AI 동적 교란(Adversarial Perturbation) 신호 생성 기술 개발 </p>
         <p class="proj-tag">중소기업기술정보진흥원(Korea Technology and Information Promotion Agency for SMEs; TIPA) </p>
         <p class="proj-period">2025.05.01 – 2025.12.31</p>
       </div>
@@ -242,7 +244,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/starfellowship.PNG" alt="Project 3">
       <div class="proj-info">
-        <p class="proj-title">AI Star Fellowship, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
+        <p class="proj-title">AI스타펠로우십지원, 사회적 가치 정렬을 내재한 체화된 온디바이스 에이전트</p>
         <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2025.04.01 – 2030.12.31</p>
       </div>
@@ -260,7 +262,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/9-1-2_DidimDol.png" alt="Project 7">
       <div class="proj-info">
-        <p class="proj-title">GAN기반 적대적 음성 생성 메커니즘을 통한 고도화된 적대적 perturbation 생성 알고리즘 </p>
+        <p class="proj-title">GAN기반 적대적 음성 생성 메커니즘을 통한 고도화된 적대적 perturbation 생성 알고리즘 개발 </p>
         <p class="proj-tag">LINC 3.0 사업 지원과제</p>
         <p class="proj-period">2024.10.01 – 2025.01.31</p>
       </div>
@@ -269,7 +271,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/Diarization.PNG" alt="Project 2">
       <div class="proj-info">
-        <p class="proj-title">Speaker Verification & Diarization</p>
+        <p class="proj-title">고성능 한국어 화자 식별 및 인증 시스템 개발</p>
         <p class="proj-tag">(주) 엘솔루 (LLsoLLu) - 산학과제 </p>
         <p class="proj-period">2024.09.02 – 2025.08.31</p>
       </div>
@@ -278,7 +280,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/agi.png" alt="Project 4">
       <div class="proj-info">
-        <p class="proj-title">ITRC, 자가 인지 및 학습 기반 범용 인공지능 기술 개발</p>
+        <p class="proj-title">태스크에 무관한 자가 인지 및 학습 기반 범용 인공지능 핵심 기술 개발</p>
         <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2024.07.01 – 2025.12.31</p>
       </div>
@@ -288,7 +290,7 @@ Technology Institute)- 연구용역과제 </p>
     <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/koreaai.png" alt="Project 6">
       <div class="proj-info">
-        <p class="proj-title">인공지능 대학원 지원 사업</p>
+        <p class="proj-title">인공지능 대학원 지원</p>
         <p class="proj-tag">정보통신기획평가원(Institute of Information & communications Technology Planning & Evaluation; IITP)</p>
         <p class="proj-period">2024.03.01 – 2028.12.31</p>
       </div>
