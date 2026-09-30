@@ -301,6 +301,18 @@ toc: true
         </ul>
       </div>
     </div>
+    <div class="student" data-nosnippet>
+      <img src="../assets/images/member/jaehee.jpg" alt="Ham Yanghun">
+      <div class="info">
+        <div class="name"> Jayhee Kim (김재희)</div>
+        <div class="email"><strong>Email</strong>: kimjayhee323@gmail.com </div>
+        <ul>
+          <li> Speech </li>
+          <li> Multimodal </li>
+          <li> LLM </li>
+        </ul>
+      </div>
+    </div>
     <!-- Repeat for other students -->
   </div>
 </div>
