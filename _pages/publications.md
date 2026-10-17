@@ -230,19 +230,6 @@ toc: true
     </div>
 
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/pharmaceutics_overview.png" alt="Mels-TTS">
-      <div class="pub-info">
-        <p class="pub-title">
-Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab-Treated Non-Small-Cell Lung Cancer: A Model-Based Analysis
-</p>
-        <p class="pub-authors"><span class="first-author">Heungjo Kim</span>, Sungjae Lee, Hongjae Lee, Ji Won Lim, Tahir Sher, Chanwoo Kim, Junejeong Choi, Sun Min Lim, and <span class="pi-author">Min Jung Chang</span><sup>*</sup></p>
-        <p class="pub-venue">  Pharmaceutics,   Sept. 2026.
-        <span style="color: red;">(JIF Top 9.4 % in the JCR category of "Pharmacology & Pharmacy")</span>
-        </p>
-      </div>
-    </div>
-
-    <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/higraph.PNG" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">HiGraph: Explicit Discrepancy Reasoning with Hierarchical Graph Propagation for Joint Pronunciation Assessment</p>
@@ -281,6 +268,20 @@ Processing (EMNLP) (Findings), Oct. 2026.
         <p class="pub-venue">Proc. IEEE Biomedical Circuits And Systems (BioCAS), Oct. 2026.</p>
       </div>
     </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/pharmaceutics_overview.png" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">
+Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab-Treated Non-Small-Cell Lung Cancer: A Model-Based Analysis
+</p>
+        <p class="pub-authors"><span class="first-author">Heungjo Kim</span>, Sungjae Lee, Hongjae Lee, Ji Won Lim, Tahir Sher, Chanwoo Kim, Junejeong Choi, Sun Min Lim, and <span class="pi-author">Min Jung Chang</span><sup>*</sup></p>
+        <p class="pub-venue">  Pharmaceutics,   Sept. 2026.
+        <span style="color: red;">(JIF Top 9.4 % in the JCR category of "Pharmacology & Pharmacy")</span>
+        </p>
+      </div>
+    </div>
+
 
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/lmmse_overview.png" alt="Mels-TTS">
