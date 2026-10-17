@@ -280,7 +280,7 @@ toc: true
     <div class="student" data-nosnippet>
       <img src="../assets/images/member/jihan.jpeg" alt="Ham Yanghun">
       <div class="info">
-        <div class="name"> Jihan Ahn (안지한)</div>
+        <div class="name"> Jeehan Ahn (안지한)</div>
         <div class="email"><strong>Email</strong>: ajhan5552@gmail.com </div>
         <ul>
           <li> Multi-modal </li>
