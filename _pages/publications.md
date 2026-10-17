@@ -230,7 +230,7 @@ toc: true
     </div>
 
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/taslp_ale.png" alt="Mels-TTS">
+      <img class="pub-thumb" src="../assets/images/paper/pharmaceutics_overview.png" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">
 Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab-Treated Non-Small-Cell Lung Cancer: A Model-Based Analysis
