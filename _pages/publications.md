@@ -223,8 +223,21 @@ toc: true
         <p class="pub-title">End-to-End Sleep Sound Event Detection from Ambient Audio via Adaptive Line Enhancer Confidence Fusion</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
-        IEEE Trans. On Audio, Speech and Language Processing (TASLP), Sept. 2026.
+        IEEE Trans. On Audio, Speech and Language Processing (TASLP), Oct. 2026.
         <span style="color: red;">(JIF Top 8.5 % in the JCR category of "Acoustics")</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/taslp_ale.png" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title">
+Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab-Treated Non-Small-Cell Lung Cancer: A Model-Based Analysis
+</p>
+        <p class="pub-authors"><span class="first-author">Heungjo Kim</span>, Sungjae Lee, Hongjae Lee, Ji Won Lim, Tahir Sher, Chanwoo Kim, Junejeong Choi, Sun Min Lim, and <span class="pi-author">Min Jung Chang</span><sup>*</sup></p>
+        <p class="pub-venue">  Pharmaceutics,   Sept. 2026.
+        <span style="color: red;">(JIF Top 9.4 % in the JCR category of "Pharmacology & Pharmacy")</span>
         </p>
       </div>
     </div>
