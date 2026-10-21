@@ -138,7 +138,7 @@ toc: true
       <img src="../assets/images/member/Yerin.jpg" alt="Yerin Ryu">
       <div class="info">
         <div class="name easter-trigger" data-sequence="rrrrrrrrrr" data-img="/assets/images/member/yerinegg.jpg"> Yerin Ryu (류예린)</div>
-        <div class="email"><strong>Email</strong>: yerinryu000@gmail.com </div>
+        <div class="email"><strong>Email</strong>: yerinryu@korea.ac.kr </div>
         <ul>
           <li> Speech Synthesis </li>
           <li> Multimodal </li>
