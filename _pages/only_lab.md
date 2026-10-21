@@ -23,5 +23,8 @@ layout: home
 <ul style="font-size: 25px;">
   <li><strong>Lab Notion: </strong><a href="https://www.notion.so/SLP-lab-3260159c3a48806f8a82f9094f286536?source=copy_link">Link</a></li>
 </ul>
+<ul style="font-size: 25px;">
+  <li><strong>Lab Github: </strong><a href="https://github.com/slp-lab-research">Link</a></li>
+</ul>
 </body>
 </html>
