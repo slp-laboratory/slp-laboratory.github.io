@@ -156,6 +156,15 @@ toc: true
   <h1 class="section-title">Projects</h1>
 
     <div class="proj-item">
+      <img class="proj-thumb" src="../assets/images/projects/agent.png" alt="Project 1">
+      <div class="proj-info">
+        <p class="proj-title">청음 품질 지능형 자동 판정 고도화를 위한 AI모델 및 Agent개발</p>
+        <p class="proj-tag">(주) 에이아이웍스 (AIWORKX) - 산학과제 </p>
+        <p class="proj-period"> 2026.08.01 – 2026.12.31</p>
+      </div>
+    </div>
+
+    <div class="proj-item">
       <img class="proj-thumb" src="../assets/images/projects/spo_project_deepfake_2026.png" alt="Project 1">
       <div class="proj-info">
         <p class="proj-title">오디오 딥페이크 탐지 취약성 데이터 생성 파이프라인 SW</p>
