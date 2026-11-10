@@ -220,10 +220,22 @@ toc: true
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/taslp_ale.png" alt="Mels-TTS">
       <div class="pub-info">
+        <p class="pub-title">"Self-Supervised Delta2Gamma Multi-Band EEG Representation Learning for Dementia Classification </p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span>, Iksoo Choi, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">
+        IEEE Journal of Biomedical and Health Informatics (J-BHI), Nov. 2026.
+        <span style="color: red;">(JIF Top 6.7 % in the JCR category of "Mathematical & Computational Biology")</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/taslp_ale.png" alt="Mels-TTS">
+      <div class="pub-info">
         <p class="pub-title">End-to-End Sleep Sound Event Detection from Ambient Audio via Adaptive Line Enhancer Confidence Fusion</p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">
-        IEEE Trans. On Audio, Speech and Language Processing (TASLP), Oct. 2026.
+        IEEE Trans. On Audio, Speech and Language Processing (TASLP), Nov. 2026.
         <span style="color: red;">(JIF Top 8.5 % in the JCR category of "Acoustics")</span>
         </p>
       </div>
