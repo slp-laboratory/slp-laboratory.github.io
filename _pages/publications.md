@@ -218,7 +218,7 @@ toc: true
   <div class="pub-list">
 
     <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/delta2gamma.PNG" alt="Mels-TTS">
+      <img class="pub-thumb" src="../assets/images/paper/jbhi_2026_fig_2.png" alt="Mels-TTS">
       <div class="pub-info">
         <p class="pub-title">Self-Supervised Delta2Gamma Multi-Band EEG Representation Learning for Dementia Classification </p>
         <p class="pub-authors"><span class="first-author">Chanwoo Park</span>, Iksoo Choi, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
