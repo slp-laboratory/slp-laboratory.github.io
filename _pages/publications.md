@@ -295,18 +295,6 @@ Long-Term Survival Heterogeneity Across PD-L1-Defined Subgroups in Pembrolizumab
     </div>
 
 
-    <div class="pub-item">
-      <img class="pub-thumb" src="../assets/images/paper/lmmse_overview.png" alt="Mels-TTS">
-      <div class="pub-info">
-        <p class="pub-title"> LMMSE: A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
-        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
-        <p class="pub-venue">
-        Information Sciences, July 2026
-        <span style="color: blue;">(JIF Top 18.2% in the JCR category of "Computer Science, Information Systems")</span>
-        </p>
-      </div>
-    </div>
-
 
     <div class="pub-item">
       <img class="pub-thumb" src="../assets/images/paper/sleep.PNG" alt="Mels-TTS">
@@ -351,6 +339,18 @@ Recognition with Entropy-Based Adversarial Training</p>
         <p class="pub-authors"><span class="first-author">Minhee Park</span>, Hyowon Ahn, and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
         <p class="pub-venue">Proc. INTERSPEECH, Sept. 2026.
         <span style="color: blue;">(한국정보과학회 우수학술대회)</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="pub-item">
+      <img class="pub-thumb" src="../assets/images/paper/lmmse_overview.png" alt="Mels-TTS">
+      <div class="pub-info">
+        <p class="pub-title"> LMMSE: A Clinically Inspired Framework for Cognitive Evaluation of Large Language Models</p>
+        <p class="pub-authors"><span class="first-author">Chanwoo Park</span> and <span class="pi-author">Chanwoo Kim</span><sup>*</sup></p>
+        <p class="pub-venue">
+        Information Sciences, July 2026
+        <span style="color: blue;">(JIF Top 18.2% in the JCR category of "Computer Science, Information Systems")</span>
         </p>
       </div>
     </div>
